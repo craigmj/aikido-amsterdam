@@ -1,0 +1,1770 @@
+mobile:
+- name: lessons
+  en: |
+    Lessons information in English
+  nl: |
+    Les informatie in Nederlands.
+- name: times
+  en: |
+    Times information in English
+  nl: |
+    Tijden informatie in Nederlands.
+- name: fees
+  en: |
+    Fees information in English
+  nl: |
+    Kosten informatie in Nederlands.
+- name: agenda
+  en: |
+    Agenda information in English
+  nl: |
+    Agenda informatie in Nederlands.
+- name: who
+  en: |
+    Who information in English
+  nl: |
+    Dit zijn wij informatie in Nederlands.
+pages:
+- name: home
+  tiles:
+  - alias: ""
+    tile: 0,0,3,2
+    img: /img/upload/180305-132007.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,0,1,1
+    img: ""
+    en: class times
+    nl: lestijden
+    link: times
+    class:
+    - white
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,1,1,1
+    img: ""
+    en: Classes
+    nl: Lessen
+    link: lessons
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,1,1,1
+    img: ""
+    en: Children
+    nl: Kinderen
+    link: children
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,1,1,1
+    img: ""
+    en: Fees
+    nl: Tarieven
+    link: fees
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,2,1,1
+    img: ""
+    en: Aikido
+    nl: Aikido
+    link: aikido
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,2,1,1
+    img: ""
+    en: Dojo + Members
+    nl: Dojo + Leden
+    link: members
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,2,2,2
+    img: /img/upload/180306-150635.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,3,1,1
+    img: ""
+    en: Charity
+    nl: Charity
+    link: charity
+    class:
+    - gray
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,3,1,1
+    img: ""
+    en: News
+    nl: Nieuws
+    link: news
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,4,1,1
+    img: ""
+    en: this is us
+    nl: dit zijn wij
+    link: who
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+- name: charity
+  tiles:
+  - alias: ""
+    tile: 0,0,2,2
+    img: /img/upload/180306-151006.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,0,2,2
+    img: ""
+    en: |
+      Tom Dijkman has a big commitment to South Africa. On the one hand because his relationship with Craig Mason-Jones  of Cape Town Aikido, where he gifs every year a "Friendship" seminar. And on the other hand because of his relation with Shona McDonald of the Uhambo Foundation.
+
+
+      Shona is founder of Shonaquip and the Uhambo Foundation in South Africa. Shonaquip developes and delivers wheelchares for disabled in whole South Africa, amongst the townships.
+      The Uhambo Foundation provides education and developed projects in disadvantaged areas to include disabled people in society.
+      Tom Dijkman Supports with Aikido Amsterdam the Uhambo Foundation with the Two Euro Fifty project. From every member there goes EU 2,50 monthly to Uhambo. This year Tom handed over a cheque with the ammount of € 1000,00 to Shona McDonald.
+    nl: "Tom Dijkman heeft een grote verbintenis met Zuid Afrika. Enerzijds door zijn
+      relatie met Craig Mason-Jones van Cape Town Aikido, waar hij elk jaar een weekend
+      \"Friendship\" seminar geeft. En anderzijds door zijn relatie met Shona McDonald
+      van de Uhambo Foundation.\n\n\nShona is oprichter van Shonaquip en de Uhambo
+      Foundation in Zuid Afrika. Shonaquip ontwikkeld en levert rolstoelen voor gehandicapten
+      in slecht bereikbare gebieden in Zuid Afrika, onder andere in de Townships.
+      \nDe Uhambo Foundation verzorgt voorlichting en ontwikkeld projecten in achterstandsgebieden
+      om gehandicapte kinderen op te nemen in de maatschappij.\nTom Dijkman steunt
+      via Aikido Amsterdam de Uhambo Foundation met het Twee Euro Vijftig project.
+      Van elk lid van Aikido Amsterdam wordt maandelijks een bedrag van EU 2,50 gereserveerd
+      voor Uhambo. Dit jaar heeft Tom Dijkman aan cheque met een bedrag van € 1000,00
+      aan Shona overhandigd.\n\n"
+    link: ""
+    class:
+    - darkgray
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,2,2,1
+    img: ""
+    en: |-
+      We as Aikido Amsterdam have decided to increase our monthly contribution by an amount of EU 2.50. The proceeds will be fully benefited by the Uhambo Foundation in South Africa.
+
+      "With great pleasure I come to explain to you what the Uhambo Foundation stands for"
+
+      Tom Dijkman
+      Aikido Amsterdam
+    nl: |+
+      Wij hebben als Aikido Amsterdam besloten om onze maandelijkse contributie te verhogen met een bedrag van EU 2,50. De opbrengsten hiervan komen volledig ten goede aan de Uhambo Foundation in Zuid Afrika.
+
+      "Met veel plezier kom ik jullie uitleggen waar de Uhambo Foundation voor staat"
+
+      Tom Dijkman
+      Aikido Amsterdam
+
+    link: ""
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,2,2,2
+    img: /img/upload/180306-151045.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,3,2,1
+    img: /img/upload/180306-150915.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,4,1,1
+    img: ""
+    en: This is us
+    nl: Dit zijn wij
+    link: who
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+- name: aikido
+  tiles:
+  - alias: ""
+    tile: 0,0,2,1
+    img: ""
+    en: "<h1>What is Aikido?</h1> <ol>\n<h1>Aikido is a martial art, developed in
+      the beginning of the 20st centurie by Morihei Ueshiba. Since 1999 his son Moriteru
+      Ueshiba is responsible for the continuing of the linage of Morihei Ueshiba\n\nThe
+      goal is to bild a basic structure within a martial setting. In comparence to
+      other martial arts there is no competition in Aikido, The art focuses on selfdefence.\n\nThe
+      practisioner takes the initiative to get the situation under controle. By having
+      and maintaining a correct fysical and mentaly attitude the partner is brought
+      out of balance en put down with a throw or a lock.\n<h1>\n  \n       \n"
+    nl: "<h1>Wat is Aikido?</h1> <ol>\n<h1>Aikido is een krijgsdicipline, ook wel
+      martial art genoemd, ontwikkeld in het begin van de 20e eeuw door Morihei Ueshiba.
+      Sinds 1999 is zijn kleinzoon Moriteru Ueshiba verantwoordelijk voor het voortzetten
+      van de lijn van Morihei Ueshiba\n\nHet doel is in een matriale context met een
+      partner de basisprincipes eigen maken. In tegenstelling tot de meeste vechtsporten
+      is in Aikido iedere vorm van competitie afwezig. Aikido richt zich op de vedediging.\nDe
+      beoefenaar neemt het initiatief over om de situatie onder controle te krijgen.
+      Door het hebben en behouden van een juiste fysieke en mentale houding wordt
+      de partner uit evenwicht gebracht en uitgeschakeld met een klem of worp.\n\n<h1>\n
+      \ \n       "
+    link: ""
+    class:
+    - darkgray
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,1,1,1
+    img: ""
+    en: Classes
+    nl: Lessen
+    link: lessons
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,1,1,1
+    img: /img/upload/AIKIDO-2-2-1-1.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,2,1,1
+    img: ""
+    en: Class times
+    nl: Lestijden
+    link: times
+    class:
+    - gray
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,2,1,1
+    img: ""
+    en: Fees
+    nl: Tarieven
+    link: fees
+    class:
+    - white
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,0,2,3
+    img: /img/upload/AIKIDO-1-3-2-3.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,3,1,1
+    img: ""
+    en: Charity
+    nl: Charity
+    link: charity
+    class:
+    - white
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,3,1,1
+    img: ""
+    en: News
+    nl: Nieuws
+    link: news
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,3,1,1
+    img: ""
+    en: Dojo + Members
+    nl: Dojo + leden
+    link: members
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,3,1,1
+    img: ""
+    en: Children
+    nl: Kinders
+    link: children
+    class:
+    - white
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,4,1,1
+    img: ""
+    en: This is us
+    nl: Dit zijn wiz
+    link: who
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+- name: lessons
+  tiles:
+  - alias: ""
+    tile: 0,0,2,2
+    img: ""
+    en: |
+      <h1>To begin</h1> <p>Everyone is welcome in the dojos. There are no expectations, other than those that you come with. At your own pace, attuned to who you are, you start the research and learn step by step to apply techniques, fall, roll and protect yourself under increasing pressure.
+
+      And then...
+      The training in the dojos of Aikido Amsterdam is dynamic and physical. The emphasis is on the connection with the partner. Aikido can be practiced at all ages. There are clear agreements about the course of the exercises and the role of the partners. This makes the dojo a stimulating and safe place to train.
+      The lessons are mixed men and women. The only willingness is to grow physically and take you mentally. In this way you achieve the optimal balance within your personal physical and mental boundaries. Your own development process is central.</p>
+    nl: |
+      <h1>Om te beginnen</h1> <p>Iedereen is welkom in de dojo's. Er worden geen verwachtingen gesteld, anders dan die waar jezelf mee komt. In je eigen tempo, afgestemd op wie je bent, begin je aan het onderzoek en leer je stap voor stap technieken toepassen, vallen, rollen en jezelf te beschermen onder toenemende druk.
+
+      En dan...
+      De training in de dojo's van Aikido Amsterdam is dynamisch en fysiek. De nadruk ligt op de verbinding met de partner. Aikido kan op alle leeftijden beoefend worden. Er zijn duidelijke afspraken over het verloop van de oefeningen en de rol van de partners. Dit maakt de dojo een stimulerende en veilige plek om te trainen.
+      De lessen zijn gemengd mannen en vrouwen. De enige bereidheid is om fysiek te groeien en je mentaal mee te laten nemen. Op deze manier kom je tot het optimale evenwicht binnen je persoonlijke fysieke en mentale grenzen. Je eigen ontwikkelingsproces staat centraal.
+
+
+      </p>
+    link: ""
+    class:
+    - darkgray
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,0,2,2
+    img: /img/upload/180306-151650.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,2,2,2
+    img: /img/upload/180306-155834.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,3,1,1
+    img: ""
+    en: Fees
+    nl: Tarieven
+    link: fees
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,1,1,1
+    img: ""
+    en: Class times
+    nl: Lestijden
+    link: times
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,2,2,1
+    img: ""
+    en: |
+      <p>The lessons are given by Tom Dijkman and Andra Perrin.
+
+      Tom has been practicing Aikido for more than 25 years and continues to deepen. For this he travels a lot in the Netherlands and abroad. Moreover, he goes to Japan annually for inspiration and training.
+
+      Andra practiced Aikido since 2005. Together with Tom she teaches the toddler classes and the parent / child class. Furthermore she gives the beginner's lesson on Thursday and takes the lessons when Tom is gone.</p>
+    nl: |
+      <p>De lessen worden gegeven door Tom Dijkman en Andra Perrin.
+
+      Tom beoefent al ruim 25 jaar Aikido en blijft zich verdiepen. Hiervoor reist hij veel in binnen- en buitenland. Bovendien gaat hij jaarlijks naar Japan voor inspiratie en training.
+
+      Andra beoefend Aikido sinds 2005. Zij geeft samen met Tom de peuter, kleuterlessen en de ouder/ kindles. Verder geeft zij vast de beginnersles op donderdag en neemt de lessen waar als Tom weg is.</p>
+    link: ""
+    class:
+    - gray
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,3,1,1
+    img: ""
+    en: Dojo + Members
+    nl: Dojo + leden
+    link: members
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,3,1,1
+    img: ""
+    en: Aikido
+    nl: Aikido
+    link: aikido
+    class:
+    - white
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,4,1,1
+    img: ""
+    en: This is us
+    nl: Dit zijn wij
+    link: who
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+- name: times
+  tiles:
+  - alias: ""
+    tile: 0,0,1,1
+    img: ""
+    en: "<h1>Palmstraat</h1> <h2>Monday</h2>\n\n|From|To|Class|\n|15:45|16:45|children(4-9)|\n|17:00|18:00|children(10-15)|\n|18:30|19:30|beginners|\n\n\n<div
+      class=\"classtimes\">\n  <div>15:45</div>\n  <div>16:45</div>\n  <div>children
+      (4-9)</div>\n\n  <div>17:00</div>\n  <div>18:00</div>\n  <div>children (10-15)</div>\n\n
+      \ <div>18:30</div>\n  <div>19:30</div>\n  <div>beginners</div>\n\n  <div>19:30</div>\n
+      \ <div>20:30</div>\n  <div>all</div>\n\n  <div>20:30</div>\n  <div>21:30</div>\n
+      \ <div>advanced</div>\n</div>    \n"
+    nl: |
+      <h1>Palmstraat</h1> <h2>Maandag</h2>
+      <div class="classtimes">
+        <div>15:45</div>
+        <div>16:45</div>
+        <div>kinderen (4-9)</div>
+
+        <div>17:00</div>
+        <div>18:00</div>
+        <div>kinderen (10-15)</div>
+
+        <div>18:30</div>
+        <div>19:30</div>
+        <div>Beginners</div>
+
+        <div>19:30</div>
+        <div>20:30</div>
+        <div>allen</div>
+
+        <div>20:30</div>
+        <div>21:30</div>
+        <div>gevordered</div>
+      </div>
+    link: ""
+    class:
+    - darkgray
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,0,1,1
+    img: ""
+    en: |
+      <h1>Wenckebachweg</h1> <h2>Wednesday</h2> <div class="classtimes">
+        <div>13:45</div>
+        <div>14:45</div>
+        <div>youngsters</div>
+
+        <div>15:15</div>
+        <div>16:15</div>
+        <div>parents/children</div>
+
+        <div>19:00</div>
+        <div>20:00</div>
+        <div>beginners</div>
+
+        <div>20:30</div>
+        <div>21:30</div>
+        <div>all</div>
+      </div>
+    nl: |
+      <h1>Wenckebachweg</h1> <h2>Woensdag</h2> <div class="classtimes">
+        <div>13:45</div>
+        <div>14:45</div>
+        <div>peuters/kleuters</div>
+
+        <div>15:15</div>
+        <div>16:15</div>
+        <div>ouders/kind</div>
+
+        <div>19:00</div>
+        <div>20:00</div>
+        <div>beginners</div>
+
+        <div>20:30</div>
+        <div>21:30</div>
+        <div>allen</div>
+      </div>
+    link: ""
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,0,1,1
+    img: ""
+    en: |
+      <h1>Palmstraat</h1> <h2>Thursday</h2> <div class="classtimes">
+        <div>19:30</div>
+        <div>20:30</div>
+        <div>beginners</div>
+
+        <div>20:30</div>
+        <div>21:30</div>
+        <div>all</div>
+      </div>
+    nl: |
+      <h1>Palmstraat</h1> <h2>Donderdag</h2> <div class="classtimes">
+        <div>19:30</div>
+        <div>20:30</div>
+        <div>beginners</div>
+
+        <div>20:30</div>
+        <div>21:30</div>
+        <div>allen</div>
+      </div>
+    link: ""
+    class:
+    - darkgray
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,2,1,1
+    img: ""
+    en: Fees
+    nl: tarieven
+    link: fees
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,1,1,1
+    img: ""
+    en: |
+      <h1>Palmstraat</h1> <h2>Friday</h2> <div class="classtimes">
+        <div>9:00</div>
+        <div>10:00</div>
+        <div>beginners</div>
+
+        <div>10:30</div>
+        <div>12:00</div>
+        <div>chi kung</div>
+
+        <div>15:45</div>
+        <div>16:45</div>
+        <div>youngsters</div>
+
+        <div>17:00</div>
+        <div>18:00</div>
+        <div>parents/children</div>
+      </div>
+    nl: |
+      <h1>Palmstraat</h1> <h2>Vrijdag</h2> <div class="classtimes">
+        <div>9:00</div>
+        <div>10:00</div>
+        <div>beginners</div>
+
+        <div>10:30</div>
+        <div>12:00</div>
+        <div>chi kung</div>
+
+        <div>15:45</div>
+        <div>16:45</div>
+        <div>peuters/kleuters</div>
+
+        <div>17:00</div>
+        <div>18:00</div>
+        <div>ouders/kind</div>
+      </div>
+    link: ""
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,2,1,1
+    img: ""
+    en: Classes
+    nl: lessen
+    link: lessons
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,1,1,1
+    img: ""
+    en: |
+      <h1>Palmstraat</h1> <h2>Tuesday</h2> <div class="classtimes">
+        <div>12:30</div>
+        <div>13:30</div>
+        <div>Lunch class</div>
+
+        <div>13:30</div>
+        <div>14:30</div>
+        <div>Weapons</div>
+      </div>
+    nl: |
+      <h1>Palmstraat</h1> <h2>Dinsdag</h2> <div class="classtimes">
+        <div>12:30</div>
+        <div>13:30</div>
+        <div>Lunch class</div>
+
+        <div>13:30</div>
+        <div>14:30</div>
+        <div>Wapens</div>
+      </div>
+    link: ""
+    class:
+    - darkgray
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,1,1,1
+    img: ""
+    en: children
+    nl: Kinderen
+    link: children
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,3,1,1
+    img: ""
+    en: Charity
+    nl: Charity
+    link: charity
+    class:
+    - transparent
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,2,1,1
+    img: ""
+    en: News
+    nl: Nieuws
+    link: news
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,3,1,1
+    img: ""
+    en: Dojo + Members
+    nl: Dojo + leden
+    link: members
+    class:
+    - darkgray
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,4,1,1
+    img: ""
+    en: This is us
+    nl: Dit zijn wij
+    link: who
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,1,1,1
+    img: /img/upload/00f9523d30e3bea5957ce1c5603c8be1.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class:
+    - transparent
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,2,1,2
+    img: /img/upload/32eac69ea1ae3caf8de6a5be249dd1e9.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,3,2,1
+    img: /img/upload/42c5af8b4abe1b49b351f3d5448cb633.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,0,1,1
+    img: /img/upload/9549fd0d9ab04ab581f6f274f75307f9.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+- name: fees
+  tiles:
+  - alias: ""
+    tile: 0,0,1,1
+    img: /img/upload/180306-160953.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,0,2,2
+    img: ""
+    en: "<p>\n\nAdults\t\t \t\t\t\tEU 42,40 monthly  \n\n\t\t\t\t\t\t\tEU 440,- yearly\n\nKids\t
+      \   \t\t\t\tEU 360,- yearly\n\nToddlers/ Prescholers-\t\tEU 40,-  monthly\n\nDutch
+      Aikikai Foundation \tEU 35,- yearly adults\n\n                         \tEU
+      15,- yearly kids\n                         \nGebouw De Palm onderhoud \tEU 20,-
+      yearly\n \nPayments on accountnumber NL32INGB0751857599 in the name of T.G.B.
+      Dijkman.\n\n</p>\n"
+    nl: "<p>\n\nVolwassenen \t\t\t\tEU 42,40 per maand  \n\n\t\t\t\t\t\t\tEU 440,-
+      per jaar\n\nKinderen    \t\t\t\tEU 360,- per jaar\n\nPeuters/ Kleuters \t\t\tEU
+      40,- per maand\n\nDutch Aikikai Foundation \tEU 35,- per jaar volw\n\n                         \tEU
+      15,- per jaar Kids\n                         \nGebouw De Palm onderhoud \tEU
+      20,- per jaar\n \nBetalingen op banknummer NL32INGB0751857599 ten name van T.G.B.
+      Dijkman.\n\n</p>\n"
+    link: ""
+    class:
+    - darkgray
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,0,1,2
+    img: /img/upload/180306-160702.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,1,1,1
+    img: ""
+    en: Class times
+    nl: Lestijden
+    link: times
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,2,2,1
+    img: /img/upload/180306-163834.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,2,1,1
+    img: ""
+    en: Classes
+    nl: Lessen
+    link: lessons
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,2,1,1
+    img: ""
+    en: Children
+    nl: Kinderen
+    link: children
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,3,1,1
+    img: ""
+    en: Charity
+    nl: Charity
+    link: charity
+    class:
+    - white
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,3,1,1
+    img: ""
+    en: News
+    nl: Nieuws
+    link: news
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,3,1,1
+    img: ""
+    en: Dojo + Members
+    nl: Dojo + leden
+    link: members
+    class:
+    - darkgray
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,3,1,1
+    img: ""
+    en: ""
+    nl: ""
+    link: ""
+    class:
+    - white
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,4,1,1
+    img: ""
+    en: This is us
+    nl: Dit zijn wiz
+    link: who
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+- name: children
+  tiles:
+  - alias: ""
+    tile: 0,0,2,2
+    img: /img/upload/180306-164441.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,0,1,1
+    img: ""
+    en: |+
+      <h1>Youngsters from 3 - 6 years</h1>
+
+      <p>The children learn the basic principles of Aikido such as: balanced standing, falling, rolling and Japanese counting.</p>
+
+    nl: |+
+      <h1>Peuters &amp; kleuters van 3 - 6 jaar</h1>
+
+      <p>De kinderen leren de basis  principes van Aikido zoals: evenwichtig staan, vallen, rollen en japans tellen.</p>
+
+
+    link: ""
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,0,1,1
+    img: ""
+    en: |
+      <p>Small groups, individual attention and overall great fun.</p>
+    nl: |
+      <p>Kleine groepen, veel individuele aandacht en vooral heel veel plezier!</p>
+    link: ""
+    class:
+    - center
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,1,1,1
+    img: ""
+    en: BUDO KIDS
+    nl: BUDO KIDS
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,1,1,1
+    img: /img/upload/7003e1c396f2aad0f58e660c969286c2.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,2,1,1
+    img: ""
+    en: "<h1>Children 6 - 12 years</h1> \n\nThe attention within the lessons and the
+      exams are based on 3 things; Falling and rolling from various positions. The
+      etiquette within Aikido and the techniques."
+    nl: "<h1>Kindered 6 - 12 jaar</h1> \n\nDe aandacht binnen de lessen en de examens
+      gaan uit van 3 dingen; Vallen en rollen vanuit diverse posities. De etiquette
+      binenn Aikido en de technieken.\n"
+    link: ""
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,2,1,1
+    img: ""
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,2,1,1
+    img: ""
+    en: "<h1>Parent/kids classes as from 6 years</h1> \n  <p>Aikido where parents
+      can participate with their children.\n  From 6 to 14 years<br />\n  "
+    nl: "<h1>Ouders/kind lessen vanaf 6 jaar</h1> \n  <p>Aikido waarbij ouders mogen
+      deelnemen met hun kinderen.\n  Vanaf 6 tot 14 jaar<br />\n  \n"
+    link: ""
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,2,1,1
+    img: ""
+    en: |
+      <p>Super fun and quality time with your child!</p>
+    nl: |
+      <p>Superleuk om to deon en quality time met je kind!</p>
+    link: ""
+    class:
+    - center
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,3,1,1
+    img: ""
+    en: "<h1>Young adult 13 - 17 years</h1>   \n<p>To interact with each other in
+      a physical way. Being treated adultly and be more resilient both mentally and
+      physically<br />\n  "
+    nl: "<h1>Jong Volwassenen 13-17 jaar</h1> \n  <p>Met elkaar op een fysieke manier
+      een interactie aangaan. Volwassen behandeld worden en weerbaarder te zijn zowel
+      mentaal als fysiek<br />\n  \n"
+    link: ""
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,3,2,1
+    img: /img/upload/c2ae9da84c0c8f55454c17ed2f706368.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,4,1,1
+    img: ""
+    en: This is us
+    nl: Dit zijn wiz
+    link: who
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,3,1,1
+    img: ""
+    en: ""
+    nl: ""
+    link: ""
+    class:
+    - white
+    member_name: ""
+    member_age: ""
+- name: who
+  tiles:
+  - alias: ""
+    tile: 0,0,1,1
+    img: ""
+    en: |
+      <h1>Tom Dijkman (47)</h1> <p>Is the instructor of Aikido Amsterdam. He has practiced Aikido for over 25 years. In 2013 he received the 5th Dan in Aikikai Aikido. He regularly travels the world to  learn more and to deepen his understanding. Most classes are taught by Tom, and the other play a supporting role and fill in when Tom is away.</p>
+    nl: |
+      <h1>Tom Dijkman (47)</h1> <p>Is de oprichter van Aikido Amsterdam. Al meer dan 25 jaar beoefent hij Aikido. In 2013 werd hem de 5de Dan Aikikai Aikido uitgereikt. Hij reist regelmatig de wereld rond om zich verder to verdiepen en te blijven ontwikkelen. De meeste lessen worden door Tom  gegeven, een aantal mensen spelen daarbij een aanvullende rol en vervangen hom bij afwezigheid. </p>
+    link: ""
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,0,1,1
+    img: /img/upload/WHO-2-1-1-1.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,0,1,1
+    img: ""
+    en: |
+      <h1>Andra Perrin (44)</h1> <p>Practicing Aikido since 2005 and 3rd Dan Aikikai Aikido since 2017. She teaches the youngsters and parents/children classes with Tom. On Thursdays she gives the first hour of the beginners' class. Andra is also a shiatsu therapist and teaches Chi Kung.</p>
+    nl: |
+      <h1>Andra Perrin (44)</h1> <p>Beoefent aikido sinds 2005 enheeft sinds 2017 de 3de Dan Aikikai Aikido. Zij geeft samen met Tom de peuter, kleuterlessen en de ouder/kindles. Op donerdag geeft zij het eerste uur de beginngersles. Andra is daarnaast shiatsu therapeut en geeft Chi kung lessen.</p>
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,0,1,1
+    img: /img/upload/WHO-4-1-1-1.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,1,1,1
+    img: /img/upload/180303-161659.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,1,1,1
+    img: ""
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,1,1,1
+    img: /img/upload/WHO-3-2-1-1.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,1,1,1
+    img: ""
+    en: |
+      <h1>Dennis Ter Haar (40)</h1> <p>Has practiced aikido since December 2000 and has since 2014 the 2nd Dan Aikikai Aikido. Dennis has been training with Tom Dijkman for a long time and regularly replaces classes within the Dojo of Aikido Amsterdam. Dennis has the gift to give shape to his lessons with great attention to detail. Dennis gets a lot of inspiration for his lessons from the clear aikido style of Christian Tissier Shihan.</p>
+    nl: |
+      <h1>Dennis Ter Haar (40)</h1> <p>Beoefent aikido sinds december 2000 en heeft sinds 2014 de 2de Dan Aikikai Aikido. Dennis traint al lange tijd bij Tom Dijkman en vervangt regelmatig lessen binnen de Dojo van Aikido Amsterdam. Dennis heeft de gave om met veel aandacht voor detail zijn lessen vorm te geven.Veel inspiratie voor zijn lessen haalt Dennis uit de heldere aikido stijl van Christian Tissier Shihan.</p>
+    link: ""
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,2,1,2
+    img: ""
+    en: |+
+      <h1>Aurel Chaoul Pelleg (50)</h1> <p>Aurel practiced already 32 Aikido is 1st Dan Aikikai Aikido. He has successfully completed the teacher training program of Aikido Netherlands. Aurel is permanent assistant and replacement for the various children's lessons in the Dojo. Aurel has a gift to deal with children and is the permanent trust person within the dojo. Besides Aikido Aurel works as a therapist with personal energy management, and he is intensely involved in permaculture projects in and around Amsterdam, for private and public purposes.</p>
+
+
+    nl: |+
+      <h1>Aurel Chaoul Pelleg (50)</h1> <p>Aurel beoefend al 32 Aikido is 1st Dan Aikikai Aikido. Hij heeft met success de lerarent opleiding van Aikido Nederland afgerond. Aurel is vaste assistent en vervanger bij de verschillende kinderlessen in de Dojo. Aurel heeft een gave om met kinderen om te gaan en is de vaste vertrouwens-persoon binnen de dojo. Naast Aikido werkt Aurel als therapeut met persoonlijke energie management, en is hij intens betrokken bij permacultuur projecten in en rondom Amsterdam, voor prive' en openbare doeleinden.</p>
+
+    link: ""
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,2,1,1
+    img: /img/upload/WHO-2-3-1-1.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,2,1,2
+    img: ""
+    en: |+
+      <h1>Andrea Raviglione (45)</h1> <p>Andrea has been practicing Aikido for more than 15 years, he is 3rd Dan Aikikai Aikido and has his own dojo built in Stavanger, Norway. He currently lives and works in the Netherlands and is associated with Aikido Amsterdam. For Andrea Aikido's is his only passion and drive in life and he travels around the world to see various teachers. Andrea is together with Andra the permanent replacement for Tom if he is not present.</p>
+
+
+    nl: |
+      <h1>Andrea Raviglione (45)</h1> <p>Andrea beoefend al meer dan 15 jaar Aikido, is 3de Dan Aikikai Aikido en heeft een eigen dojo opgebouwd in Stavanger, Noorwegen. Op dit moment woont en werkt hij in Nederland en is verbonden aan Aikido Amsterdam. Andrea heeft Aikido als enige passie en drive in het leven en reist de hele wereld rond om diverse leraren te zien. Andrea is samen met ndra de vaste vervanger voor Tom als hij niet aanwezig is.</p>
+    link: ""
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,2,1,1
+    img: /img/upload/WHO-4-3-1-1.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,3,1,1
+    img: ""
+    en: |
+      <h1>Coen Septer (47)</h1> <p>Has been a member at Aikido Amsterdam since the restriction. He is the regular designer of everything around Aikido Amsterdam. Besides training Aikido weekly, he is a passionate birder, and a great draftsman.</p>
+    nl: |
+      <h1>Coen Septer (47)</h1> <p>Is lid bij Aikido Amsterdam sinds de oprichting. Hij is de vaste ontwerper van alles rondom Aikido Amsterdam. Naast dat hij wekelijks Aikido traint is hij een gepassioneerde vogelaar, en geweldig tekenaar.</p>
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,3,1,1
+    img: ""
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+- name: calendar
+  tiles:
+  - alias: ""
+    tile: 0,1,1,1
+    img: ""
+    en: News
+    nl: Nieuws
+    link: news
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,2,1,1
+    img: ""
+    en: Aikido
+    nl: Aikido
+    link: aikido
+    class:
+    - white
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,0,1,1
+    img: /img/upload/180306-153912.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,1,1,2
+    img: /img/upload/edb7badc65c1a053364f706d53b4fb9d.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,3,1,1
+    img: ""
+    en: Fees
+    nl: Tarieven
+    link: fees
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,2,2,2
+    img: /img/upload/180306-152839.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,0,1,1
+    img: ""
+    en: Dojo + Members
+    nl: Dojo + Leden
+    link: members
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,3,1,1
+    img: ""
+    en: Lessons
+    nl: Lessen
+    link: lessons
+    class:
+    - white
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,4,1,1
+    img: ""
+    en: This is us
+    nl: Dit zijn wij
+    link: who
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,0,2,2
+    img: ""
+    en: |
+      Here is the calendar.
+    nl: |
+      Hier is die kalendaar.
+    link: ""
+    class:
+    - darkgray
+    member_name: ""
+    member_age: ""
+- name: members
+  tiles:
+  - alias: ""
+    tile: 0,0,1,1
+    img: /img/upload/180303-131215.jpg
+    en: Born in German, raised in Bulgaria. Im my daily life I work as a radiodiagnosticitic
+      laboratory assistant in a hospical. At Aikido Amsterdam I enjoy the personal
+      feedback and manner of motivation.
+    nl: Geboren in Duitsland, opgegroeid in Bulgarije. In he dagelijkse leven hou
+      ik mij bezig als radiodiagnostisch laborant in een ziekenhuis. Bij Aikido Amsterdam
+      geniet ik van de persoonlijke feedback en manier van motieveren.
+    link: ""
+    class:
+    - red
+    member_name: Simion
+    member_age: "24"
+  - alias: ""
+    tile: 1,0,1,1
+    img: /img/upload/180303-130905.jpg
+    en: I like it because if someone attacks you, you already have a technique in
+      your head that you can use to defend yourself.
+    nl: |+
+      Ik vind he leuk omdat als iemand je aanvalt, dan heb je al een techniek in je hoofd waarmee je je kan verdedigen.
+
+    link: ""
+    class:
+    - white
+    member_name: Kymanni
+    member_age: "9"
+  - alias: ""
+    tile: 2,0,1,1
+    img: /img/upload/180303-115936.jpg
+    en: PhD student who lives and works in Amsterdam. I do research into how I can
+      stimulate good sleeping among children. There is always a good atmosphere in
+      the dojo and there is attention for everyone at every level.
+    nl: PhD student die woont en werkt in Amsterdam. Ik doe onderzoek naar hoe ik
+      goed slapen kan stimuleren onder kinderen. Er hangt altijd een goede sfeer in
+      de dojo en er is aandacht voor iedereen op ieder niveau.
+    link: ""
+    class:
+    - darkgray
+    member_name: Laura
+    member_age: "28"
+  - alias: ""
+    tile: 3,0,1,1
+    img: /img/upload/180303-120240.JPG
+    en: I start Aikido in 2011 and with the help of Tom Dijkman. I found a great way
+      to bring myself, phisically and mentally in balance. And what I found great
+      in this dojo is that almost every class Tom is there to teach or to advice.
+    nl: Ik ben gestart met Aikido in 2011. En met de hulp van Tom Dijkman, vond ik
+      een geweldige manier om mezelf, fysiek en mentaal in balans te brengen. Wat
+      ik geweldig vind aan deze dojo is dat Tom er in bijna elke klas is om les te
+      geven of om advies te geven.
+    link: ""
+    class:
+    - red
+    member_name: Andreas
+    member_age: "45"
+  - alias: ""
+    tile: 0,1,1,1
+    img: /img/upload/180303-141305.jpg
+    en: We have been training Aikido for almost 1 year now, I like to train together
+      with my sister. Roles I learn better and I can also walk shikko. I also enjoy
+      playing with the others. I find wheelbarrow difficult, but also exciting.
+    nl: Wij trainen nu bijna 1 jaar Aikido, ik vind het fijn om samen met mijn zus
+      te trainen. Rollen leer ik steeds beter en ook shikko lopen kan ik al. Ik vind
+      het ook leuk om met de anderen te spelen. Kruiwagen vind ik moeilijk, maar ook
+      spannend.
+    link: ""
+    class:
+    - darkgray
+    member_name: Alexandra & Katja
+    member_age: 6 & 8
+  - alias: ""
+    tile: 1,1,1,1
+    img: /img/upload/180303-130743.jpg
+    en: Currently working on my Master Entrepreneurship at the VU / UvA. Aikido appeals
+      to me because it is more than just sport, it affects how I live in life. What
+      I especially like about the dojo of Tom Dijkman is the always good atmosphere.
+    nl: Op dit moment bezig met mijn master Entrepreneurship aan de VU/UvA. Aikido
+      spreekt mij aan omdat het meer is dan alleen sport het heeft effect op hoe ikzelf
+      in het leven sta. Wat ik vooral prettig vind aan de dojo van Tom Dijkman, is
+      de altijd goede sfeer.
+    link: ""
+    class:
+    - gray
+    member_name: Marita
+    member_age: "22"
+  - alias: ""
+    tile: 2,1,1,1
+    img: /img/upload/180303-130436.jpg
+    en: Levi likes to "fight" with his brother. You do not really have to fight, you
+      actually defend yourself. And that's what I like about it.
+    nl: Levi houdt een beetje van "vechten" met zijn broertje. Je hoeft niet echt
+      te vechten, je verdedigd jezelf eigenlijk. En dat vind ik er zo leuk aan.
+    link: ""
+    class:
+    - white
+    member_name: Levi
+    member_age: '7 '
+  - alias: ""
+    tile: 3,1,1,1
+    img: /img/upload/180303-141749.jpg
+    en: Ik ben 2,5 jaar geleden bij de Dojo van Tom binnengestapt. Er trainen hier
+      mensen met verschillende leeftijden, achtergronden en ieder heeft zijn eigen
+      motivatie voor het beoefenen van aikido. Door de trainingen voel ik me stabieler
+      en het geeft me meer zelfvertrouwen.
+    nl: Ik ben 2,5 jaar geleden bij de Dojo van Tom binnengestapt. Er trainen hier
+      mensen met verschillende leeftijden, achtergronden en ieder heeft zijn eigen
+      motivatie voor het beoefenen van aikido. Door de trainingen voel ik me stabieler
+      en het geeft me meer zelfvertrouwen.
+    link: ""
+    class:
+    - blue
+    member_name: Mira
+    member_age: "26"
+  - alias: ""
+    tile: 0,2,1,1
+    img: /img/upload/180303-141903.jpg
+    en: "I started aikido when I learned that martial arts were a good technique for
+      grounding. \nAikido maybe made me softer and stronger in the face of danger.
+      The Dojo atmosphere is really friendly and beginners can train with advanced
+      students. \n"
+    nl: Ik ben begonnen met Aikido nadat ik hoorde dat het mij zou helpen om te "aarden".
+      Aikido heeft me zachter en sterker gemaakt. De atmosfeer in de dojo is vriendelijk
+      en beginners kunnen trainen met gevorderde studenten.
+    link: ""
+    class:
+    - white
+    member_name: Rosa
+    member_age: "40"
+  - alias: ""
+    tile: 1,2,1,1
+    img: /img/upload/180303-133655.jpeg
+    en: Why Aikido? For me a fascinating sport where you do not act from the mind,
+      but practice and develop by trusting in the "other". An added value for my work
+      is that I can reach a common point for solutions faster with others.
+    nl: Waarom Aikido? Voor mij een fascinerende sport waar je niet vanuit het denken
+      handelt, maar oefent en ontwikkeld door op het, "andere" te vertrouwen. Een
+      meerwaarde voor in mijn werk is dat ik met anderen sneller een gezamenlijk punt
+      bereik voor oplossingen.
+    link: ""
+    class:
+    - blue
+    member_name: Stijn
+    member_age: "50"
+  - alias: ""
+    tile: 2,2,1,1
+    img: /img/upload/180303-142149.jpg
+    en: I have been training at Aikido Amsterdam for many years. Tom is a passionate,
+      accessible and very experienced teacher. Thanks to him and thanks to the members,
+      this is an open dojo where everyone is welcome and where they can be trained
+      at every level.
+    nl: Ik train al jaren met veel plezier bij Aikido Amsterdam. Tom is een gepasioneerde,
+      toegankelijke en zeer ervaren leraar. Dankzij hem en dankzij de leden is dit
+      een open dojo waar iedereen welkom is en waar op ieder niveau getraind kan worden.
+    link: ""
+    class:
+    - red
+    member_name: Peter
+    member_age: "46"
+  - alias: ""
+    tile: 3,2,1,1
+    img: /img/upload/180303-142027.jpg
+    en: Mikah likes rolling roles and sitting in a circle and attacking someone. He
+      has learned that you have to finish your fallbreaking  with flat hands, and
+      how to roll over your shoulder. He thinks the heavy balls are heavy, but also
+      fun.
+    nl: |
+      Mikah vind rollen leuk en in een kringetje zitten en iemand aanvallen. Hij heeft geleerd dat je met platte handen moet afslaan, en hoe je over je schouder moet rollen. Hij vind de zware ballen wel zwaar, maar ook leuk.
+    link: ""
+    class:
+    - darkgray
+    member_name: Micah
+    member_age: "3"
+  - alias: ""
+    tile: 0,3,1,1
+    img: /img/upload/180303-133412.jpg
+    en: This is us
+    nl: Dit zijn wiz
+    link: ""
+    class:
+    - red
+    member_name: Olivia
+    member_age: "36"
+  - alias: ""
+    tile: 1,3,1,1
+    img: /img/upload/180303-135200.jpg
+    en: Together with my sons Paja and Dadan I have been training in the dojo of Aikido
+      Amsterdam for a year now.
+    nl: 'Samen met mijn zoons Paja en Dadan train ik sinds een jaar in de dojo van
+      Aikido Amsterdam. '
+    link: ""
+    class:
+    - gray
+    member_name: Lucca, Paja & Dadan
+    member_age: 46, 11 & 9
+  - alias: ""
+    tile: 2,3,1,1
+    img: /img/upload/180303-141213.jpg
+    en: In February 2006 I came in contact with Aikido. I trained in the Overijssel
+      region until July 2013 and then switched to Aikido Amsterdam. There is a nice
+      atmosphere in the dojo, so you feel the space to be able to develop.
+    nl: In februari 2006 ben ik met Aikido in aanraking gekomen. Tot juli 2013 heb
+      ik in de regio Overijssel getraind en daarna heb ik de overstap gemaakt naar
+      Aikido Amsterdam. Er is een fijne sfeer in de dojo, waardoor je de ruimte voelt
+      om je te kunnen ontwikkelen.
+    link: ""
+    class:
+    - blue
+    member_name: Bert
+    member_age: "40"
+  - alias: ""
+    tile: 3,3,1,1
+    img: /img/upload/180303-140614.jpg
+    en: I train Aikido with Tom from the age of 11, first with the youth and now with
+      the adults. It keeps fascinating me to learn all the techniques, sometimes it's
+      easy for me, sometimes difficult. I like to be treated as an adult.
+    nl: Ik train Aikido bij Tom vanaf mijn 11de, eerst bij de jeugd en nu bij de volwassenen.
+      Het blijft mij fascineren om alle technieken te leren, soms valt mij dit makkelijk,
+      soms moeilijk. Ik vind het fijn om volwassen behandled te worden.
+    link: ""
+    class:
+    - gray
+    member_name: Guust
+    member_age: "17"
+  - alias: ""
+    tile: 0,4,1,1
+    img: ""
+    en: This is us
+    nl: Dit zijn wiz
+    link: who
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+- name: news
+  tiles:
+  - alias: ""
+    tile: 0,0,1,1
+    img: /img/upload/180303-174907.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class:
+    - arrow-bottom
+    - blue-bottom
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,0,2,1
+    img: /img/upload/180303-173521.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class:
+    - arrow-right
+    - gray-right
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,0,1,1
+    img: ""
+    en: "<h1>Aikido & Chi Kung Weekend 2018</h1> \n\n  <p>The weekend will be held
+      in the wonderful Haule in the northern Netherlands. As every year we are guests
+      at the bed and breakfast from our good friends Han and Kevin, where they take
+      good care of us with nice sleeping places and great food.\n\nThe weekend is
+      from Friday morning until the lunch on Sunday. As always, there will be in the
+      morning Chi Kung lessons provided by Andra at the beautifull surroundings of
+      the Bed and Breakfast. After breakfast we are going to the dojo at the Sportstad
+      Heerenveen for the Aikido part of the day. This means 2 intensive sessions with
+      a lunchbreak. <br />"
+    nl: "<h1>Aikido & Chi Kung Weekend 2018</h1> \n\n  <p>The weekend will be held
+      in the wonderful Haule in the northern Netherlands. As every year we are guests
+      at the bed and breakfast from our good friends Han and Kevin, where they take
+      good care of us with nice sleeping places and great food.\n\nThe weekend is
+      from Friday morning until the lunch on Sunday. As always, there will be in the
+      morning Chi Kung lessons provided by Andra at the beautifull surroundings of
+      the Bed and Breakfast. After breakfast we are going to the dojo at the Sportstad
+      Heerenveen for the Aikido part of the day. This means 2 intensive sessions with
+      a lunchbreak. <br />"
+    link: ""
+    class:
+    - gray
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,1,1,1
+    img: ""
+    en: "<h1>Start Budo kids Exploration class for kids 2 & 3 years</h1> \n  <p>Learn
+      to fall, roll, work together. Building trust and motor ical development around
+      budo principles and movements. Lessons by Andra Perrin; Tuesday morning Palm
+      Street dojo, and Thursday afternoon Wenckebachweg dojo. Information perrinandra@gmail.com/
+      06-41860800<br />\n\n\n\n\n\n\n\n\n\n\n\n"
+    nl: "<h1>Start Budo kids Ontdekkingsles voor kinderen van 2 & 3 jaar</h1> \n  <p>Leren
+      vallen, rollen, samenwerken. Opbouwen van vertrouwen en motorische ontwikkeling
+      rondom budo principes en bewegingen. Lessen door Andra Perrin; dinsdag morgen
+      Palmstraat dojo, en donderdag middag Wenckebachweg dojo. Informatie perrinandra@gmail.com/
+      06-41860800<br />\n"
+    link: ""
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,1,1,1
+    img: ""
+    en: "<h1>Visit Japan 2017</h1> \n  <p>Last December Tom Dijkman was for training
+      in Japan. He visited the Hombu dojo in Tokyo and trained at the dojo's of Yasuno
+      Sensei. After that he trained for 10 days in Kyoto at Okamoto Sensei.<br />\n\n\n\n\n"
+    nl: "<h1>Bezoek aan Japan in 2017</h1> \n  <p>Afgelopen december was Tom Dijkman
+      voor training in Japan. Hij bezocht in Tokio de Hombu dojo en trainde bij Yasuno
+      Sensei in zijn dojo's. Daarna heeft hij nog 10 dagen getraind in Kyoto bij Okamoto
+      Sensei.<br />\n\n\n\n"
+    link: ""
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,2,2,2
+    img: /img/upload/180303-181858.jpg
+    en: This is us
+    nl: Dit zijn wiz
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,2,1,1
+    img: ""
+    en: "<h1>International Youth Event 2017</h1> \n\n  <p>In November 2017, the first
+      International Youth Event was held under the leadership of Eiji Kasturada Sensei
+      from Hombu Dojo in Japan.\n  \nIn the class of Katsurada Sensei, more than 300
+      youthful Aikidokas trained together on the mat. There were also several countries
+      with their own youth teams present. These youth teams have concluded the event
+      with joint presentations.\n <br />"
+    nl: "<h1>International Youth Event 2017</h1> \n\n  <p>In november 2017 is er het
+      eerste Internationale Jeugdevenement gehouden onder leiding van Eiji Kasturada
+      Sensei van Hombu Dojo in Japan. \n  \nOnder de leiding van Katsurada Sensei
+      trainden er meer dan 300 jeugdige Aikidoka's gezamenlijk op de mat. Tevens waren
+      er diverse landen met eigen jeugd teams aanwezig. Deze jeugdteams hebben het
+      evenement afgesloten met gezamenlijke presentaties. \n <br />"
+    link: ""
+    class:
+    - gray
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,1,2,1
+    img: /img/upload/180303-170910.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class:
+    - arrow-left
+    - red-left
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,2,1,1
+    img: ""
+    en: "<h1>Seminar Capetown and 5th year aniversery</h1> \n  <p>In February 2018
+      Tom Dijkman was in Cape Town for the 5th time to give a seminar. This time also
+      the 5 year anniversary of Cape Town Aikido was celebrated. The dojo of Craig-Mason
+      Jones is now 5 years old and from 2013 onwards Tom will give a \"Friendship\"
+      seminar every year to support the Aikido in the region.<br />\n"
+    nl: "<h1>Seminar Kaapstad en 5 jaar Aikido Kaapstad</h1> \n  <p>In Februari 2018
+      was Tom Dijkman voor de 5de keer in kaapstad om een seminar te geven. Dit keer
+      werd ook het 5 jarig bestaan van Cape Town Aikido gevierd. De dojo van Craig-Mason
+      Jones bestaat nu 5 jaar en vanaf 2013 geeft Tom elk jaar een \"Friendship\"
+      seminar om het Aikido in de regio te ondersteunen.<br />\n"
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,2,1,1
+    img: /img/upload/180303-174316.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class:
+    - arrow-bottom
+    - gray-bottom
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,3,1,1
+    img: /img/upload/180303-180309.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class:
+    - arrow-top
+    - white-top
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,3,1,1
+    img: ""
+    en: "<h1>Memories Combat Games</h1> \n  <p>In 2013, already 5 years ago the last
+      Combat Games were held in St Petersburg in Russia. Aikido was propagated by
+      various countries with their representatives. Tom Dijkman was present from the
+      Netherlands, he participated in various demonstrations. <br />\n"
+    nl: "<h1>Herinneringen Combat Games</h1> \n  <p>In 2013, alweer 5 jaar geleden
+      werden de laatste Combat Games gehouden in St Petersburg in Rusland. Aikido
+      werd uitgedragen door diverse landen met hun vertegenwoordigers. Vanuit Nederland
+      was Tom Dijkman aanwezig, hij deed mee aan diverse demonstraties. <br />\n"
+    link: ""
+    class:
+    - gray
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,4,1,1
+    img: ""
+    en: This is us
+    nl: Dit zijn wiz
+    link: who
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,2,1,1
+    img: ""
+    en: ""
+    nl: ""
+    link: ""
+    class:
+    - transparent
+    - arrow-left
+    - gray-left
+    member_name: ""
+    member_age: ""
+quotes:
+- en:
+    text: I stay inspired by Aikido in all his diversity. And I hope to keep people
+      inspired with a combination of physical work, mental resilience en mental depth.
+    who: Tom Dijkman-Aikido Amsterdam
+  nl:
+    text: Ik blijf geinspireerd door Aikido in al zijn diversiteit. En ik hoop mensen
+      te blijven inspireren met een combinatie van fysiek werk, mentale weerbaarheid
+      en geestelijke diepgang.
+    who: Tom Dijkman-Aikido Amsterdam
+- en:
+    text: Even before the attacker has decided to attack me, he has already lost
+    who: Morihei Ueshiba
+  nl:
+    text: Nog voor het moment dat de aanvaller heeft besloten mij aan te vallen, heeft
+      hij reeds verloren
+    who: Morihei Ueshiba
+- en:
+    text: As a sports club, give the Uhambo Foundation a warm heart and take part
+      in the 2euro 50 promotion
+    who: Tom Dijkman
+  nl:
+    text: Draag als sportclub de Uhambo Foundation een warm hart toe en doe mee met
+      de 2euro 50 actie
+    who: Tom Dijkman
+- en:
+    text: Everyone is different and Tom knows perfectly how to train optimally with
+      your physique and strength. It is highly recommended, for both beginner and
+      advanced!
+    who: Peter Lutz
+  nl:
+    text: Iedereen is anders en Tom weet uitstekend uit te leggen hoe je met jouw
+      lichaamsbouw en kracht optimaal kan trainen. Het is echt een aanrader, voor
+      zowel beginner als gevorderden!
+    who: Peter Lutz
+- en:
+    text: Aikido is a very beautiful and interesting form of martial art and I find
+      it a special experience to share this with my daughter. The lessons are fun,
+      playful and educational. And the teacher is very dynamic!
+    who: Esther Bleesing- Mother of Pipa
+  nl:
+    text: Aikido is een zeer mooie en interessante vorm van martial art en ik vind
+      het een bijzondere ervaring om dit met mijn dochter te delen. De lessen zijn
+      heel leuk, speels en leerzaam. En de leraar is heel dynamisch!
+    who: Esther Bleesing-Moeder van Pipa
+- en:
+    text: Fantastic Aikido school. You learn in groups with students of different
+      levels, and everyone is respectful and patient with the beginners. Tom is a
+      fantastic teacher!
+    who: Maria Nogueira
+  nl:
+    text: Fantastische Aikidoschool. Je leert in groepen met studenten van verschillende
+      niveaus, en iedereen is respectvol en geduldig met de beginners. Tom is een
+      fantastische leraar!
+    who: Maria Nogueira
