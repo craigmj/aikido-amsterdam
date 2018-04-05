@@ -763,7 +763,7 @@ pages:
     class: []
     member_name: ""
     member_age: ""
-  - alias: ""
+  - alias: fees-table
     tile: 1,0,2,2
     img: ""
     en: "\n| | |\n|---|---|\n|Adults|EU 42,40 monthly|\n|\t|EU 440,- yearly|\n| |
