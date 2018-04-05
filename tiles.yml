@@ -766,18 +766,17 @@ pages:
   - alias: ""
     tile: 1,0,2,2
     img: ""
-    en: "<p>\n\nAdults\t\t \t\t\t\tEU 42,40 monthly  \n\n\t\t\t\t\t\t\tEU 440,- yearly\n\nKids\t
-      \   \t\t\t\tEU 360,- yearly\n\nToddlers/ Prescholers-\t\tEU 40,-  monthly\n\nDutch
-      Aikikai Foundation \tEU 35,- yearly adults\n\n                         \tEU
-      15,- yearly kids\n                         \nGebouw De Palm onderhoud \tEU 20,-
-      yearly\n \nPayments on accountnumber NL32INGB0751857599 in the name of T.G.B.
-      Dijkman.\n\n</p>\n"
-    nl: "<p>\n\nVolwassenen \t\t\t\tEU 42,40 per maand  \n\n\t\t\t\t\t\t\tEU 440,-
-      per jaar\n\nKinderen    \t\t\t\tEU 360,- per jaar\n\nPeuters/ Kleuters \t\t\tEU
+    en: "| | |\n|---|---|\n|Adults|EU 42,40 monthly|\n|\t|EU 440,- yearly|\n| | |\n|
+      | |\n| | |\n| | |\n|Kids|EU 360,- yearly|\n| | |\n|Toddlers/ Prescholers-|EU
+      40,-  monthly|\n| | |\n|Dutch Aikikai Foundation|EU 35,- yearly adults|\n| |EU
+      15,- yearly kids|\n| | |\n|Gebouw De Palm onderhoud|EU 20,- yearly|\n \nPayments
+      on accountnumber NL32INGB0751857599 in the name of T.G.B. Dijkman.\n\n\n"
+    nl: "\nVolwassenen \t\t\t\tEU 42,40 per maand  \n\n\t\t\t\t\t\t\tEU 440,- per
+      jaar\n\nKinderen    \t\t\t\tEU 360,- per jaar\n\nPeuters/ Kleuters \t\t\tEU
       40,- per maand\n\nDutch Aikikai Foundation \tEU 35,- per jaar volw\n\n                         \tEU
       15,- per jaar Kids\n                         \nGebouw De Palm onderhoud \tEU
       20,- per jaar\n \nBetalingen op banknummer NL32INGB0751857599 ten name van T.G.B.
-      Dijkman.\n\n</p>\n"
+      Dijkman.\n"
     link: ""
     class:
     - darkgray
