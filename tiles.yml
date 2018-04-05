@@ -161,8 +161,8 @@ pages:
     en: |
       Tom Dijkman has a big commitment to South Africa. On the one hand because his relationship with Craig Mason-Jones  of Cape Town Aikido, where he gifs every year a "Friendship" seminar. And on the other hand because of his relation with Shona McDonald of the Uhambo Foundation.
 
-
       Shona is founder of Shonaquip and the Uhambo Foundation in South Africa. Shonaquip developes and delivers wheelchares for disabled in whole South Africa, amongst the townships.
+
       The Uhambo Foundation provides education and developed projects in disadvantaged areas to include disabled people in society.
       Tom Dijkman Supports with Aikido Amsterdam the Uhambo Foundation with the Two Euro Fifty project. From every member there goes EU 2,50 monthly to Uhambo. This year Tom handed over a cheque with the ammount of € 1000,00 to Shona McDonald.
     nl: "Tom Dijkman heeft een grote verbintenis met Zuid Afrika. Enerzijds door zijn
@@ -172,7 +172,7 @@ pages:
       Foundation in Zuid Afrika. Shonaquip ontwikkeld en levert rolstoelen voor gehandicapten
       in slecht bereikbare gebieden in Zuid Afrika, onder andere in de Townships.
       \nDe Uhambo Foundation verzorgt voorlichting en ontwikkeld projecten in achterstandsgebieden
-      om gehandicapte kinderen op te nemen in de maatschappij.\nTom Dijkman steunt
+      om gehandicapte kinderen op te nemen in de maatschappij.\n\nTom Dijkman steunt
       via Aikido Amsterdam de Uhambo Foundation met het Twee Euro Vijftig project.
       Van elk lid van Aikido Amsterdam wordt maandelijks een bedrag van EU 2,50 gereserveerd
       voor Uhambo. Dit jaar heeft Tom Dijkman aan cheque met een bedrag van € 1000,00
@@ -238,24 +238,24 @@ pages:
   - alias: ""
     tile: 0,0,2,1
     img: ""
-    en: "<h1>What is Aikido?</h1>\n\nAikido is a martial art, developed in the beginning
-      of the 20st century by Morihei Ueshiba. Since 1999 his son Moriteru Ueshiba
-      is responsible for the continuing of the linage of Morihei Ueshiba.\n\nThe goal
-      is to bild a basic structure within a martial setting. In comparence to other
-      martial arts there is no competition in Aikido, The art focuses on selfdefence.\n\nThe
+    en: "<h1>What is Aikido?</h1> <ol>\n<h1>Aikido is a martial art, developed in
+      the beginning of the 20st centurie by Morihei Ueshiba. Since 1999 his son Moriteru
+      Ueshiba is responsible for the continuing of the linage of Morihei Ueshiba\n\nThe
+      goal is to bild a basic structure within a martial setting. In comparence to
+      other martial arts there is no competition in Aikido, The art focuses on selfdefence.\n\nThe
       practisioner takes the initiative to get the situation under controle. By having
       and maintaining a correct fysical and mentaly attitude the partner is brought
-      out of balance en put down with a throw or a lock.\n  \n       \n"
-    nl: "<h1>Wat is Aikido?</h1>\n\nAikido is een krijgsdicipline, ook wel martial
-      art genoemd, ontwikkeld in het begin van de 20e eeuw door Morihei Ueshiba. Sinds
-      1999 is zijn kleinzoon Moriteru Ueshiba verantwoordelijk voor het voortzetten
+      out of balance en put down with a throw or a lock.\n<h1>\n  \n       \n"
+    nl: "<h1>Wat is Aikido?</h1> <ol>\n<h1>Aikido is een krijgsdicipline, ook wel
+      martial art genoemd, ontwikkeld in het begin van de 20e eeuw door Morihei Ueshiba.
+      Sinds 1999 is zijn kleinzoon Moriteru Ueshiba verantwoordelijk voor het voortzetten
       van de lijn van Morihei Ueshiba\n\nHet doel is in een matriale context met een
       partner de basisprincipes eigen maken. In tegenstelling tot de meeste vechtsporten
       is in Aikido iedere vorm van competitie afwezig. Aikido richt zich op de vedediging.\nDe
       beoefenaar neemt het initiatief over om de situatie onder controle te krijgen.
       Door het hebben en behouden van een juiste fysieke en mentale houding wordt
-      de partner uit evenwicht gebracht en uitgeschakeld met een klem of worp.\n\n
-      \      "
+      de partner uit evenwicht gebracht en uitgeschakeld met een klem of worp.\n\n<h1>\n
+      \ \n       "
     link: ""
     class:
     - darkgray
@@ -479,7 +479,6 @@ pages:
     img: ""
     en: |
       <h1>Palmstraat</h1> <h2>Monday</h2>
-
 
       |From|To|Class|
       |---|---|---|
