@@ -238,24 +238,24 @@ pages:
   - alias: ""
     tile: 0,0,2,1
     img: ""
-    en: "<h1>What is Aikido?</h1> <ol>\n<h1>Aikido is a martial art, developed in
-      the beginning of the 20st centurie by Morihei Ueshiba. Since 1999 his son Moriteru
-      Ueshiba is responsible for the continuing of the linage of Morihei Ueshiba\n\nThe
-      goal is to bild a basic structure within a martial setting. In comparence to
-      other martial arts there is no competition in Aikido, The art focuses on selfdefence.\n\nThe
+    en: "<h1>What is Aikido?</h1>\n\nAikido is a martial art, developed in the beginning
+      of the 20st century by Morihei Ueshiba. Since 1999 his son Moriteru Ueshiba
+      is responsible for the continuing of the linage of Morihei Ueshiba\n\nThe goal
+      is to bild a basic structure within a martial setting. In comparence to other
+      martial arts there is no competition in Aikido, The art focuses on selfdefence.\n\nThe
       practisioner takes the initiative to get the situation under controle. By having
       and maintaining a correct fysical and mentaly attitude the partner is brought
-      out of balance en put down with a throw or a lock.\n<h1>\n  \n       \n"
-    nl: "<h1>Wat is Aikido?</h1> <ol>\n<h1>Aikido is een krijgsdicipline, ook wel
-      martial art genoemd, ontwikkeld in het begin van de 20e eeuw door Morihei Ueshiba.
-      Sinds 1999 is zijn kleinzoon Moriteru Ueshiba verantwoordelijk voor het voortzetten
+      out of balance en put down with a throw or a lock.\n  \n       \n"
+    nl: "<h1>Wat is Aikido?</h1>\n\nAikido is een krijgsdicipline, ook wel martial
+      art genoemd, ontwikkeld in het begin van de 20e eeuw door Morihei Ueshiba. Sinds
+      1999 is zijn kleinzoon Moriteru Ueshiba verantwoordelijk voor het voortzetten
       van de lijn van Morihei Ueshiba\n\nHet doel is in een matriale context met een
       partner de basisprincipes eigen maken. In tegenstelling tot de meeste vechtsporten
       is in Aikido iedere vorm van competitie afwezig. Aikido richt zich op de vedediging.\nDe
       beoefenaar neemt het initiatief over om de situatie onder controle te krijgen.
       Door het hebben en behouden van een juiste fysieke en mentale houding wordt
-      de partner uit evenwicht gebracht en uitgeschakeld met een klem of worp.\n\n<h1>\n
-      \ \n       "
+      de partner uit evenwicht gebracht en uitgeschakeld met een klem of worp.\n\n
+      \      "
     link: ""
     class:
     - darkgray
