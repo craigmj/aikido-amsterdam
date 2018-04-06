@@ -161,18 +161,18 @@ pages:
     en: |
       Tom Dijkman has a big commitment to South Africa. On the one hand because his relationship with Craig Mason-Jones  of Cape Town Aikido, where he gifs every year a "Friendship" seminar. And on the other hand because of his relation with Shona McDonald of the Uhambo Foundation.
 
-
       Shona is founder of Shonaquip and the Uhambo Foundation in South Africa. Shonaquip developes and delivers wheelchares for disabled in whole South Africa, amongst the townships.
+
       The Uhambo Foundation provides education and developed projects in disadvantaged areas to include disabled people in society.
       Tom Dijkman Supports with Aikido Amsterdam the Uhambo Foundation with the Two Euro Fifty project. From every member there goes EU 2,50 monthly to Uhambo. This year Tom handed over a cheque with the ammount of € 1000,00 to Shona McDonald.
     nl: "Tom Dijkman heeft een grote verbintenis met Zuid Afrika. Enerzijds door zijn
       relatie met Craig Mason-Jones van Cape Town Aikido, waar hij elk jaar een weekend
       \"Friendship\" seminar geeft. En anderzijds door zijn relatie met Shona McDonald
-      van de Uhambo Foundation.\n\n\nShona is oprichter van Shonaquip en de Uhambo
-      Foundation in Zuid Afrika. Shonaquip ontwikkeld en levert rolstoelen voor gehandicapten
+      van de Uhambo Foundation.\n\nShona is oprichter van Shonaquip en de Uhambo Foundation
+      in Zuid Afrika. Shonaquip ontwikkeld en levert rolstoelen voor gehandicapten
       in slecht bereikbare gebieden in Zuid Afrika, onder andere in de Townships.
       \nDe Uhambo Foundation verzorgt voorlichting en ontwikkeld projecten in achterstandsgebieden
-      om gehandicapte kinderen op te nemen in de maatschappij.\nTom Dijkman steunt
+      om gehandicapte kinderen op te nemen in de maatschappij.\n\n\nTom Dijkman steunt
       via Aikido Amsterdam de Uhambo Foundation met het Twee Euro Vijftig project.
       Van elk lid van Aikido Amsterdam wordt maandelijks een bedrag van EU 2,50 gereserveerd
       voor Uhambo. Dit jaar heeft Tom Dijkman aan cheque met een bedrag van € 1000,00
@@ -186,9 +186,13 @@ pages:
     tile: 0,2,2,1
     img: ""
     en: |-
+      <b>
+
       We as Aikido Amsterdam have decided to increase our monthly contribution by an amount of EU 2.50. The proceeds will be fully benefited by the Uhambo Foundation in South Africa.
 
       "With great pleasure I come to explain to you what the Uhambo Foundation stands for"
+
+      </b>
 
       Tom Dijkman
       Aikido Amsterdam
@@ -240,7 +244,7 @@ pages:
     img: ""
     en: "<h1>What is Aikido?</h1>\n\nAikido is a martial art, developed in the beginning
       of the 20st century by Morihei Ueshiba. Since 1999 his son Moriteru Ueshiba
-      is responsible for the continuing of the linage of Morihei Ueshiba.\n\nThe goal
+      is responsible for the continuing of the linage of Morihei Ueshiba\n\nThe goal
       is to bild a basic structure within a martial setting. In comparence to other
       martial arts there is no competition in Aikido, The art focuses on selfdefence.\n\nThe
       practisioner takes the initiative to get the situation under controle. By having
@@ -364,21 +368,28 @@ pages:
   - alias: ""
     tile: 0,0,2,2
     img: ""
-    en: |
-      <h1>To begin</h1> <p>Everyone is welcome in the dojos. There are no expectations, other than those that you come with. At your own pace, attuned to who you are, you start the research and learn step by step to apply techniques, fall, roll and protect yourself under increasing pressure.
+    en: |-
+      <h1>To begin</h1>
+
+      Everyone is welcome in the dojos. There are no expectations, other than those that you come with. At your own pace, attuned to who you are, you start the research and learn step by step to apply techniques, fall, roll and protect yourself under increasing pressure.
 
       And then...
+
       The training in the dojos of Aikido Amsterdam is dynamic and physical. The emphasis is on the connection with the partner. Aikido can be practiced at all ages. There are clear agreements about the course of the exercises and the role of the partners. This makes the dojo a stimulating and safe place to train.
-      The lessons are mixed men and women. The only willingness is to grow physically and take you mentally. In this way you achieve the optimal balance within your personal physical and mental boundaries. Your own development process is central.</p>
-    nl: |
-      <h1>Om te beginnen</h1> <p>Iedereen is welkom in de dojo's. Er worden geen verwachtingen gesteld, anders dan die waar jezelf mee komt. In je eigen tempo, afgestemd op wie je bent, begin je aan het onderzoek en leer je stap voor stap technieken toepassen, vallen, rollen en jezelf te beschermen onder toenemende druk.
 
-      En dan...
-      De training in de dojo's van Aikido Amsterdam is dynamisch en fysiek. De nadruk ligt op de verbinding met de partner. Aikido kan op alle leeftijden beoefend worden. Er zijn duidelijke afspraken over het verloop van de oefeningen en de rol van de partners. Dit maakt de dojo een stimulerende en veilige plek om te trainen.
-      De lessen zijn gemengd mannen en vrouwen. De enige bereidheid is om fysiek te groeien en je mentaal mee te laten nemen. Op deze manier kom je tot het optimale evenwicht binnen je persoonlijke fysieke en mentale grenzen. Je eigen ontwikkelingsproces staat centraal.
-
-
-      </p>
+      The lessons are mixed men and women. The only willingness is to grow physically and take you mentally. In this way you achieve the optimal balance within your personal physical and mental boundaries. Your own development process is central.
+    nl: "<h1>Om te beginnen</h1> \n\nIedereen is welkom in de dojo's. Er worden geen
+      verwachtingen gesteld, anders dan die waar jezelf mee komt. In je eigen tempo,
+      afgestemd op wie je bent, begin je aan het onderzoek en leer je stap voor stap
+      technieken toepassen, vallen, rollen en jezelf te beschermen onder toenemende
+      druk.\n\nEn dan...\n\nDe training in de dojo's van Aikido Amsterdam is dynamisch
+      en fysiek. De nadruk ligt op de verbinding met de partner. Aikido kan op alle
+      leeftijden beoefend worden. Er zijn duidelijke afspraken over het verloop van
+      de oefeningen en de rol van de partners. Dit maakt de dojo een stimulerende
+      en veilige plek om te trainen.\n\nDe lessen zijn gemengd mannen en vrouwen.
+      De enige bereidheid is om fysiek te groeien en je mentaal mee te laten nemen.
+      Op deze manier kom je tot het optimale evenwicht binnen je persoonlijke fysieke
+      en mentale grenzen. Je eigen ontwikkelingsproces staat centraal.\n"
     link: ""
     class:
     - darkgray
@@ -479,7 +490,6 @@ pages:
     img: ""
     en: |
       <h1>Palmstraat</h1> <h2>Monday</h2>
-
 
       |From|To|Class|
       |---|---|---|
@@ -770,14 +780,21 @@ pages:
       |\n| | |\n| | |\n| | |\n|Kids|EU 360,- yearly|\n| | |\n| | |\n| | |\n| | |\n|Toddlers/
       Prescholers-|EU 40,-  monthly|\n| | |\n| | |\n| | |\n| | |\n|Dutch Aikikai Foundation|EU
       35,- yearly adults|\n| |EU 15,- yearly kids|\n| | |\n| | |\n| | |\n| | |\n|Gebouw
+
+      De Palm onderhoud|EU 20,- yearly|\n\n\n<div style=\"margin-top: 5em; font-size:
+      0.8em\">Payments on accountnumber NL32INGB0751857599 in the name of T.G.B. Dijkman.\n</div>\n"
+    nl: "\n| | |\n|---|---|\n|Adults|EU 42,40 per maand|\n|\t|EU 440,- per jaar|\n|
+      | |\n| | |\n| | |\n| | |\n|Kids|EU 360,- yearly|\n| | |\n| | |\n| | |\n| | |\n|Toddlers/
+      Prescholers-|EU 40,-  monthly|\n| | |\n| | |\n| | |\n| | |\n|Dutch Aikikai Foundation|EU
+      35,- yearly adults|\n| |EU 15,- yearly kids|\n| | |\n| | |\n| | |\n| | |\n|Gebouw
       De Palm onderhoud|EU 20,- yearly|\n\n\n<div style=\"margin-top: 5em;\">Payments
-      on accountnumber NL32INGB0751857599 in the name of T.G.B. Dijkman.\n</div>\n\n"
-    nl: "\nVolwassenen \t\t\t\tEU 42,40 per maand  \n\n\t\t\t\t\t\t\tEU 440,- per
-      jaar\n\nKinderen    \t\t\t\tEU 360,- per jaar\n\nPeuters/ Kleuters \t\t\tEU
-      40,- per maand\n\nDutch Aikikai Foundation \tEU 35,- per jaar volw\n\n                         \tEU
+      on accountnumber NL32INGB0751857599 in the name of T.G.B. Dijkman.\n</div>\n\n\nVolwassenen
+      \t\t\t\tEU 42,40 per maand  \n\n\t\t\t\t\t\t\tEU 440,- per jaar\n\nKinderen
+      \   \t\t\t\tEU 360,- per jaar\n\nPeuters/ Kleuters \t\t\tEU 40,- per maand\n\nDutch
+      Aikikai Foundation \tEU 35,- per jaar volw\n\n                         \tEU
       15,- per jaar Kids\n                         \nGebouw De Palm onderhoud \tEU
       20,- per jaar\n \nBetalingen op banknummer NL32INGB0751857599 ten name van T.G.B.
-      Dijkman.\n"
+      Dijkman.\n\n"
     link: ""
     class:
     - darkgray
@@ -1569,11 +1586,11 @@ pages:
   - alias: ""
     tile: 0,1,1,1
     img: ""
-    en: "<h1>Start Budo kids Exploration class for kids 2 & 3 years</h1> \n  <p>Learn
-      to fall, roll, work together. Building trust and motor ical development around
+    en: "<h1>Start Budo kids Exploration class for kids 2 & 3 years</h1> \nLearn to
+      fall, roll, work together. Building trust and motor ical development around
       budo principles and movements. Lessons by Andra Perrin; Tuesday morning Palm
       Street dojo, and Thursday afternoon Wenckebachweg dojo. Information perrinandra@gmail.com/
-      06-41860800<br />\n\n\n\n\n\n\n\n\n\n\n\n"
+      06-41860800\n\n\n\n\n\n\n\n\n\n\n\n"
     nl: "<h1>Start Budo kids Ontdekkingsles voor kinderen van 2 & 3 jaar</h1> \n  <p>Leren
       vallen, rollen, samenwerken. Opbouwen van vertrouwen en motorische ontwikkeling
       rondom budo principes en bewegingen. Lessen door Andra Perrin; dinsdag morgen
@@ -1780,3 +1797,11 @@ events:
     en: "5th Friendship Seminar of Tom Dijkman at Cape Town Aikido.\t"
     nl: 5de Vriendskap Seminaar van Tom Dijkman by Kaapstad Aikido.
   link: https://www.aiki.co.za
+- date: 2018-04-08
+  title:
+    en: Kyu grade seminar
+    nl: Kyu grade seminar
+  desc:
+    en: bklvfuabmncb kashdmbc kasmngdbfckhsmdnzvbxcczΩcstfcrfzx
+    nl: bklvfuabmncb kashdmbc kasmngdbfckhsmdnzvbxcczΩcstfcrfzx
+  link: ""
