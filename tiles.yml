@@ -6,6 +6,7 @@ mobile:
     Les informatie in Nederlands.
 - name: times
   en: |-
+    <div>
     <div class="full">
 
     # Monday - Palmstraat
@@ -20,7 +21,22 @@ mobile:
 
     </div>
 
-    <div></div>
+
+    <div class="full gray">
+
+    # Wednesday - Wenckebachweg
+
+    |From|To|Class|
+    |---|---|---|
+    |13:45|14:45|small children|
+    |15:15|16:15|children and parents|
+    |19:00|20:00|beginners|
+    |20:00|21:00|all|
+
+    <p>Every Wednesday evening from 19:00 to 21:00 the dojo is open to visitors from other dojos. You are welcome to join our practice for EUR 10.</p>
+
+    </div>
+    </div>
   nl: |
     Tijden informatie in Nederlands.
 - name: fees
