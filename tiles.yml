@@ -1734,8 +1734,8 @@ pages:
     member_age: ""
 quotes:
 - en:
-    text: I stay inspired by Aikido in all his diversity. And I hope to keep people
-      inspired with a combination of physical work, mental resilience en mental depth.
+    text: '"I stay inspired by Aikido in all his diversity. And I hope to keep people
+      inspired with a combination of physical work, mental resilience en mental depth."'
     who: Tom Dijkman-Aikido Amsterdam
   nl:
     text: Ik blijf geinspireerd door Aikido in al zijn diversiteit. En ik hoop mensen
@@ -1743,19 +1743,19 @@ quotes:
       en geestelijke diepgang.
     who: Tom Dijkman-Aikido Amsterdam
 - en:
-    text: Even before the attacker has decided to attack me, he has already lost
+    text: Even before the attacker has decided to attack me, he has already lost.
     who: Morihei Ueshiba
   nl:
     text: Nog voor het moment dat de aanvaller heeft besloten mij aan te vallen, heeft
-      hij reeds verloren
+      hij reeds verloren.
     who: Morihei Ueshiba
 - en:
     text: As a sports club, give the Uhambo Foundation a warm heart and take part
-      in the 2euro 50 promotion
+      in the 2euro 50 promotion.
     who: Tom Dijkman
   nl:
     text: Draag als sportclub de Uhambo Foundation een warm hart toe en doe mee met
-      de 2euro 50 actie
+      de 2euro 50 actie.
     who: Tom Dijkman
 - en:
     text: Everyone is different and Tom knows perfectly how to train optimally with
@@ -1788,14 +1788,6 @@ quotes:
       fantastische leraar!
     who: Maria Nogueira
 events:
-- date: 2018-02-23
-  title:
-    en: 5th Friendship Seminar
-    nl: 5de Vriendskap Seminaar
-  desc:
-    en: "5th Friendship Seminar of Tom Dijkman at Cape Town Aikido.\t"
-    nl: 5de Vriendskap Seminaar van Tom Dijkman by Kaapstad Aikido.
-  link: https://www.aiki.co.za
 - date: 2018-04-08
   title:
     en: Kyu grade seminar
@@ -1804,3 +1796,11 @@ events:
     en: bklvfuabmncb kashdmbc kasmngdbfckhsmdnzvbxcczΩcstfcrfzx
     nl: bklvfuabmncb kashdmbc kasmngdbfckhsmdnzvbxcczΩcstfcrfzx
   link: ""
+- date: 2018-02-23
+  title:
+    en: 5th Friendship Seminar
+    nl: 5de Vriendskap Seminaar
+  desc:
+    en: "5th Friendship Seminar of Tom Dijkman at Cape Town Aikido.\t"
+    nl: 5de Vriendskap Seminaar van Tom Dijkman by Kaapstad Aikido.
+  link: https://www.aiki.co.za
