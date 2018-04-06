@@ -5,7 +5,7 @@ mobile:
   nl: |
     Les informatie in Nederlands.
 - name: times
-  en: |-
+  en: |
     <div class="full">
 
     # Monday - Palmstraat
@@ -32,8 +32,6 @@ mobile:
     |20:00|21:00|all|
 
     <p>Every Wednesday evening from 19:00 to 21:00 the dojo is open to visitors from other dojos. You are welcome to join our practice for EUR 10.</p>
-
-    </div>
 
     </div>
   nl: |
