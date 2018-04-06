@@ -5,8 +5,21 @@ mobile:
   nl: |
     Les informatie in Nederlands.
 - name: times
-  en: |
-    Times information in English
+  en: |2-
+
+    <div class="full">
+
+    # Monday - Palmstraat
+
+    |From|To|Class|
+    |---|---|---|
+    |15:45|16:45|children(4-9)|
+    |17:00|18:00|children(10-15)|
+    |18:30|19:30|beginners|
+    |19:30|20:30|all|
+    |20:30|21:30|advanced|
+
+    </div>
   nl: |
     Tijden informatie in Nederlands.
 - name: fees
