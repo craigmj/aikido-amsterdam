@@ -6,8 +6,7 @@ mobile:
     Les informatie in Nederlands.
 - name: times
   en: |-
-    <div style="padding:0; margin:0;">
-    <div class="full">
+    <div style="padding:0; margin:0;"><div class="full">
     # Monday - Palmstraat
     |From|To|Class|
     |---|---|---|
