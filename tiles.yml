@@ -86,8 +86,72 @@ mobile:
 
     </div>
     </div>
-  nl: |
-    Dit zijn wij informatie in Nederlands.
+  nl: |-
+    <div class="who">
+    <img src="/i/200/0/tom.jpg" />
+    <div>
+
+    <h1>Tom Dijkman</h1>
+
+    47 jaar, is de oprichter van Aikido Amsterdam. Al meer dan 25 jaar beoefent hij Aikido, in 2013 werd hem de de 5de Dan Aikikai Aikido uitgereikt. Hij reist regelmatig de wereld rond om zich verder te verdiepen en blijven ontwikkelen. De meeste lessen in de Dojo worden door Tom gegeven, een aantal mensen spelen daarbij een aanvullende rol en vervangen hem bij afwezigheid, dat zijn:
+
+    </div>
+    </div>
+
+    <div class="who">
+    <img src="/i/200/0/andra.jpg" />
+    <div>
+
+    <h1>Andra Perrin</h1>
+
+    47 jaar, is de oprichter van Aikido Amsterdam. Al meer dan 25 jaar beoefent hij Aikido, in 2013 werd hem de de 5de Dan Aikikai Aikido uitgereikt. Hij reist regelmatig de wereld rond om zich verder te verdiepen en blijven ontwikkelen. De meeste lessen in de Dojo worden door Tom gegeven, een aantal mensen spelen daarbij een aanvullende rol en vervangen hem bij afwezigheid, dat zijn:
+
+    </div>
+    </div>
+
+    <div class="who">
+    <img src="/i/200/0/aurel.jpg" />
+    <div>
+
+    <h1>Aurel</h1>
+
+    47 jaar, is de oprichter van Aikido Amsterdam. Al meer dan 25 jaar beoefent hij Aikido, in 2013 werd hem de de 5de Dan Aikikai Aikido uitgereikt. Hij reist regelmatig de wereld rond om zich verder te verdiepen en blijven ontwikkelen. De meeste lessen in de Dojo worden door Tom gegeven, een aantal mensen spelen daarbij een aanvullende rol en vervangen hem bij afwezigheid, dat zijn:
+
+    </div>
+    </div>
+
+    <div class="who">
+    <img src="/i/200/0/coen.jpg" />
+    <div>
+
+    <h1>Coen Septer</h1>
+
+    47 jaar, is de oprichter van Aikido Amsterdam. Al meer dan 25 jaar beoefent hij Aikido, in 2013 werd hem de de 5de Dan Aikikai Aikido uitgereikt. Hij reist regelmatig de wereld rond om zich verder te verdiepen en blijven ontwikkelen. De meeste lessen in de Dojo worden door Tom gegeven, een aantal mensen spelen daarbij een aanvullende rol en vervangen hem bij afwezigheid, dat zijn:
+
+    </div>
+    </div>
+
+    <div class="who">
+    <img src="/i/200/0/dennis.jpg" />
+    <div>
+
+    <h1>Dennis Te Haar</h1>
+
+    47 jaar, is de oprichter van Aikido Amsterdam. Al meer dan 25 jaar beoefent hij Aikido, in 2013 werd hem de de 5de Dan Aikikai Aikido uitgereikt. Hij reist regelmatig de wereld rond om zich verder te verdiepen en blijven ontwikkelen. De meeste lessen in de Dojo worden door Tom gegeven, een aantal mensen spelen daarbij een aanvullende rol en vervangen hem bij afwezigheid, dat zijn:
+
+    </div>
+    </div>
+
+    <div class="who">
+    <img src="/i/200/0/andrea.jpg" />
+    <div>
+
+    <h1>Andrea Raviglioni</h1>
+
+    47 jaar, is de oprichter van Aikido Amsterdam. Al meer dan 25 jaar beoefent hij Aikido, in 2013 werd hem de de 5de Dan Aikikai Aikido uitgereikt. Hij reist regelmatig de wereld rond om zich verder te verdiepen en blijven ontwikkelen. De meeste lessen in de Dojo worden door Tom gegeven, een aantal mensen spelen daarbij een aanvullende rol en vervangen hem bij afwezigheid, dat zijn:
+
+    </div>
+    </div>
 pages:
 - name: home
   tiles:
