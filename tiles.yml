@@ -5,8 +5,7 @@ mobile:
   nl: |
     Les informatie in Nederlands.
 - name: times
-  en: |2-
-
+  en: |-
     <div class="full">
 
     # Monday - Palmstraat
@@ -20,7 +19,6 @@ mobile:
     |20:30|21:30|advanced|
 
     </div>
-
 
     <div class="full gray">
 
