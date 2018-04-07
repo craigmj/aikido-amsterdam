@@ -28,7 +28,8 @@ mobile:
   nl: |
     Tijden informatie in Nederlands.
 - name: fees
-  en: "Fees Information\n<b>\nAdults\t€ 42,50 Monthly\n<b/>\nKids\t€ 30,00 Monthly\n\n"
+  en: "<b>\nAdults\t€ 42,50 Monthly\n<b/>\n<b>\nKids\t€ 30,00 Monthly\n<b/>\n<b>\nToddlers\t€
+    40,00 Monthly\n<b/>\n"
   nl: |
     Kosten informatie in Nederlands.
 - name: agenda
