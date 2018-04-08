@@ -634,7 +634,7 @@ pages:
     en: |
       <h1>Palmstraat</h1> <h2>Monday</h2>
 
-      |From|To|Class|
+      ||||
       |---|---|---|
       |15:45|16:45|children(4-9)|
       |17:00|18:00|children(10-15)|
@@ -644,7 +644,7 @@ pages:
     nl: |
       <h1>Palmstraat</h1> <h2>Maandag</h2>
 
-      |From|To|Class|
+      ||||
       |---|---|---|
       |15:45|16:45|children(4-9)|
       |17:00|18:00|children(10-15)|
@@ -662,7 +662,7 @@ pages:
     en: |+
       <h1>Wenckebachweg</h1> <h2>Wednesday</h2>
 
-      |From|To|Class|
+      ||||
       |---|---|---|
       |13:45|14:45|toddlers (4-6).|
       |15:15|16:15|parent/ kids.|
@@ -671,7 +671,7 @@ pages:
     nl: |
       <h1>Wenckebachweg</h1> <h2>Woensdag</h2>
 
-      |Van|Tot|Les|
+      ||||
       |---|---|---|
       |13:45|14:45|kleuters (4-6).|
       |15:15|16:15|ouder/ kind.|
