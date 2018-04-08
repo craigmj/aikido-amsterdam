@@ -2050,8 +2050,7 @@ events:
     en: Aikido Amsterdam Day
     nl: Aikido Amsterdam Dag
   desc:
-    en: |-
-      <i>
+    en: |
       Teachers of the Day:
       Wilko Vriesman
       Erik Louw
@@ -2060,7 +2059,6 @@ events:
       Paul Janssen
       Rob Conradi
       Location Vriesman dojo Amsterdam
-      </i>
     nl: |-
       Leraren op deze dag
       Wilko Vriesman
