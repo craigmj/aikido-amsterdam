@@ -672,7 +672,7 @@ pages:
       <h1>Wenckebachweg</h1> <h2>Woensdag</h2>
 
       |Van|Tot|Les|
-      |----|----|----|
+      |---|---|---|
       |13:45|14:45|kleuters (4-6).|
       |15:15|16:15|ouder/ kind.|
       |
@@ -684,26 +684,23 @@ pages:
   - alias: ""
     tile: 3,0,1,1
     img: ""
-    en: |
-      <h1>Palmstraat</h1> <h2>Thursday</h2> <div class="classtimes">
-        <div>19:30</div>
-        <div>20:30</div>
-        <div>beginners</div>
+    en: |+
+      <h1>Palmstraat</h1> <h2>Thursday</h2>
 
-        <div>20:30</div>
-        <div>21:30</div>
-        <div>all</div>
-      </div>
+      |From|To|Class|
+      |---|---|---|
+      |19:30|20:30|adults beginners.|
+      |20:30|21:30|adult advanced.|
+      |
+
     nl: |
-      <h1>Palmstraat</h1> <h2>Donderdag</h2> <div class="classtimes">
-        <div>19:30</div>
-        <div>20:30</div>
-        <div>beginners</div>
+      <h1>Palmstraat</h1> <h2>Donderdag</h2>
 
-        <div>20:30</div>
-        <div>21:30</div>
-        <div>allen</div>
-      </div>
+      |Van|Tot|Les|
+      |---|---|---|
+      |19:30|20:30|volw beginners.|
+      |20:30|21:30|volw gevorderd.|
+      |
     link: ""
     class:
     - darkgray
