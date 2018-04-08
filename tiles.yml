@@ -669,23 +669,13 @@ pages:
       |
 
     nl: |
-      <h1>Wenckebachweg</h1> <h2>Woensdag</h2> <div class="classtimes">
-        <div>13:45</div>
-        <div>14:45</div>
-        <div>peuters/kleuters</div>
+      <h1>Wenckebachweg</h1> <h2>Woensdag</h2>
 
-        <div>15:15</div>
-        <div>16:15</div>
-        <div>ouders/kind</div>
-
-        <div>19:00</div>
-        <div>20:00</div>
-        <div>beginners</div>
-
-        <div>20:30</div>
-        <div>21:30</div>
-        <div>allen</div>
-      </div>
+      |Van|Tot|Les|
+      |---|---|---|
+      |13:45|14:45|kleuters (4-6).|
+      |15:15|16:15|ouder/ kind.|
+      |
     link: ""
     class:
     - red
