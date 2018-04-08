@@ -1619,8 +1619,17 @@ pages:
   - alias: ""
     tile: 0,3,1,1
     img: /img/upload/180303-133412.jpg
-    en: This is us
-    nl: Dit zijn wiz
+    en: 'I have always been a harmony seeker!  Between me and myself and in my surrounding.  I
+      practice Aikido since September 2012.  For me, Aikido is on the one hand a challenging
+      physical training where I work on my condition, and on the other hand I experience
+      it as a physical manifestation of the mind where by exercising I continuously
+      work on becoming more and more grounded yet in tune with others.  '
+    nl: 'Ik ben altijd een harmoniezoeker geweest!  Tussen mij en mijzelf en in mijn
+      omgeving.  Ik beoefen Aikido sinds september 2012.  Voor mij is Aikido enerzijds
+      een fysieke training waarbij ik werk aan mijn conditie, en anderzijds ervaar
+      ik het als een fysieke manifestatie van de geest waarbij ik door te oefenen
+      er voortdurend aan werk om steeds meer geaard te voelen, en toch in afstemming
+      met mijn omgeving. '
     link: ""
     class:
     - red
