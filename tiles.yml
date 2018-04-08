@@ -757,7 +757,7 @@ pages:
   - alias: ""
     tile: 1,1,1,1
     img: ""
-    en: |+
+    en: |-
       <h1>Palmstraat</h1> <h2>Tuesday</h2>
 
       ||||
@@ -766,7 +766,8 @@ pages:
       |12:30|13:30|adults all|
       |13:30|14:30|weapons|
 
-    nl: |+
+      Weapon classes either bokken (wooden sword) or jo (wooden stick).
+    nl: |-
       <h1>Palmstraat</h1> <h2>Dinsdag</h2>
 
       ||||
@@ -775,6 +776,7 @@ pages:
       |12:30|13:30|volw allen|
       |13:30|14:30|wapens|
 
+      Wapen lessen of bokken (houten zwaard) of jo (houten stok).
     link: ""
     class:
     - darkgray
