@@ -766,7 +766,7 @@ pages:
       |12:30|13:30|adults all|
       |13:30|14:30|weapons|
 
-      Weapon classes either bokken (wooden sword) or jo (wooden stick).
+      Weapon classes either bokken or jo.
     nl: |-
       <h1>Palmstraat</h1> <h2>Dinsdag</h2>
 
@@ -776,7 +776,7 @@ pages:
       |12:30|13:30|volw allen|
       |13:30|14:30|wapens|
 
-      Wapen lessen of bokken (houten zwaard) of jo (houten stok).
+      Wapen lessen of bokken of jo.
     link: ""
     class:
     - darkgray
