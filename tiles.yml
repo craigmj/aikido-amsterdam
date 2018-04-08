@@ -696,7 +696,8 @@ pages:
     nl: |
       <h1>Palmstraat</h1> <h2>Donderdag</h2>
 
-      <b>
+
+      |---|---|---|
       |19:30|20:30|volw beginners.|
       |20:30|21:30|volw gevorderd.|
       |
