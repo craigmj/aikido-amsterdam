@@ -729,23 +729,15 @@ pages:
       |17,00|18:00|parent/ kids|
       |18:15|19:45|chi kung|
     nl: |
-      <h1>Palmstraat</h1> <h2>Vrijdag</h2> <div class="classtimes">
-        <div>9:00</div>
-        <div>10:00</div>
-        <div>beginners</div>
+      <h1>Palmstraat</h1> <h2>Vrijdag</h2>
 
-        <div>10:30</div>
-        <div>12:00</div>
-        <div>chi kung</div>
-
-        <div>15:45</div>
-        <div>16:45</div>
-        <div>peuters/kleuters</div>
-
-        <div>17:00</div>
-        <div>18:00</div>
-        <div>ouders/kind</div>
-      </div>
+      ||||
+      |---|---|---|
+      |09:00|10:00|volw allen|
+      |10:30|12:00|chi kung|
+      |15:45|16:45|peuters(4-6)|
+      |17,00|18:00|ouder/ kind|
+      |18:15|19:45|chi kung|
     link: ""
     class:
     - blue
