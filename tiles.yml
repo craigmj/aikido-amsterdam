@@ -772,16 +772,15 @@ pages:
   - alias: ""
     tile: 1,1,1,1
     img: ""
-    en: |
-      <h1>Palmstraat</h1> <h2>Tuesday</h2> <div class="classtimes">
-        <div>12:30</div>
-        <div>13:30</div>
-        <div>Lunch class</div>
+    en: |+
+      <h1>Palmstraat</h1> <h2>Tuesday</h2>
 
-        <div>13:30</div>
-        <div>14:30</div>
-        <div>Weapons</div>
-      </div>
+      |From|To|Class|
+      |---|---|---|
+      |11:30|12:30|budokids(3-4)|
+      |12:30|13:30|adults all|
+      |13:30|14:30|weapons|
+
     nl: |
       <h1>Palmstraat</h1> <h2>Dinsdag</h2> <div class="classtimes">
         <div>12:30</div>
