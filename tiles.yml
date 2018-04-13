@@ -1505,10 +1505,8 @@ pages:
   - alias: ""
     tile: 1,0,2,2
     img: ""
-    en: |
-      Here is the calendar.
-    nl: |
-      Hier is die kalendaar.
+    en: '[events-en]'
+    nl: '[events-nl]'
     link: ""
     class:
     - darkgray
@@ -2006,14 +2004,6 @@ quotes:
       fantastische leraar!
     who: Maria Nogueira
 events:
-- date: 2018-02-23
-  title:
-    en: 5th Friendship Seminar
-    nl: 5de Vriendskap Seminaar
-  desc:
-    en: "5th Friendship Seminar of Tom Dijkman at Cape Town Aikido.\t"
-    nl: 5de Vriendskap Seminaar van Tom Dijkman by Kaapstad Aikido.
-  link: https://www.aiki.co.za
 - date: 2018-04-26
   title:
     en: test
@@ -2022,3 +2012,11 @@ events:
     en: ""
     nl: ""
   link: ""
+- date: 2018-02-23
+  title:
+    en: 5th Friendship Seminar
+    nl: 5de Vriendskap Seminaar
+  desc:
+    en: "5th Friendship Seminar of Tom Dijkman at Cape Town Aikido.\t"
+    nl: 5de Vriendskap Seminaar van Tom Dijkman by Kaapstad Aikido.
+  link: https://www.aiki.co.za
