@@ -1399,7 +1399,7 @@ pages:
     - blue
     member_name: ""
     member_age: ""
-  - alias: ""
+  - alias: events-list
     tile: 1,0,2,2
     img: ""
     en: "[events-en]\t"
