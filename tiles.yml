@@ -1402,10 +1402,8 @@ pages:
   - alias: ""
     tile: 1,0,2,2
     img: ""
-    en: |
-      Here is the calendar.
-    nl: |
-      Hier is die kalendaar.
+    en: "[events-en]\t"
+    nl: '[events-nl]'
     link: ""
     class:
     - darkgray
