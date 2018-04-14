@@ -1563,7 +1563,7 @@ pages:
     member_age: "50"
   - alias: ""
     tile: 2,2,1,1
-    img: /img/upload/180303-142149.jpg
+    img: ""
     en: I have been training at Aikido Amsterdam for many years. Tom is a passionate,
       accessible and very experienced teacher. Thanks to him and thanks to the members,
       this is an open dojo where everyone is welcome and where they can be trained
@@ -1951,6 +1951,16 @@ events:
   link: ""
 - date: 2018-06-16
   title:
+    en: Christian Tissier in Amsterdam
+    nl: Christian Tissier in Amsterdam
+  desc:
+    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
+      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
+    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
+      \nLizzy Ansinghstraat 88\nAmsterdam"
+  link: ""
+- date: 2018-06-16
+  title:
     en: Tissier Sensei & Miyamoto Sensei in Kyoto
     nl: Tissier Sensei & Miyamoto Sensei in Kyoto
   desc:
@@ -1961,16 +1971,6 @@ events:
       Seminar organized by Aikido Kyoto
       Yoko Okamoto Sensei
   link: https://www.aikidokyoto.com/en/classes-and-schedule/seminars-and-events.html
-- date: 2018-06-16
-  title:
-    en: Christian Tissier in Amsterdam
-    nl: Christian Tissier in Amsterdam
-  desc:
-    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
-      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
-    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
-      \nLizzy Ansinghstraat 88\nAmsterdam"
-  link: ""
 - date: 2018-05-27
   title:
     en: 3th Dan Preparation DAF
