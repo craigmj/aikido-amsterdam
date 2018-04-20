@@ -1726,8 +1726,8 @@ pages:
   - alias: ""
     tile: 0,2,2,2
     img: /img/upload/180303-181858.jpg
-    en: This is us
-    nl: Dit zijn wiz
+    en: Who we are
+    nl: Dit zijn wij
     link: ""
     class: []
     member_name: ""
