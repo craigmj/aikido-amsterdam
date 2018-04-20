@@ -348,7 +348,7 @@ pages:
   - alias: ""
     tile: 0,4,1,1
     img: ""
-    en: This is us
+    en: Who we are
     nl: Dit zijn wij
     link: who
     class:
