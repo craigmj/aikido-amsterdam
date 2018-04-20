@@ -890,7 +890,7 @@ pages:
   - alias: ""
     tile: 0,1,1,1
     img: ""
-    en: Class times
+    en: Schedule
     nl: Lestijden
     link: times
     class:
