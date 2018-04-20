@@ -403,7 +403,7 @@ pages:
   - alias: ""
     tile: 0,2,1,1
     img: ""
-    en: Class times
+    en: Schedule
     nl: Lestijden
     link: times
     class:
@@ -433,7 +433,7 @@ pages:
     tile: 0,3,1,1
     img: ""
     en: Charity
-    nl: Charity
+    nl: Liefdadigheid
     link: charity
     class:
     - white
@@ -463,7 +463,7 @@ pages:
     tile: 3,3,1,1
     img: ""
     en: Children
-    nl: Kinders
+    nl: Kinderen
     link: children
     class:
     - white
@@ -472,8 +472,8 @@ pages:
   - alias: ""
     tile: 0,4,1,1
     img: ""
-    en: This is us
-    nl: Dit zijn wiz
+    en: Who we are
+    nl: Dit zijn wij
     link: who
     class:
     - blue
