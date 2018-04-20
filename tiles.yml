@@ -758,7 +758,7 @@ pages:
   - alias: ""
     tile: 2,1,1,1
     img: ""
-    en: children
+    en: Children
     nl: Kinderen
     link: children
     class: []
