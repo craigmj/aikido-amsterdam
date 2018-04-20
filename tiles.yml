@@ -1527,13 +1527,14 @@ pages:
   - alias: ""
     tile: 1,2,1,1
     img: /img/upload/180303-133655.jpeg
-    en: Why Aikido? For me a fascinating sport where you do not act from the mind,
-      but practice and develop by trusting in the "other". An added value for my work
-      is that I can reach a common point for solutions faster with others.
+    en: Why Aikido? For me it is a fascinating sport where you do not act originating
+      rom the mind, but practice and develop by trusting in the "other" thing that
+      you learn to cultivate. An added value for my work is that I can reach a common
+      point for solutions faster with others.
     nl: Waarom Aikido? Voor mij een fascinerende sport waar je niet vanuit het denken
-      handelt, maar oefent en ontwikkeld door op het, "andere" te vertrouwen. Een
-      meerwaarde voor in mijn werk is dat ik met anderen sneller een gezamenlijk punt
-      bereik voor oplossingen.
+      handelt, maar oefent en ontwikkelt door op het "andere" te vertrouwen. Een meerwaarde
+      voor in mijn werk is dat ik met anderen sneller een gezamenlijk punt bereik
+      voor oplossingen.
     link: ""
     class:
     - blue
