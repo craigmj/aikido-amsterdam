@@ -106,9 +106,10 @@ mobile:
     40,00 Monthly\n\n<br />\n\nDutch Aikikai Foundation\n€ 15,00 Kids Yearly\n€ 30,00
     Adults Yearly\n\n<br />\n\nMaintenance De Palm\n€ 20,00 Yearly\n\n<br />\n\nPayments
     at Account\nNL32INGB0751857599\nof T.G.B. Dijkman\n"
-  nl: "Adults\t€ 42,50 p/maand\n\nKids\t€ 30,00 p/maand\n\nKleuters\t€ 40,00 p/maand\n\nDutch
-    Aikikai Foundation\n€ 15,00/ € 30,00 p/jaar\nKids / Volwassenen\n\nOnderhoud De
-    Palm\n€ 20,00 p/jaar\n\nBetalingen op rek\nNL32INGB0751857599\nt.a.v. T.G.B. Dijkman\n\n"
+  nl: "Adults\t€ 42,50 p/maand\n\n<br />\n\nKids\t€ 30,00 p/maand\n\n<br />\n\nKleuters\t€
+    40,00 p/maand\n\n<br />\n\nDutch Aikikai Foundation\n€ 15,00 Kids p/jaar\n€ 30,00
+    Volw p/jaar\n\n<br />\n\nOnderhoud De Palm\n€ 20,00 p/jaar\n\n<br />\n\nBetalingen
+    op rek\nNL32INGB0751857599\nt.a.v. T.G.B. Dijkman\n\n"
 - name: agenda
   en: "not required\t\n"
   nl: not required
