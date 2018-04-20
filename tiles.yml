@@ -1219,12 +1219,19 @@ pages:
     tile: 0,2,1,2
     img: ""
     en: |+
-      <h1>Aurel Chaoul Pelleg (50)</h1> <p>Aurel practiced already 32 Aikido is 1st Dan Aikikai Aikido. He has successfully completed the teacher training program of Aikido Netherlands. Aurel is permanent assistant and replacement for the various children's lessons in the Dojo. Aurel has a gift to deal with children and is the permanent trust person within the dojo. Besides Aikido Aurel works as a therapist with personal energy management, and he is intensely involved in permaculture projects in and around Amsterdam, for private and public purposes.</p>
+      <h1>Aurel Chaoul Pelleg (50)</h1> <p>Aurel has been practicing Aikido for 32 years and holds the 1st Dan in Aikikai Aikido. He has successfully completed the teacher training program of Aikido Netherlands. Aurel is the permanent assistant for the various children's classes in the dojo and replaces Tom for these classes when he is travelling. Aurel has a gift to deal with children and is the confidant of the dojo.
+
+      Besides Aikido Aurel works as a therapist with personal energy management, and he is intensely involved in permaculture projects in and around Amsterdam, for private and public purposes.</p>
 
 
-    nl: |+
-      <h1>Aurel Chaoul Pelleg (50)</h1> <p>Aurel beoefend al 32 Aikido is 1st Dan Aikikai Aikido. Hij heeft met success de lerarent opleiding van Aikido Nederland afgerond. Aurel is vaste assistent en vervanger bij de verschillende kinderlessen in de Dojo. Aurel heeft een gave om met kinderen om te gaan en is de vaste vertrouwens-persoon binnen de dojo. Naast Aikido werkt Aurel als therapeut met persoonlijke energie management, en is hij intens betrokken bij permacultuur projecten in en rondom Amsterdam, voor prive' en openbare doeleinden.</p>
-
+    nl: "<h1>Aurel Chaoul Pelleg (50)</h1> <p>Aurel beoefend al 32 Aikido is 1st Dan
+      Aikikai Aikido. Hij heeft met success de leraren opleiding van Aikido Nederland
+      afgerond. Aurel is vaste assistent bij de verschillende kinderlessen in de dojo
+      en vervangt Tom als hij op reis is. Aurel heeft een gave om met kinderen om
+      te gaan en is tevens de vaste vertrouwenspersoon van de dojo. \n\nNaast Aikido
+      werkt Aurel als therapeut met persoonlijk energie management en is hij intens
+      betrokken bij permacultuur projecten in en rondom Amsterdam, voor prive' en
+      openbare doeleinden.</p>\n\n"
     link: ""
     class:
     - blue
