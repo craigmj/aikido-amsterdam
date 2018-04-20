@@ -1009,7 +1009,7 @@ pages:
     tile: 3,0,1,1
     img: ""
     en: |
-      <p>Small groups, individual attention and overall great fun.</p>
+      <p>Small groups, individual attention and of course great fun.</p>
     nl: |
       <p>Kleine groepen, veel individuele aandacht en vooral heel veel plezier!</p>
     link: ""
@@ -1022,7 +1022,7 @@ pages:
     img: ""
     en: <p>Budo Kids for kids from 3-4 years, small groups Tuesdays and Thursdays
       by Andra Perrin.</p>
-    nl: <p>Budo Kids voor kids van 3-4 jaar, kleine groepen op dinsdag en donderdag
+    nl: <p>Budo Kids voor kinderen van 3-4 jaar, kleine groepen op dinsdag en donderdag
       door Andra Perrin.</p>
     link: ""
     class:
@@ -1042,11 +1042,11 @@ pages:
     tile: 0,2,1,1
     img: ""
     en: "<h1>Children 6 - 12 years</h1> \n\nThe attention within the lessons and the
-      exams are based on 3 things; Falling and rolling from various positions. The
-      etiquette within Aikido and the techniques."
-    nl: "<h1>Kindered 6 - 12 jaar</h1> \n\nDe aandacht binnen de lessen en de examens
-      gaan uit van 3 dingen; Vallen en rollen vanuit diverse posities. De etiquette
-      binenn Aikido en de technieken.\n"
+      exams are based on 3 things; falling and rolling from various positions. The
+      etiquette of Aikido and Aikido techniques."
+    nl: "<h1>Kinderen 6 - 12 jaar</h1> \n\nDe aandacht binnen de lessen en de examens
+      gaan uit van 3 dingen; vallen en rollen vanuit diverse posities. De etiquette
+      van Aikido en de Aikido technieken.\n"
     link: ""
     class:
     - blue
