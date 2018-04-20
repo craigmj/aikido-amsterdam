@@ -1619,12 +1619,13 @@ pages:
   - alias: ""
     tile: 3,3,1,1
     img: /img/upload/180303-140614.jpg
-    en: I train Aikido with Tom from the age of 11, first with the youth and now with
-      the adults. It keeps fascinating me to learn all the techniques, sometimes it's
-      easy for me, sometimes difficult. I like to be treated as an adult.
+    en: I train Aikido at Tom's dojo from the age of 11, first at the youth classes
+      and now with the adults. It keeps fascinating me to learn all the techniques.
+      Sometimes it's easy for me, sometimes difficult. I like to be treated as an
+      adult.
     nl: Ik train Aikido bij Tom vanaf mijn 11de, eerst bij de jeugd en nu bij de volwassenen.
       Het blijft mij fascineren om alle technieken te leren, soms valt mij dit makkelijk,
-      soms moeilijk. Ik vind het fijn om volwassen behandled te worden.
+      soms moeilijk. Ik vind het fijn om volwassen behandeld te worden.
     link: ""
     class:
     - gray
