@@ -102,9 +102,10 @@ mobile:
     Kyu preparation monthly
 
 - name: fees
-  en: "Adults\t€ 42,50 Monthly\n\nKids\t€ 30,00 Monthly\n\nToddlers\t€ 40,00 Monthly\n\nDutch
-    Aikikai Foundation\n€ 15,00/ € 30,00 Yearly\nKids / Adults\n\nMaintenance De Palm\n€
-    20,00 Yearly\n\nPayments at Account\nNL32INGB0751857599\nof T.G.B. Dijkman\n"
+  en: "Adults\t€ 42,50 Monthly\n\n<br />\n\nKids\t€ 30,00 Monthly\n\nToddlers\t€ 40,00
+    Monthly\n\nDutch Aikikai Foundation\n€ 15,00/ € 30,00 Yearly\nKids / Adults\n\nMaintenance
+    De Palm\n€ 20,00 Yearly\n\nPayments at Account\nNL32INGB0751857599\nof T.G.B.
+    Dijkman\n"
   nl: "Adults\t€ 42,50 p/maand\n\nKids\t€ 30,00 p/maand\n\nKleuters\t€ 40,00 p/maand\n\nDutch
     Aikikai Foundation\n€ 15,00/ € 30,00 p/jaar\nKids / Volwassenen\n\nOnderhoud De
     Palm\n€ 20,00 p/jaar\n\nBetalingen op rek\nNL32INGB0751857599\nt.a.v. T.G.B. Dijkman\n\n"
@@ -517,13 +518,13 @@ pages:
     img: ""
     en: |-
       <h1>To begin</h1>
-      <b>
+
       Everyone is welcome in the dojos. There are no expectations, other than those that you come with. At your own pace, attuned to who you are, you start the research and learn step by step to apply techniques, fall, roll and protect yourself under increasing pressure.
 
       And then...
 
       The training in the dojos of Aikido Amsterdam is dynamic and physical. The emphasis is on the connection with the partner. Aikido can be practiced at all ages. There are clear agreements about the course of the exercises and the role of the partners. This makes the dojo a stimulating and safe place to train.
-      <b>
+
       The lessons are mixed men and women. The only willingness is to grow physically and take you mentally. In this way you achieve the optimal balance within your personal physical and mental boundaries. Your own development process is central.
     nl: "<h1>Om te beginnen</h1> \n\nIedereen is welkom in de dojo's. Er worden geen
       verwachtingen gesteld, anders dan die waar jezelf mee komt. In je eigen tempo,
@@ -2011,16 +2012,6 @@ events:
   link: ""
 - date: 2018-06-16
   title:
-    en: Christian Tissier in Amsterdam
-    nl: Christian Tissier in Amsterdam
-  desc:
-    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
-      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
-    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
-      \nLizzy Ansinghstraat 88\nAmsterdam"
-  link: ""
-- date: 2018-06-16
-  title:
     en: Tissier Sensei & Miyamoto Sensei in Kyoto
     nl: Tissier Sensei & Miyamoto Sensei in Kyoto
   desc:
@@ -2031,6 +2022,16 @@ events:
       Seminar organized by Aikido Kyoto
       Yoko Okamoto Sensei
   link: https://www.aikidokyoto.com/en/classes-and-schedule/seminars-and-events.html
+- date: 2018-06-16
+  title:
+    en: Christian Tissier in Amsterdam
+    nl: Christian Tissier in Amsterdam
+  desc:
+    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
+      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
+    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
+      \nLizzy Ansinghstraat 88\nAmsterdam"
+  link: ""
 - date: 2018-07-08
   title:
     en: Aikido Amsterdam Day
