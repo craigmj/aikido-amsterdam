@@ -1272,10 +1272,13 @@ pages:
   - alias: ""
     tile: 1,3,1,1
     img: ""
-    en: |
-      <h1>Coen Septer (47)</h1> <p>Has been a member at Aikido Amsterdam since the restriction. He is the regular designer of everything around Aikido Amsterdam. Besides training Aikido weekly, he is a passionate birder, and a great draftsman.</p>
-    nl: |
-      <h1>Coen Septer (47)</h1> <p>Is lid bij Aikido Amsterdam sinds de oprichting. Hij is de vaste ontwerper van alles rondom Aikido Amsterdam. Naast dat hij wekelijks Aikido traint is hij een gepassioneerde vogelaar, en geweldig tekenaar.</p>
+    en: "<h1>Coen Septer (47)</h1> <p>Has been a member at Aikido Amsterdam since
+      the foundation of the dojo. He is the in-house designer of everything that relates
+      to Aikido Amsterdam. \nBesides training Aikido on a weekly basis, he is a passionate
+      birdwatcher, and a great draftsman.</p>\n"
+    nl: "<h1>Coen Septer (47)</h1> <p>Is lid bij Aikido Amsterdam sinds de oprichting.
+      Hij is de vaste ontwerper van alles rondom Aikido Amsterdam. \nNaast dat hij
+      wekelijks Aikido traint is hij een gepassioneerde vogelaar, en geweldig tekenaar.</p>\n"
     link: ""
     class: []
     member_name: ""
