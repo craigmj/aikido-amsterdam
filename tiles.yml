@@ -1072,10 +1072,11 @@ pages:
   - alias: ""
     tile: 2,2,1,1
     img: ""
-    en: "<h1>Parent/kids classes from 6 years and up</h1> \n\n<p>Aikido where parents
-      can participate with their children. From 6 to 14 years<br />\n  "
-    nl: "<h1>Ouders/kind lessen vanaf 6 jaar</h1> \n\n<p>Aikido waarbij ouders mogen
-      deelnemen met hun kinderen. Vanaf 6 tot 14 jaar<br />\n  \n"
+    en: "<h1>Parent/kids classes from 6 years and up</h1> \n\n<br />\n\n<p>Aikido
+      where parents can participate with their children. From 6 to 14 years<br />\n
+      \ "
+    nl: "<h1>Ouders/kind lessen vanaf 6 jaar</h1> \n\n<br />\n\n<p>Aikido waarbij
+      ouders mogen deelnemen met hun kinderen. Vanaf 6 tot 14 jaar<br />\n  \n"
     link: ""
     class:
     - blue
