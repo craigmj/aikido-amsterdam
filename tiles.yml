@@ -1046,10 +1046,15 @@ pages:
     en: |-
       <h1>Children 6 - 12 years</h1>
 
+      <br />
+
       The attention within the lessons and the exams are based on 3 things; falling and rolling from various positions. The etiquette of Aikido and Aikido techniques.
-    nl: "<h1>Kinderen 6 - 12 jaar</h1> \n\nDe aandacht binnen de lessen en de examens
-      gaan uit van 3 dingen; vallen en rollen vanuit diverse posities. De etiquette
-      van Aikido en de Aikido technieken.\n"
+    nl: |
+      <h1>Kinderen 6 - 12 jaar</h1>
+
+      <br />
+
+      De aandacht binnen de lessen en de examens gaan uit van 3 dingen; vallen en rollen vanuit diverse posities. De etiquette van Aikido en de Aikido technieken.
     link: ""
     class:
     - blue
