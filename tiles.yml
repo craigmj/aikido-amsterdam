@@ -1184,7 +1184,8 @@ pages:
     en: ""
     nl: ""
     link: ""
-    class: []
+    class:
+    - transparent
     member_name: ""
     member_age: ""
   - alias: ""
