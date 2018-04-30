@@ -1169,7 +1169,8 @@ pages:
       op de Wenckebachweg dojo. voor meer info kan je mailen naar Andra op perrinandra@gmail.com
       \nNaast Aikido is Andra Shiatsu therapeut en gecertifiseerd Chi Kung docent.\n"
     link: ""
-    class: []
+    class:
+    - red
     member_name: ""
     member_age: ""
   - alias: ""
