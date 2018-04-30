@@ -665,8 +665,8 @@ pages:
 
       ||||
       |---|---|---|
-      |19:30|20:30|adults beginners.|
-      |20:30|21:30|adult advanced.|
+      |19:30|-20:30|adults beginners.|
+      |20:30|-21:30|adult advanced.|
       |
 
     nl: |
@@ -674,8 +674,8 @@ pages:
 
       ||||
       |---|---|---|
-      |19:30|20:30|volw beginners.|
-      |20:30|21:30|volw gevorderd.|
+      |19:30|-20:30|volw beginners|
+      |20:30|-21:30|volw gevorderd|
       |
     link: ""
     class:
