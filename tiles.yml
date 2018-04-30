@@ -639,8 +639,8 @@ pages:
 
       ||||
       |---|---|---|
-      |13:45|14:45|toddlers (4-6)|
-      |15:15|16:15|parent/ kids|
+      |13:45|-14:45|toddlers (4-6)|
+      |15:15|-16:15|parent/ kids|
       |
       Parent kids classes as from 7 years, parents can join the classes with their kids.
     nl: |-
@@ -648,8 +648,8 @@ pages:
 
       ||||
       |---|---|---|
-      |13:45|14:45|kleuters (4-6)|
-      |15:15|16:15|ouder/ kind |
+      |13:45|-14:45|kleuters (4-6)|
+      |15:15|-16:15|ouder/ kind |
       |
       Ouder kind les vanaf 7 jaar, ouders kunnen samen trainen met hun kinderen.
     link: ""
