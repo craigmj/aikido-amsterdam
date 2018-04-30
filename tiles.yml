@@ -1204,10 +1204,18 @@ pages:
   - alias: ""
     tile: 3,1,1,1
     img: ""
-    en: |
-      <h1>Dennis Ter Haar (40)</h1> <p>Has been practicing Aikido since December 2000 and holds the 2nd Dan in Aikikai Aikido. Dennis has been training with Tom Dijkman for a long time and regularly teaches at the dojo of Aikido Amsterdam when Tom is travelling. Dennis has the gift to shape his lessons with great attention to detail. A lot of inspiration for his lessons is derived from the clear Aikido style of Christian Tissier Shihan.</p>
-    nl: |
-      <h1>Dennis Ter Haar (40)</h1> <p>Beoefent aikido sinds december 2000 en heeft sinds 2014 de 2de Dan Aikikai Aikido. Dennis traint al lange tijd bij Tom Dijkman en geeft regelmatig lessen binnen de dojo van Aikido Amsterdam als Tom afwezig is. Dennis heeft de gave om met veel aandacht voor detail zijn lessen vorm te geven.Veel inspiratie voor zijn lessen haalt Dennis uit de heldere aikido stijl van Christian Tissier Shihan.</p>
+    en: |-
+      <h1>Aurel Chaoul Pelleg (50)</h1> <p>Aurel has been practicing Aikido for 32 years and holds the 1st Dan in Aikikai Aikido. He has successfully completed the teacher training program of Aikido Netherlands. Aurel is the permanent assistant for the various children's classes in the dojo and replaces Tom for these classes when he is travelling. Aurel has a gift to deal with children and is the confidant of the dojo.
+
+      Besides Aikido Aurel works as a therapist with personal energy management, and he is intensely involved in permaculture projects in and around Amsterdam, for private and public purposes.</p>
+    nl: "<h1>Aurel Chaoul Pelleg (50)</h1> <p>Aurel beoefent al 32 jaar Aikido en
+      heeft de 1e Dan Aikikai Aikido. Hij heeft met success de leraren opleiding van
+      Aikido Nederland afgerond. Aurel is vaste assistent bij de verschillende kinderlessen
+      in de dojo en vervangt Tom als hij op reis is. Aurel heeft een gave om met kinderen
+      om te gaan en is tevens de vaste vertrouwenspersoon van de dojo. \n\nNaast Aikido
+      werkt Aurel als therapeut met persoonlijk energie management en is hij intens
+      betrokken bij permacultuur projecten in en rondom Amsterdam, voor prive' en
+      openbare doeleinden.</p>\n"
     link: ""
     class:
     - blue
