@@ -1240,7 +1240,7 @@ pages:
       voor Tom als hij niet aanwezig is.</p>
     link: ""
     class:
-    - gray
+    - red
     member_name: ""
     member_age: ""
   - alias: ""
