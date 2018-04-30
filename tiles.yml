@@ -220,8 +220,8 @@ pages:
   - alias: ""
     tile: 1,2,1,1
     img: ""
-    en: Dojo Members
-    nl: Dojo Leden
+    en: Dojo + Members
+    nl: Dojo + Leden
     link: members
     class:
     - red
@@ -306,9 +306,13 @@ pages:
     tile: 0,2,2,1
     img: ""
     en: |-
+      <b>
+
       We as Aikido Amsterdam have decided to increase our monthly contribution by an amount of EU 2.50. The proceeds will be fully benefited by the Uhambo Foundation in South Africa.
 
       "I will gladly come and explain to you what the Uhambo Foundation stands for"
+
+      </b>
 
       Tom Dijkman
       Aikido Amsterdam
@@ -450,8 +454,8 @@ pages:
   - alias: ""
     tile: 2,3,1,1
     img: ""
-    en: Dojo Members
-    nl: Dojo Leden
+    en: Dojo + Members
+    nl: Dojo + leden
     link: members
     class:
     - blue
@@ -551,17 +555,17 @@ pages:
     tile: 2,2,2,1
     img: ""
     en: |
-      The lessons are given by Tom Dijkman and Andra Perrin.
+      <p>The lessons are given by Tom Dijkman and Andra Perrin.
 
       Tom has been practicing Aikido for more than 25 years and continues to expand and deepen his knowledge and understanding of Aikido. As a result he travels a lot both in the Netherlands and abroad.He visits Japan annually for inspiration and training.
 
-      Andra has been practicing Aikido since 2005. Together with Tom she teaches the toddler classes and the parent / child class. Furthermore she teaches the beginner's class on Thursday and replaces Tom when he is abroad.
+      Andra has been practicing Aikido since 2005. Together with Tom she teaches the toddler classes and the parent / child class. Furthermore she teaches the beginner's class on Thursday and replaces Tom when he is abroad.</p>
     nl: |
-      De lessen worden gegeven door Tom Dijkman en Andra Perrin.
+      <p>De lessen worden gegeven door Tom Dijkman en Andra Perrin.
 
       Tom beoefent al ruim 25 jaar Aikido en blijft zich verdiepen. Hiervoor reist hij veel in binnen- en buitenland. Bovendien gaat hij jaarlijks naar Japan om inspiratie op te doen en trainingen te volgen.
 
-      Andra beoefent Aikido sinds 2005. Zij geeft samen met Tom de peuter-, kleuterlessen en de ouder-/ kindles. Verder geeft zij vast de beginnersles op donderdag en neemt de lessen waar als Tom op reis  is.
+      Andra beoefent Aikido sinds 2005. Zij geeft samen met Tom de peuter-, kleuterlessen en de ouder-/ kindles. Verder geeft zij vast de beginnersles op donderdag en neemt de lessen waar als Tom op reis  is.</p>
     link: ""
     class:
     - gray
@@ -785,8 +789,8 @@ pages:
   - alias: ""
     tile: 2,3,1,1
     img: ""
-    en: Dojo Members
-    nl: Dojo Leden
+    en: Dojo + Members
+    nl: Dojo + leden
     link: members
     class:
     - darkgray
@@ -946,8 +950,8 @@ pages:
   - alias: ""
     tile: 2,3,1,1
     img: ""
-    en: Dojo Members
-    nl: Dojo Leden
+    en: Dojo + Members
+    nl: Dojo + leden
     link: members
     class:
     - darkgray
@@ -990,16 +994,12 @@ pages:
     en: |+
       <h1>Youngsters from 3 - 6 years</h1>
 
-      <br />
-
-      The children learn the basic principles of Aikido such as: balanced standing, falling, rolling and Japanese counting.
+      <p>The children learn the basic principles of Aikido such as: balanced standing, falling, rolling and Japanese counting.</p>
 
     nl: |+
       <h1>Peuters &amp; kleuters van 3 - 6 jaar</h1>
 
-      <br />
-
-      De kinderen leren de basis  principes van Aikido zoals: evenwichtig staan, vallen, rollen en japans tellen.
+      <p>De kinderen leren de basis  principes van Aikido zoals: evenwichtig staan, vallen, rollen en japans tellen.</p>
 
 
     link: ""
@@ -1022,10 +1022,10 @@ pages:
   - alias: ""
     tile: 2,1,1,1
     img: ""
-    en: Budo Kids for kids from 3-4 years, small groups Tuesdays and Thursdays by
-      Andra Perrin.
-    nl: Budo Kids voor kinderen van 3-4 jaar, kleine groepen op dinsdag en donderdag
-      door Andra Perrin.
+    en: <p>Budo Kids for kids from 3-4 years, small groups Tuesdays and Thursdays
+      by Andra Perrin.</p>
+    nl: <p>Budo Kids voor kinderen van 3-4 jaar, kleine groepen op dinsdag en donderdag
+      door Andra Perrin.</p>
     link: ""
     class:
     - center
@@ -1043,18 +1043,12 @@ pages:
   - alias: ""
     tile: 0,2,1,1
     img: ""
-    en: |-
-      <h1>Children 6 - 12 years</h1>
-
-      <br />
-
-      The attention within the lessons and the exams are based on 3 things; falling and rolling from various positions. The etiquette of Aikido and Aikido techniques.
-    nl: |
-      <h1>Kinderen 6 - 12 jaar</h1>
-
-      <br />
-
-      De aandacht binnen de lessen en de examens gaan uit van 3 dingen; vallen en rollen vanuit diverse posities. De etiquette van Aikido en de Aikido technieken.
+    en: "<h1>Children 6 - 12 years</h1> \n\n\n<p>The attention within the lessons
+      and the exams are based on 3 things; falling and rolling from various positions.
+      The etiquette of Aikido and Aikido techniques.<br />"
+    nl: "<h1>Kinderen 6 - 12 jaar</h1> \n\nDe aandacht binnen de lessen en de examens
+      gaan uit van 3 dingen; vallen en rollen vanuit diverse posities. De etiquette
+      van Aikido en de Aikido technieken.\n"
     link: ""
     class:
     - blue
@@ -1072,10 +1066,10 @@ pages:
   - alias: ""
     tile: 2,2,1,1
     img: ""
-    en: "<h1>Parent/kids classes from 6 years and up</h1> \n\n<br />\n\nAikido where
-      parents can participate with their children. From 6 to 14 years\n  "
-    nl: "<h1>Ouders/kind lessen vanaf 6 jaar</h1> \n\n<br />\n\nAikido waarbij ouders
-      mogen deelnemen met hun kinderen. Vanaf 6 tot 14 jaar\n  \n"
+    en: "<h1>Parent/kids classes from 6 years and up</h1> \n  <p>Aikido where parents
+      can participate with their children.\n  From 6 to 14 years<br />\n  "
+    nl: "<h1>Ouders/kind lessen vanaf 6 jaar</h1> \n  <p>Aikido waarbij ouders mogen
+      deelnemen met hun kinderen.\n  Vanaf 6 tot 14 jaar<br />\n  \n"
     link: ""
     class:
     - blue
@@ -1085,9 +1079,9 @@ pages:
     tile: 3,2,1,1
     img: ""
     en: |
-      Super fun and quality time with your child!
+      <p>Super fun and quality time with your child!</p>
     nl: |
-      Superleuk om to doen en quality time met je kind!
+      <p>Superleuk om to doen en quality time met je kind!</p>
     link: ""
     class:
     - center
@@ -1096,12 +1090,12 @@ pages:
   - alias: ""
     tile: 1,3,1,1
     img: ""
-    en: "<h1>Young adults 13 - 17 years</h1>\n\n<br />\n\nTo interact with each other
-      in a physical way. Being treated as an adult and how to be more resilient both
-      mentally and physically\n  "
-    nl: "<h1>Jong Volwassenen 13-17 jaar</h1>\n\n<br />\n\nMet elkaar op een fysieke
-      manier een interactie aangaan. Volwassen behandeld worden en weerbaarder te
-      zijn zowel mentaal als fysiek\n  \n"
+    en: "<h1>Young adults 13 - 17 years</h1>   \n<p>To interact with each other in
+      a physical way. Being treated as an adult and how to be more resilient both
+      mentally and physically<br />\n  "
+    nl: "<h1>Jong Volwassenen 13-17 jaar</h1> \n  <p>Met elkaar op een fysieke manier
+      een interactie aangaan. Volwassen behandeld worden en weerbaarder te zijn zowel
+      mentaal als fysiek<br />\n  \n"
     link: ""
     class:
     - red
@@ -1203,7 +1197,7 @@ pages:
     member_name: ""
     member_age: ""
   - alias: ""
-    tile: 2,1,1,1
+    tile: 3,3,1,1
     img: /img/upload/WHO-3-2-1-1.jpg
     en: ""
     nl: ""
@@ -1362,8 +1356,8 @@ pages:
   - alias: ""
     tile: 3,0,1,1
     img: ""
-    en: Dojo Members
-    nl: Dojo Leden
+    en: Dojo + Members
+    nl: Dojo + Leden
     link: members
     class:
     - blue
@@ -1676,23 +1670,23 @@ pages:
   - alias: ""
     tile: 3,0,1,1
     img: ""
-    en: "<h1>Aikido &amp; Chi Kung Weekend 2018</h1> \n\nThe weekend will be held
-      in the wonderful Haule in the northern Netherlands. As every year we are guests
-      at the bed and breakfast from our good friends Han and Kevin, where they take
-      good care of us with nice sleeping places and great food.\n\nThe weekend is
-      from Friday morning until the lunch on Sunday. As always, there will be in the
-      morning Chi Kung lessons provided by Andra at the beautifull surroundings of
-      the Bed and Breakfast. After breakfast we are going to the dojo at the Sportstad
+    en: "<h1>Aikido &amp; Chi Kung Weekend 2018</h1> \n\n  <p>The weekend will be
+      held in the wonderful Haule in the northern Netherlands. As every year we are
+      guests at the bed and breakfast from our good friends Han and Kevin, where they
+      take good care of us with nice sleeping places and great food.\n\nThe weekend
+      is from Friday morning until the lunch on Sunday. As always, there will be in
+      the morning Chi Kung lessons provided by Andra at the beautifull surroundings
+      of the Bed and Breakfast. After breakfast we are going to the dojo at the Sportstad
       Heerenveen for the Aikido part of the day. This means 2 intensive sessions with
-      a lunchbreak."
-    nl: "<h1>Aikido &amp; Chi Kung Weekend 2018</h1> \n\nHet weekend wordt gehouden
+      a lunchbreak. <br />"
+    nl: "<h1>Aikido &amp; Chi Kung Weekend 2018</h1> \n\n  <p>Het weekend wordt gehouden
       in het prachtige Haule in het noorden van Nederland. Zoals ieder jaar zijn we
       te gast bij de Bed and Breakfast van onze inmiddels goede vrienden Han en Kevin.
       Zij zorgen goed voor ons met nette slaapvertrekken en goed eten.\n\nHet weekend
       wordt gehouden van vrijdagochtend tot en met de lunch op zondag. Zoals altijd
       zijn er in de ochtend Chi Kung lessen van Andra op het prachtige terrein van
       de B&B. Na het ontbijt gaan we naar de dojo bij Sportstad Heerenveen voor de
-      Aikido lessen. Dat zijn 2 intensieve lessen met een lunchbreak."
+      Aikido lessen. Dat zijn 2 intensieve lessen met een lunchbreak. <br />"
     link: ""
     class:
     - gray
@@ -1719,13 +1713,13 @@ pages:
   - alias: ""
     tile: 1,1,1,1
     img: ""
-    en: "<h1>Visit Japan 2017</h1> \n\nLast December Tom Dijkman was for training
+    en: "<h1>Visit Japan 2017</h1> \n  <p>Last December Tom Dijkman was for training
       in Japan. He visited the Hombu dojo in Tokyo and trained at the dojo's of Yasuno
-      Sensei. After that he trained for 10 days in Kyoto at Okamoto Sensei.\n\n\n\n\n"
-    nl: "<h1>Bezoek aan Japan in 2017</h1> \n\nAfgelopen december was Tom Dijkman
+      Sensei. After that he trained for 10 days in Kyoto at Okamoto Sensei.<br />\n\n\n\n\n"
+    nl: "<h1>Bezoek aan Japan in 2017</h1> \n  <p>Afgelopen december was Tom Dijkman
       voor training in Japan. Hij bezocht in Tokio de Hombu dojo en trainde bij Yasuno
       Sensei in zijn dojo's. Daarna heeft hij nog 10 dagen getraind in Kyoto bij Okamoto
-      Sensei.\n\n\n\n"
+      Sensei.<br />\n\n\n\n"
     link: ""
     class:
     - red
@@ -1743,18 +1737,18 @@ pages:
   - alias: ""
     tile: 0,2,1,1
     img: ""
-    en: "<h1>International Youth Event 2017</h1> \n\nIn November 2017, the first International
-      Youth Event was held under the leadership of Eiji Katsurada Sensei from Hombu
-      Dojo in Japan.\n  \nIn the class of Katsurada Sensei, more than 300 youthful
-      Aikidokas trained together on the mat. Some countries travelled to this event
-      with their own youth team. These youth teams concluded the event with joint
-      presentations."
-    nl: "<h1>International Youth Event 2017</h1> \n\nIn november 2017 is er het eerste
-      Internationale Jeugdevenement gehouden onder leiding van Eiji Katsurada Sensei
-      van Hombu Dojo in Japan. \n  \nOnder de leiding van Katsurada Sensei trainden
-      er meer dan 300 jeugdige Aikidoka's gezamenlijk op de mat. Tevens waren er diverse
-      landen met eigen jeugd teams aanwezig. Deze jeugdteams hebben het evenement
-      afgesloten met gezamenlijke presentaties."
+    en: "<h1>International Youth Event 2017</h1> \n\n  <p>In November 2017, the first
+      International Youth Event was held under the leadership of Eiji Katsurada Sensei
+      from Hombu Dojo in Japan.\n  \nIn the class of Katsurada Sensei, more than 300
+      youthful Aikidokas trained together on the mat. Some countries travelled to
+      this event with their own youth team. These youth teams concluded the event
+      with joint presentations.\n <br />"
+    nl: "<h1>International Youth Event 2017</h1> \n\n  <p>In november 2017 is er het
+      eerste Internationale Jeugdevenement gehouden onder leiding van Eiji Katsurada
+      Sensei van Hombu Dojo in Japan. \n  \nOnder de leiding van Katsurada Sensei
+      trainden er meer dan 300 jeugdige Aikidoka's gezamenlijk op de mat. Tevens waren
+      er diverse landen met eigen jeugd teams aanwezig. Deze jeugdteams hebben het
+      evenement afgesloten met gezamenlijke presentaties. \n <br />"
     link: ""
     class:
     - gray
@@ -1774,16 +1768,16 @@ pages:
   - alias: ""
     tile: 2,2,1,1
     img: ""
-    en: "<h1>Seminar Capetown and 5th year aniversery</h1> \n\nIn February 2018 Tom
-      Dijkman was in Cape Town for the 5th time to give a seminar. This time also
+    en: "<h1>Seminar Capetown and 5th year aniversery</h1> \n  <p>In February 2018
+      Tom Dijkman was in Cape Town for the 5th time to give a seminar. This time also
       the 5 year anniversary of Cape Town Aikido was celebrated. The dojo of Craig-Mason
-      Jones exists for 5 years now and from 2013 onwards Tom has given a \"Friendship\"
-      seminar every year to support the Aikido in the region.\n"
-    nl: "<h1>Seminar Kaapstad en 5 jaar Aikido Kaapstad</h1> \n\nIn Februari 2018
+      Jones exists for 5 years now and from 2013 onwards Tom will give a \"Friendship\"
+      seminar every year to support the Aikido in the region.<br />\n"
+    nl: "<h1>Seminar Kaapstad en 5 jaar Aikido Kaapstad</h1> \n  <p>In Februari 2018
       was Tom Dijkman voor de 5de keer in Kaapstad om een seminar te geven. Dit keer
       werd ook het 5 jarig bestaan van Cape Town Aikido gevierd. De dojo van Craig-Mason
       Jones bestaat nu 5 jaar en vanaf 2013 geeft Tom elk jaar een \"Friendship\"
-      seminar om het Aikido in de regio te ondersteunen.\n\n"
+      seminar om het Aikido in de regio te ondersteunen.<br />\n"
     link: ""
     class: []
     member_name: ""
@@ -1813,14 +1807,14 @@ pages:
   - alias: ""
     tile: 3,3,1,1
     img: ""
-    en: "<h1>Memories Combat Games</h1> \n\nIn 2013, already 5 years ago the last
+    en: "<h1>Memories Combat Games</h1> \n  <p>In 2013, already 5 years ago the last
       Combat Games were held in St Petersburg in Russia. Aikido was propagated by
       various countries with their representatives. Tom Dijkman was present from the
-      Netherlands, he participated in various demonstrations.\n"
-    nl: "<h1>Herinneringen Combat Games</h1> \n\nIn 2013, alweer 5 jaar geleden werden
-      de laatste Combat Games gehouden in St Petersburg in Rusland. Aikido werd uitgedragen
-      door diverse landen met hun vertegenwoordigers. Vanuit Nederland was Tom Dijkman
-      aanwezig, hij deed mee aan diverse demonstraties."
+      Netherlands, he participated in various demonstrations. <br />\n"
+    nl: "<h1>Herinneringen Combat Games</h1> \n  <p>In 2013, alweer 5 jaar geleden
+      werden de laatste Combat Games gehouden in St Petersburg in Rusland. Aikido
+      werd uitgedragen door diverse landen met hun vertegenwoordigers. Vanuit Nederland
+      was Tom Dijkman aanwezig, hij deed mee aan diverse demonstraties. <br />\n"
     link: ""
     class:
     - gray
@@ -2005,16 +1999,6 @@ events:
   link: ""
 - date: 2018-06-16
   title:
-    en: Christian Tissier in Amsterdam
-    nl: Christian Tissier in Amsterdam
-  desc:
-    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
-      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
-    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
-      \nLizzy Ansinghstraat 88\nAmsterdam"
-  link: ""
-- date: 2018-06-16
-  title:
     en: Tissier Sensei & Miyamoto Sensei in Kyoto
     nl: Tissier Sensei & Miyamoto Sensei in Kyoto
   desc:
@@ -2025,6 +2009,16 @@ events:
       Seminar organized by Aikido Kyoto
       Yoko Okamoto Sensei
   link: https://www.aikidokyoto.com/en/classes-and-schedule/seminars-and-events.html
+- date: 2018-06-16
+  title:
+    en: Christian Tissier in Amsterdam
+    nl: Christian Tissier in Amsterdam
+  desc:
+    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
+      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
+    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
+      \nLizzy Ansinghstraat 88\nAmsterdam"
+  link: ""
 - date: 2018-07-08
   title:
     en: Aikido Amsterdam Day
