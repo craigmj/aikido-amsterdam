@@ -1197,16 +1197,6 @@ pages:
     member_name: ""
     member_age: ""
   - alias: ""
-    tile: 3,3,1,1
-    img: /img/upload/WHO-3-2-1-1.jpg
-    en: ""
-    nl: ""
-    link: ""
-    class:
-    - transparent
-    member_name: ""
-    member_age: ""
-  - alias: ""
     tile: 3,1,1,1
     img: ""
     en: |
