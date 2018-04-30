@@ -1223,24 +1223,16 @@ pages:
     member_age: ""
   - alias: ""
     tile: 0,2,1,2
-    img: ""
-    en: |+
-      <h1>Aurel Chaoul Pelleg (50)</h1> <p>Aurel has been practicing Aikido for 32 years and holds the 1st Dan in Aikikai Aikido. He has successfully completed the teacher training program of Aikido Netherlands. Aurel is the permanent assistant for the various children's classes in the dojo and replaces Tom for these classes when he is travelling. Aurel has a gift to deal with children and is the confidant of the dojo.
-
-      Besides Aikido Aurel works as a therapist with personal energy management, and he is intensely involved in permaculture projects in and around Amsterdam, for private and public purposes.</p>
+    img: /i/600/0/0b0cf13714fa6ce820aabe02419eb162.png
+    en: |2+
 
 
-    nl: "<h1>Aurel Chaoul Pelleg (50)</h1> <p>Aurel beoefent al 32 jaar Aikido en
-      heeft de 1e Dan Aikikai Aikido. Hij heeft met success de leraren opleiding van
-      Aikido Nederland afgerond. Aurel is vaste assistent bij de verschillende kinderlessen
-      in de dojo en vervangt Tom als hij op reis is. Aurel heeft een gave om met kinderen
-      om te gaan en is tevens de vaste vertrouwenspersoon van de dojo. \n\nNaast Aikido
-      werkt Aurel als therapeut met persoonlijk energie management en is hij intens
-      betrokken bij permacultuur projecten in en rondom Amsterdam, voor prive' en
-      openbare doeleinden.</p>\n\n"
+
+    nl: |2+
+
     link: ""
     class:
-    - blue
+    - white
     member_name: ""
     member_age: ""
   - alias: ""
