@@ -1043,9 +1043,10 @@ pages:
   - alias: ""
     tile: 0,2,1,1
     img: ""
-    en: "<h1>Children 6 - 12 years</h1> \n\n\n<p>The attention within the lessons
-      and the exams are based on 3 things; falling and rolling from various positions.
-      The etiquette of Aikido and Aikido techniques.<br />"
+    en: |-
+      <h1>Children 6 - 12 years</h1>
+
+      The attention within the lessons and the exams are based on 3 things; falling and rolling from various positions. The etiquette of Aikido and Aikido techniques.
     nl: "<h1>Kinderen 6 - 12 jaar</h1> \n\nDe aandacht binnen de lessen en de examens
       gaan uit van 3 dingen; vallen en rollen vanuit diverse posities. De etiquette
       van Aikido en de Aikido technieken.\n"
@@ -1999,6 +2000,16 @@ events:
   link: ""
 - date: 2018-06-16
   title:
+    en: Christian Tissier in Amsterdam
+    nl: Christian Tissier in Amsterdam
+  desc:
+    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
+      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
+    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
+      \nLizzy Ansinghstraat 88\nAmsterdam"
+  link: ""
+- date: 2018-06-16
+  title:
     en: Tissier Sensei & Miyamoto Sensei in Kyoto
     nl: Tissier Sensei & Miyamoto Sensei in Kyoto
   desc:
@@ -2009,16 +2020,6 @@ events:
       Seminar organized by Aikido Kyoto
       Yoko Okamoto Sensei
   link: https://www.aikidokyoto.com/en/classes-and-schedule/seminars-and-events.html
-- date: 2018-06-16
-  title:
-    en: Christian Tissier in Amsterdam
-    nl: Christian Tissier in Amsterdam
-  desc:
-    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
-      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
-    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
-      \nLizzy Ansinghstraat 88\nAmsterdam"
-  link: ""
 - date: 2018-07-08
   title:
     en: Aikido Amsterdam Day
