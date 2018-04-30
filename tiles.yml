@@ -1133,7 +1133,7 @@ pages:
 - name: who
   tiles:
   - alias: ""
-    tile: 0,0,1,1
+    tile: 0,0,2,2
     img: ""
     en: |
       <h1>Tom Dijkman (47)</h1> <p>Is the founder and chief instructor of Aikido Amsterdam. He has been practicing Aikido for well over 25 years. In 2013 he received the 5th Dan in Aikikai Aikido. He regularly travels the world to learn more and to deepen his understanding. Most classes are taught by Tom, and the other instructors play a supporting role and replace him when Tom is away.</p>
