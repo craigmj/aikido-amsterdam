@@ -1141,7 +1141,7 @@ pages:
       <h1>Tom Dijkman (47)</h1> <p>Is de oprichter van Aikido Amsterdam. Al meer dan 25 jaar beoefent hij Aikido. In 2013 werd hem de 5de Dan Aikikai Aikido uitgereikt. Hij reist regelmatig de wereld rond om zich verder to verdiepen en te blijven ontwikkelen. De meeste lessen worden door Tom  gegeven, een aantal mensen spelen daarbij een aanvullende rol en vervangen hem bij afwezigheid. </p>
     link: ""
     class:
-    - red
+    - gray
     member_name: ""
     member_age: ""
   - alias: ""
