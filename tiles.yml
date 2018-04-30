@@ -737,9 +737,9 @@ pages:
 
       ||||
       |---|---|---|
-      |11:30|12:30|budokids(3-4)|
-      |12:30|13:30|adults all|
-      |13:30|14:30|weapons|
+      |11:30|-12:30|budokids(3-4)|
+      |12:30|-13:30|adults all|
+      |13:30|-14:30|weapons|
 
       Weapon classes either bokken or jo.
     nl: |-
@@ -747,9 +747,9 @@ pages:
 
       ||||
       |---|---|---|
-      |11:30|12:30|budokids(3-4)|
-      |12:30|13:30|volw allen|
-      |13:30|14:30|wapens|
+      |11:30|-12:30|budokids(3-4)|
+      |12:30|-13:30|volw allen|
+      |13:30|-14:30|wapens|
 
       Wapen lessen of bokken of jo.
     link: ""
