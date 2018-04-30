@@ -1097,12 +1097,12 @@ pages:
   - alias: ""
     tile: 1,3,1,1
     img: ""
-    en: "<h1>Young adults 13 - 17 years</h1>\n<br />\n<p>To interact with each other
+    en: "<h1>Young adults 13 - 17 years</h1>\n\n<br />\n\nTo interact with each other
       in a physical way. Being treated as an adult and how to be more resilient both
-      mentally and physically<br />\n  "
-    nl: "<h1>Jong Volwassenen 13-17 jaar</h1>\n<br />\n<p>Met elkaar op een fysieke
+      mentally and physically\n  "
+    nl: "<h1>Jong Volwassenen 13-17 jaar</h1>\n\n<br />\n\nMet elkaar op een fysieke
       manier een interactie aangaan. Volwassen behandeld worden en weerbaarder te
-      zijn zowel mentaal als fysiek<br />\n  \n"
+      zijn zowel mentaal als fysiek\n  \n"
     link: ""
     class:
     - red
