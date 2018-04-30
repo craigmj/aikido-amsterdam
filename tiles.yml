@@ -1219,7 +1219,7 @@ pages:
       openbare doeleinden.</p>\n"
     link: ""
     class:
-    - blue
+    - red
     member_name: ""
     member_age: ""
   - alias: ""
