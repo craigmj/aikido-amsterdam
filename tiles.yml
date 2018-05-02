@@ -660,7 +660,7 @@ pages:
   - alias: ""
     tile: 3,0,1,1
     img: ""
-    en: |+
+    en: |-
       <h1>Palmstraat</h1> <h2>Thursday</h2>
 
       ||||
@@ -669,6 +669,13 @@ pages:
       |20:30|-21:30|adults advanced|
       |
 
+      <h1>Wenckebachweg</h1> <h2>Thursday</h2>
+
+      ||||
+      |---|---|---|
+      |12:30|-13:30|Budokids 2+|
+      |13:30|-14:30|Budokids 3+|
+      |
     nl: |-
       <h1>Palmstraat</h1> <h2>Donderdag</h2>
 
@@ -682,8 +689,8 @@ pages:
 
       ||||
       |---|---|---|
-      |19:30|-20:30|volw beginners|
-      |20:30|-21:30|volw gevorderd|
+      |12:30|-13:30|Budokids 2+|
+      |13:30|-14:30|Budokids 3+|
       |
     link: ""
     class:
