@@ -623,9 +623,9 @@ pages:
       |---|---|---|
       |15:45|-16:45|kinderen(7-9)|
       |17:00|-18:00|kinderen(10-13)|
-      |18:30|-19:30|beginners|
-      |19:30|-20:30|allen|
-      |20:30|-21:30|gevorderd|
+      |18:30|-19:30|volw beginners|
+      |19:30|-20:30|volw allen|
+      |20:30|-21:30|volw gevorderd|
     link: ""
     class:
     - darkgray
