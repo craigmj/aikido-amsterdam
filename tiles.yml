@@ -1845,10 +1845,10 @@ pages:
   - alias: ""
     tile: 3,3,1,1
     img: ""
-    en: "<h1>Memories Combat Games</h1> \n  <p>In 2013, already 5 years ago the last
-      Combat Games were held in St Petersburg in Russia. Aikido was propagated by
-      various countries with their representatives. Tom Dijkman was present from the
-      Netherlands, he participated in various demonstrations. <br />\n"
+    en: "<h1>Memories Combat Games</h1> \n  <p>In 2013, already 5 years ago, the last
+      Combat Games were held in St Petersburg in Russia. Aikido was represented by
+      a delegation from several countries. Tom Dijkman represented the Netherlands
+      and participated in various demonstrations throughout the event. <br />\n"
     nl: "<h1>Herinneringen Combat Games</h1> \n  <p>In 2013, alweer 5 jaar geleden
       werden de laatste Combat Games gehouden in St Petersburg in Rusland. Aikido
       werd uitgedragen door diverse landen met hun vertegenwoordigers. Vanuit Nederland
@@ -2043,6 +2043,16 @@ events:
   link: ""
 - date: 2018-06-16
   title:
+    en: Christian Tissier in Amsterdam
+    nl: Christian Tissier in Amsterdam
+  desc:
+    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
+      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
+    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
+      \nLizzy Ansinghstraat 88\nAmsterdam"
+  link: ""
+- date: 2018-06-16
+  title:
     en: Tissier Sensei & Miyamoto Sensei in Kyoto
     nl: Tissier Sensei & Miyamoto Sensei in Kyoto
   desc:
@@ -2053,16 +2063,6 @@ events:
       Seminar organized by Aikido Kyoto
       Yoko Okamoto Sensei
   link: https://www.aikidokyoto.com/en/classes-and-schedule/seminars-and-events.html
-- date: 2018-06-16
-  title:
-    en: Christian Tissier in Amsterdam
-    nl: Christian Tissier in Amsterdam
-  desc:
-    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
-      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
-    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
-      \nLizzy Ansinghstraat 88\nAmsterdam"
-  link: ""
 - date: 2018-07-08
   title:
     en: Aikido Amsterdam Day
