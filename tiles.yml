@@ -220,8 +220,8 @@ pages:
   - alias: ""
     tile: 1,2,1,1
     img: ""
-    en: Dojo + Members
-    nl: Dojo + Leden
+    en: Dojo Members
+    nl: Dojo Leden
     link: members
     class:
     - red
@@ -454,8 +454,8 @@ pages:
   - alias: ""
     tile: 2,3,1,1
     img: ""
-    en: Dojo + Members
-    nl: Dojo + leden
+    en: Dojo Members
+    nl: Dojo leden
     link: members
     class:
     - blue
@@ -574,8 +574,8 @@ pages:
   - alias: ""
     tile: 2,3,1,1
     img: ""
-    en: Dojo + Members
-    nl: Dojo + leden
+    en: Dojo Members
+    nl: Dojo leden
     link: members
     class:
     - blue
@@ -806,8 +806,8 @@ pages:
   - alias: ""
     tile: 2,3,1,1
     img: ""
-    en: Dojo + Members
-    nl: Dojo + leden
+    en: Dojo Members
+    nl: Dojo leden
     link: members
     class:
     - darkgray
@@ -962,8 +962,8 @@ pages:
   - alias: ""
     tile: 2,3,1,1
     img: ""
-    en: Dojo + Members
-    nl: Dojo + leden
+    en: Dojo Members
+    nl: Dojo leden
     link: members
     class:
     - darkgray
@@ -1390,8 +1390,8 @@ pages:
   - alias: ""
     tile: 3,0,1,1
     img: ""
-    en: Dojo + Members
-    nl: Dojo + Leden
+    en: Dojo Members
+    nl: Dojo Leden
     link: members
     class:
     - blue
