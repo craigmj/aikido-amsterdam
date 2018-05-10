@@ -1973,60 +1973,6 @@ quotes:
     text: Fijne sfeer, inspirerende sensei en geen les is hetzelfde!
     who: Laura Shanna Belmon
 events:
-- date: 2018-04-08
-  title:
-    en: Kyu grade preparation
-    nl: Kyu graden voorbereiding
-  desc:
-    en: "Kyu grading preparation Aikido Amsterdam\nTom Dijkman & Andra Perrin\n\n6th-4th
-      Kyu 13.30-15.00 & 3th-1st Kyu 15.15-16.45 \n\nLocation Aikido Amsterdam: Palmstraat
-      34\n\nCosts € 10,00"
-    nl: |-
-      Kyu graden voorbereiding
-      Tom Dijkman & Andra Perrin
-
-      6de -4de Kyu 13.30-15.00 & 3de -1ste Kyu 15.15-16.45
-
-      Locatie Aikido Amsterdam: Palmstraat 34
-
-      Kosten € 10,00
-  link: ""
-- date: 2018-04-15
-  title:
-    en: Teenage Seminar
-    nl: Teenage Seminar
-  desc:
-    en: |-
-      Teenage Seminar at Aikido Amsterdam
-      13.00-15.30 Palmstraat 34
-      Costs € 15,00
-    nl: |-
-      Teenage Seminar Aikido Amsterdam
-      13.00-15.30 Palmstraat 34
-      Kosten € 15,00
-  link: ""
-- date: 2018-04-21
-  title:
-    en: Stage de Pâques Christian Tissier
-    nl: Stage de Pâques Christian Tissier
-  desc:
-    en: Yearly Seminar by Christian Tissier in Paris
-    nl: Jaarlijks Seminar door Christian Tissier in Parijs
-  link: http://www.christiantissier.com/tissier_stages.html
-- date: 2018-04-29
-  title:
-    en: 3th Dan Preparation DAF
-    nl: 3de Dan voorbereiding DAF
-  desc:
-    en: |-
-      3th Dan preparation lead by Tom Dijkman
-      Veemarkt 151 Amsterdam
-      Costs € 20,00
-    nl: |-
-      3de Dan voorbereiding door Tom Dijkman
-      Veemarkt 151 Amsterdam
-      Kosten € 20,00
-  link: ""
 - date: 2018-05-26
   title:
     en: Seminar Marc Jongsten & Tom Dijkman
@@ -2065,16 +2011,6 @@ events:
   link: ""
 - date: 2018-06-16
   title:
-    en: Christian Tissier in Amsterdam
-    nl: Christian Tissier in Amsterdam
-  desc:
-    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
-      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
-    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
-      \nLizzy Ansinghstraat 88\nAmsterdam"
-  link: ""
-- date: 2018-06-16
-  title:
     en: Tissier Sensei & Miyamoto Sensei in Kyoto
     nl: Tissier Sensei & Miyamoto Sensei in Kyoto
   desc:
@@ -2085,6 +2021,16 @@ events:
       Seminar organized by Aikido Kyoto
       Yoko Okamoto Sensei
   link: https://www.aikidokyoto.com/en/classes-and-schedule/seminars-and-events.html
+- date: 2018-06-16
+  title:
+    en: Christian Tissier in Amsterdam
+    nl: Christian Tissier in Amsterdam
+  desc:
+    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
+      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
+    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
+      \nLizzy Ansinghstraat 88\nAmsterdam"
+  link: ""
 - date: 2018-07-08
   title:
     en: Aikido Amsterdam Day
@@ -2108,4 +2054,16 @@ events:
       Paul Janssen
       Rob Conradi
       Locatie Vriesman Dojo Amsterdam
+  link: ""
+- date: 2018-07-16
+  title:
+    en: Examinations Aikido Amsterdam
+    nl: Examens Aikido Amsterdam
+  desc:
+    en: |-
+      Monday the 16th of July there will be Kyu grade examinations in the dojo at the Palmstraat.
+      Examinations start's at 19.30
+    nl: |-
+      Maandag 16 juli zijn de Kyu graden examens in de dojo op de Palmstraat
+      De examens starten om 19.30
   link: ""
