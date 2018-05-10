@@ -1007,12 +1007,18 @@ pages:
     en: |+
       <h1>Youngsters from 3 - 6 years</h1>
 
-      <p>The children learn the basic principles of Aikido such as: balanced standing, falling, rolling and Japanese counting.</p>
+      <br />
+
+      The children learn the basic principles of Aikido such as: balanced standing, falling, rolling and Japanese counting.
+
 
     nl: |+
       <h1>Peuters &amp; kleuters van 3 - 6 jaar</h1>
 
-      <p>De kinderen leren de basis  principes van Aikido zoals: evenwichtig staan, vallen, rollen en japans tellen.</p>
+      <br />
+
+      De kinderen leren de basis  principes van Aikido zoals: evenwichtig staan, vallen, rollen en japans tellen.
+
 
 
     link: ""
@@ -1056,12 +1062,12 @@ pages:
   - alias: ""
     tile: 0,2,1,1
     img: ""
-    en: "<h1>Children 6 - 12 years</h1> \n\n\n<p>The attention within the lessons
+    en: "<h1>Children 6 - 12 years</h1> \n\n<br />\n\nThe attention within the lessons
       and the exams are based on 3 things; falling and rolling from various positions.
-      The etiquette of Aikido and Aikido techniques.<br />"
-    nl: "<h1>Kinderen 6 - 12 jaar</h1> \n\nDe aandacht binnen de lessen en de examens
-      gaan uit van 3 dingen; vallen en rollen vanuit diverse posities. De etiquette
-      van Aikido en de Aikido technieken.\n"
+      The etiquette of Aikido and Aikido techniques."
+    nl: "<h1>Kinderen 6 - 12 jaar</h1> \n\n<br />\n\nDe aandacht binnen de lessen
+      en de examens gaan uit van 3 dingen; vallen en rollen vanuit diverse posities.
+      De etiquette van Aikido en de Aikido technieken.\n"
     link: ""
     class:
     - blue
@@ -1079,10 +1085,10 @@ pages:
   - alias: ""
     tile: 2,2,1,1
     img: ""
-    en: "<h1>Parent/kids classes from 6 years and up</h1> \n  <p>Aikido where parents
-      can participate with their children.\n  From 6 to 14 years<br />\n  "
-    nl: "<h1>Ouders/kind lessen vanaf 6 jaar</h1> \n  <p>Aikido waarbij ouders mogen
-      deelnemen met hun kinderen.\n  Vanaf 6 tot 14 jaar<br />\n  \n"
+    en: "<h1>Parent/kids classes from 6 years and up</h1> \n\n<br />\n\nAikido where
+      parents can participate with their children.\n  From 6 to 14 years\n  "
+    nl: "<h1>Ouders/kind lessen vanaf 6 jaar</h1> \n\n<br />\n\nAikido waarbij ouders
+      mogen deelnemen met hun kinderen.\n  Vanaf 6 tot 14 jaar\n  \n"
     link: ""
     class:
     - blue
@@ -2059,6 +2065,16 @@ events:
   link: ""
 - date: 2018-06-16
   title:
+    en: Christian Tissier in Amsterdam
+    nl: Christian Tissier in Amsterdam
+  desc:
+    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
+      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
+    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
+      \nLizzy Ansinghstraat 88\nAmsterdam"
+  link: ""
+- date: 2018-06-16
+  title:
     en: Tissier Sensei & Miyamoto Sensei in Kyoto
     nl: Tissier Sensei & Miyamoto Sensei in Kyoto
   desc:
@@ -2069,16 +2085,6 @@ events:
       Seminar organized by Aikido Kyoto
       Yoko Okamoto Sensei
   link: https://www.aikidokyoto.com/en/classes-and-schedule/seminars-and-events.html
-- date: 2018-06-16
-  title:
-    en: Christian Tissier in Amsterdam
-    nl: Christian Tissier in Amsterdam
-  desc:
-    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
-      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
-    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
-      \nLizzy Ansinghstraat 88\nAmsterdam"
-  link: ""
 - date: 2018-07-08
   title:
     en: Aikido Amsterdam Day
