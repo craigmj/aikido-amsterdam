@@ -315,6 +315,16 @@ pages:
     - red
     member_name: ""
     member_age: ""
+  - alias: ""
+    tile: 1,1,2,1
+    img: /i/600/0/22e0b68b9cdc72d3e5bbf8af509ee301.jpg
+    en: english
+    nl: dutch
+    link: ""
+    class:
+    - gray
+    member_name: ""
+    member_age: ""
 - name: charity
   tiles:
   - alias: ""
