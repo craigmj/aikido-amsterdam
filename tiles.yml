@@ -370,6 +370,16 @@ pages:
     - blue
     member_name: ""
     member_age: ""
+  - alias: ""
+    tile: 0,1,1,1
+    img: ""
+    en: english
+    nl: dutch
+    link: ""
+    class:
+    - red
+    member_name: ""
+    member_age: ""
 - name: charity
   tiles:
   - alias: ""
