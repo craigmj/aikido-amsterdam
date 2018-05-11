@@ -278,9 +278,7 @@ pages:
     en: ""
     nl: ""
     link: ""
-    class:
-    - arrow-right
-    - red-right
+    class: []
     member_name: ""
     member_age: ""
   - alias: ""
@@ -295,8 +293,23 @@ pages:
   - alias: ""
     tile: 3,0,1,1
     img: ""
-    en: english
-    nl: dutch
+    en: |
+      <h1>Dojo Palmstraat</h1>
+
+      <br />
+
+      Palmstraat 34, Amsterdam Center.
+      The Dojo is 10 min walk from Amsterdam Central Station.
+    nl: |
+      <h1>Dojo Palmstraat</h1>
+
+      <br />
+
+      Palmstraat 34, Amsterdam Centrum.
+
+      <br />
+
+      De Dojo is 10 min lopen vanaf Amsterdam Centraal Station.
     link: ""
     class:
     - red
