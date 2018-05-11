@@ -1163,7 +1163,7 @@ pages:
 - name: who
   tiles:
   - alias: ""
-    tile: 0,0,2,2
+    tile: 0,0,1,2
     img: ""
     en: |
       <h1>Tom Dijkman (47)</h1> <p>Tom is the founder and head teacher of Aikido Amsterdam. He has been practicing Aikido for over 25 years. In 2013, he received his 5th Dan (5th degree black belt) in Aikikai Aikido. He regularly travels the world to learn more and to deepen his understanding of Aikido which he enthusiastically brings back to his students. Tom is a member of the technical board of the Dutch Aikikai Foundation and in this role he teaches the preparation classes for the 3th Dan grade once a month. Tom also teaches seminars in the Netherlands and abroad. He has a long term relationship with Aikido in CapeTown, South Africa and has also taught classes in Germany, Sweden, Norway and Italy. In the Aikido Amsterdam dojo, Tom teaches most classes, and the other instructor’s play a supporting role and replace him when he is away.</p>
@@ -1171,7 +1171,7 @@ pages:
       <h1>Tom Dijkman (47)</h1> <p>Tom is de oprichter van Aikido Amsterdam. Al meer dan 25 jaar beoefent hij Aikido. In 2013 werd hem de 5de Dan Aikikai Aikido uitgereikt. Hij reist regelmatig de wereld rond om zich verder te verdiepen en te blijven ontwikkelen. Deze ontwikkelingen geeft hij met veel enthousiasme door aan zijn leerlingen. Tom is Gilde lid van de Dutch Aikikai Foundation, binnen de DAF verzorgt hij ook de 3de Dan voorbereiding. Tevens geeft hij seminars in binnen en buitenland. Hij heeft een langdurig verbintenis met Aikido in Kaapstad, Zuid Afrika en heeft les gegeven in Duitsland, Zweden, Noorwegen en Italië. In de dojo van Aikido Amsterdam worden de meeste lessen gegeven door Tom, een aantal mensen spelen daarbij een aanvullende rol en vervangen hem bij afwezigheid. </p>
     link: ""
     class:
-    - darkgray
+    - red
     member_name: ""
     member_age: ""
   - alias: ""
