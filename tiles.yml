@@ -358,7 +358,8 @@ pages:
     en: ""
     nl: ""
     link: ""
-    class: []
+    class:
+    - gray
     member_name: ""
     member_age: ""
   - alias: ""
