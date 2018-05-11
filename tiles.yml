@@ -1313,21 +1313,22 @@ pages:
   - alias: ""
     tile: 2,3,1,1
     img: ""
-    en: <h1>Dennis Ter Haar (40)</h1> <p>Has been practicing Aikido since December
-      2000 and holds the rank of 2nd Dan in Aikikai Aikido. Dennis has been training
-      with Tom Dijkman for a long time and regularly teaches at Aikido Amsterdam when
-      Tom is travelling. Dennis has the gift to shape his lessons with great attention
-      to detail. A lot of inspiration for his lessons is derived from the clear Aikido
-      style of Christian Tissier, Shihan.</p>
-    nl: <h1>Dennis Ter Haar (40)</h1> <p>Beoefent aikido sinds december 2000 en heeft
-      sinds 2014 de 2de Dan Aikikai Aikido. Dennis traint al lange tijd bij Tom Dijkman
-      en geeft regelmatig lessen binnen de dojo van Aikido Amsterdam als Tom afwezig
-      is. Dennis heeft de gave om met veel aandacht voor detail zijn lessen vorm te
-      geven.Veel inspiratie voor zijn lessen haalt Dennis uit de heldere aikido stijl
-      van Christian Tissier Shihan.</p>
+    en: <h1>Andrea Raviglione (45)</h1> <p>Andrea has been practicing Aikido for more
+      than 15 years and he holds the rank of 3rd Dan in Aikikai Aikido.  He founded
+      his own dojo in Stavanger, Norway, when he lived there. He currently lives and
+      works in the Netherlands and is associated with Aikido Amsterdam. For Andrea,
+      Aikido is his core passion and drive in life, and he travels around the world
+      to see various teachers. Andrea, together with Andra, substitutes for Tom on
+      a very regular basis when Tom is away.</p>
+    nl: <h1>Andrea Raviglione (45)</h1> <p>Andrea beoefent al meer dan 15 jaar Aikido,
+      is 3de Dan Aikikai Aikido en heeft een eigen dojo opgebouwd in Stavanger, Noorwegen.
+      Op dit moment woont en werkt hij in Nederland en is verbonden aan Aikido Amsterdam.
+      Andrea heeft Aikido als enige passie en drive in het leven en reist de hele
+      wereld rond om diverse leraren te zien. Andrea is samen met Andra de vaste vervanger
+      voor Tom als hij niet aanwezig is.</p>
     link: ""
     class:
-    - gray
+    - red
     member_name: ""
     member_age: ""
   - alias: ""
