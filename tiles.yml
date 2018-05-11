@@ -316,7 +316,7 @@ pages:
     member_name: ""
     member_age: ""
   - alias: ""
-    tile: 1,1,1,1
+    tile: 2,3,1,1
     img: /i/600/0/57ac83945e57f3795235f9eb2f690a63.jpg
     en: ""
     nl: ""
