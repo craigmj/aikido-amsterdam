@@ -1295,11 +1295,21 @@ pages:
   - alias: ""
     tile: 3,2,1,1
     img: ""
-    en: ""
-    nl: ""
+    en: <h1>Dennis Ter Haar (40)</h1> <p>Has been practicing Aikido since December
+      2000 and holds the rank of 2nd Dan in Aikikai Aikido. Dennis has been training
+      with Tom Dijkman for a long time and regularly teaches at Aikido Amsterdam when
+      Tom is travelling. Dennis has the gift to shape his lessons with great attention
+      to detail. A lot of inspiration for his lessons is derived from the clear Aikido
+      style of Christian Tissier, Shihan.</p>
+    nl: <h1>Dennis Ter Haar (40)</h1> <p>Beoefent aikido sinds december 2000 en heeft
+      sinds 2014 de 2de Dan Aikikai Aikido. Dennis traint al lange tijd bij Tom Dijkman
+      en geeft regelmatig lessen binnen de dojo van Aikido Amsterdam als Tom afwezig
+      is. Dennis heeft de gave om met veel aandacht voor detail zijn lessen vorm te
+      geven.Veel inspiratie voor zijn lessen haalt Dennis uit de heldere aikido stijl
+      van Christian Tissier Shihan.</p>
     link: ""
     class:
-    - transparent
+    - gray
     member_name: ""
     member_age: ""
   - alias: ""
