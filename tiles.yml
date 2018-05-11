@@ -380,6 +380,15 @@ pages:
     - red
     member_name: ""
     member_age: ""
+  - alias: ""
+    tile: 1,1,1,1
+    img: /i/600/0/4357b6c7d4f7a886d55ad2d17c0f1ab5.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
 - name: charity
   tiles:
   - alias: ""
