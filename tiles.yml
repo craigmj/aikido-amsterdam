@@ -373,8 +373,8 @@ pages:
   - alias: ""
     tile: 0,1,1,1
     img: ""
-    en: english
-    nl: dutch
+    en: ""
+    nl: ""
     link: ""
     class:
     - red
