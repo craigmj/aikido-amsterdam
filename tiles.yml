@@ -1456,8 +1456,8 @@ pages:
   - alias: events-list
     tile: 1,0,2,2
     img: ""
-    en: events-en
-    nl: events-nl
+    en: '[events-en]'
+    nl: '[events-nl]'
     link: ""
     class:
     - darkgray
