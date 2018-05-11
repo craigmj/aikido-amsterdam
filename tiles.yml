@@ -278,7 +278,9 @@ pages:
     en: ""
     nl: ""
     link: ""
-    class: []
+    class:
+    - arrow-right
+    - red-right
     member_name: ""
     member_age: ""
   - alias: ""
@@ -288,6 +290,16 @@ pages:
     nl: ""
     link: ""
     class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,0,1,1
+    img: ""
+    en: english
+    nl: dutch
+    link: ""
+    class:
+    - red
     member_name: ""
     member_age: ""
 - name: charity
