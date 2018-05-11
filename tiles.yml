@@ -321,7 +321,8 @@ pages:
     en: english
     nl: dutch
     link: ""
-    class: []
+    class:
+    - gray
     member_name: ""
     member_age: ""
   - alias: ""
