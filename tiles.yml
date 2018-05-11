@@ -322,7 +322,7 @@ pages:
     nl: ""
     link: ""
     class:
-    - gray
+    - blue
     member_name: ""
     member_age: ""
 - name: charity
