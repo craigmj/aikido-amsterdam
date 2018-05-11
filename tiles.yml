@@ -322,7 +322,16 @@ pages:
     tile: 0,2,1,1
     img: ""
     en: english
-    nl: dutch
+    nl: |
+      <h1>Dojo Palmstraat</h1>
+
+      <br />
+
+      Palmstraat 34, Amsterdam Centrum.
+
+      <br />
+
+      De Dojo is 10 min lopen vanaf Amsterdam Centraal Station.
     link: ""
     class:
     - gray
