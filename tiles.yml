@@ -353,6 +353,16 @@ pages:
     class: []
     member_name: ""
     member_age: ""
+  - alias: ""
+    tile: 2,3,1,1
+    img: ""
+    en: english
+    nl: dutch
+    link: ""
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
 - name: charity
   tiles:
   - alias: ""
