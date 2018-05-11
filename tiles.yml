@@ -281,6 +281,15 @@ pages:
     class: []
     member_name: ""
     member_age: ""
+  - alias: ""
+    tile: 1,2,3,1
+    img: /i/600/0/7a473bf322b8501493fced470cd9831c.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
 - name: charity
   tiles:
   - alias: ""
@@ -1311,7 +1320,7 @@ pages:
     member_name: ""
     member_age: ""
   - alias: ""
-    tile: 2,3,1,1
+    tile: 1,2,1,1
     img: ""
     en: <h1>Andrea Raviglione (45)</h1> <p>Andrea has been practicing Aikido for more
       than 15 years and he holds the rank of 3rd Dan in Aikikai Aikido.  He founded
