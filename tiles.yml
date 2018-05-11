@@ -373,7 +373,15 @@ pages:
   - alias: ""
     tile: 0,1,1,1
     img: ""
-    en: <p>People doing Aikido at Aikido Amsterdam, from all ages, gender and background</p>
+    en: |-
+      <br />
+
+
+      <p>People doing Aikido</p>
+
+      <br />
+
+      <p>In the dojo of Aikido Amsterdam people from all ages, gender and background practice together</p>
     nl: ""
     link: ""
     class:
