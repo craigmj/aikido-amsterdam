@@ -348,7 +348,8 @@ pages:
     en: ""
     nl: ""
     link: ""
-    class: []
+    class:
+    - blue
     member_name: ""
     member_age: ""
   - alias: ""
