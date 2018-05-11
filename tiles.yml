@@ -1252,22 +1252,21 @@ pages:
   - alias: ""
     tile: 1,2,1,1
     img: ""
-    en: <h1>Andrea Raviglione (45)</h1> <p>Andrea has been practicing Aikido for more
-      than 15 years and he holds the rank of 3rd Dan in Aikikai Aikido.  He founded
-      his own dojo in Stavanger, Norway, when he lived there. He currently lives and
-      works in the Netherlands and is associated with Aikido Amsterdam. For Andrea,
-      Aikido is his core passion and drive in life, and he travels around the world
-      to see various teachers. Andrea, together with Andra, substitutes for Tom on
-      a very regular basis when Tom is away.</p>
-    nl: <h1>Andrea Raviglione (45)</h1> <p>Andrea beoefent al meer dan 15 jaar Aikido,
-      is 3de Dan Aikikai Aikido en heeft een eigen dojo opgebouwd in Stavanger, Noorwegen.
-      Op dit moment woont en werkt hij in Nederland en is verbonden aan Aikido Amsterdam.
-      Andrea heeft Aikido als enige passie en drive in het leven en reist de hele
-      wereld rond om diverse leraren te zien. Andrea is samen met Andra de vaste vervanger
-      voor Tom als hij niet aanwezig is.</p>
+    en: |
+      <h1>Aurel Chaoul Pelleg (50)</h1> <p>Aurel has been practicing Aikido for 32 years and holds the 1st Dan in Aikikai Aikido. He has successfully completed the teacher training program of Aikido Netherlands. Aurel is the permanent assistant for the various children's classes in the dojo and substitutes for Tom in these classes when he is travelling. Aurel has a gift for working with children and is the confidant of the dojo.
+
+      In addition to Aikido, Aurel works as a therapist with personal energy management, and he is intensely involved in permaculture projects in and around Amsterdam, for private and public purposes.</p>
+    nl: "<h1>Aurel Chaoul Pelleg (50)</h1> <p>Aurel beoefent al 32 jaar Aikido en
+      heeft de 1e Dan Aikikai Aikido. Hij heeft met success de leraren opleiding van
+      Aikido Nederland afgerond. Aurel is vaste assistent bij de verschillende kinderlessen
+      in de dojo en vervangt Tom als hij op reis is. Aurel heeft een gave om met kinderen
+      om te gaan en is tevens de vaste vertrouwenspersoon van de dojo. \n\nNaast Aikido
+      werkt Aurel als therapeut met persoonlijk energie management en is hij intens
+      betrokken bij permacultuur projecten in en rondom Amsterdam, voor prive' en
+      openbare doeleinden.</p>\n"
     link: ""
     class:
-    - red
+    - darkgray
     member_name: ""
     member_age: ""
   - alias: ""
