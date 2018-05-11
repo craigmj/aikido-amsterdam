@@ -400,9 +400,9 @@ pages:
     member_age: ""
   - alias: ""
     tile: 3,1,1,1
-    img: ""
-    en: english
-    nl: dutch
+    img: /i/600/0/57ac83945e57f3795235f9eb2f690a63.jpg
+    en: ""
+    nl: ""
     link: ""
     class:
     - blue
