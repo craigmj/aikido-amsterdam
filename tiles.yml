@@ -2200,6 +2200,16 @@ events:
   link: ""
 - date: 2018-06-16
   title:
+    en: Christian Tissier in Amsterdam
+    nl: Christian Tissier in Amsterdam
+  desc:
+    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
+      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
+    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
+      \nLizzy Ansinghstraat 88\nAmsterdam"
+  link: ""
+- date: 2018-06-07
+  title:
     en: Tissier Sensei & Miyamoto Sensei in Kyoto
     nl: Tissier Sensei & Miyamoto Sensei in Kyoto
   desc:
@@ -2210,16 +2220,6 @@ events:
       Seminar organized by Aikido Kyoto
       Yoko Okamoto Sensei
   link: https://www.aikidokyoto.com/en/classes-and-schedule/seminars-and-events.html
-- date: 2018-06-16
-  title:
-    en: Christian Tissier in Amsterdam
-    nl: Christian Tissier in Amsterdam
-  desc:
-    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
-      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
-    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
-      \nLizzy Ansinghstraat 88\nAmsterdam"
-  link: ""
 - date: 2018-07-08
   title:
     en: Aikido Amsterdam Day
