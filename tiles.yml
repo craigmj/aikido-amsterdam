@@ -407,17 +407,9 @@ pages:
     member_name: ""
     member_age: ""
   - alias: ""
-    tile: 0,1,1,1
-    img: ""
-    en: |-
-      <br />
-
-
-      <p>People doing Aikido</p>
-
-      <br />
-
-      <p>In the dojo of Aikido Amsterdam people from all ages, gender and background practice together</p>
+    tile: 0,1,4,1
+    img: /i/600/0/49c3a7376faaa8354db7b47ef30ea042.jpg
+    en: ""
     nl: ""
     link: ""
     class:
