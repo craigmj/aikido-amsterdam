@@ -397,12 +397,13 @@ pages:
     member_name: ""
     member_age: ""
   - alias: ""
-    tile: 0,3,1,1
-    img: /i/600/0/1551baff2bc6e6ba6eded74d3c431648.jpg
+    tile: 0,3,2,1
+    img: ""
     en: ""
     nl: ""
     link: ""
-    class: []
+    class:
+    - red
     member_name: ""
     member_age: ""
 - name: charity
