@@ -425,35 +425,8 @@ pages:
     member_name: ""
     member_age: ""
   - alias: ""
-    tile: 1,1,1,1
-    img: /i/600/0/4357b6c7d4f7a886d55ad2d17c0f1ab5.jpg
-    en: ""
-    nl: ""
-    link: ""
-    class: []
-    member_name: ""
-    member_age: ""
-  - alias: ""
     tile: 0,3,1,1
     img: /i/600/0/1551baff2bc6e6ba6eded74d3c431648.jpg
-    en: ""
-    nl: ""
-    link: ""
-    class: []
-    member_name: ""
-    member_age: ""
-  - alias: ""
-    tile: 3,1,1,1
-    img: /i/600/0/57ac83945e57f3795235f9eb2f690a63.jpg
-    en: ""
-    nl: ""
-    link: ""
-    class: []
-    member_name: ""
-    member_age: ""
-  - alias: ""
-    tile: 2,1,1,1
-    img: /i/600/0/885787dc042d894908273c669d1ef3ae.jpg
     en: ""
     nl: ""
     link: ""
