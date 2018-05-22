@@ -125,8 +125,8 @@ mobile:
     Zen shiatsu school in 2008. Since 10 years she has practised Chi Kung and teaches
     regular classes. She also works at Thnk and gives in company training as a presence
     developer.\n        \n    </div>\n</div>\n\n<div class=\"who\">\n<img src=\"/i/80/0/andrea.jpg\"
-    />\n<div>\n\n<h1>Andrea Raviglione</h1>\n\n45 year, has been practicing Aikido
-    for more than 15 years, he holds the 3rd Dan in Aikikai Aikido and previously
+    />\n<div>\n\n<h1>Andrea Raviglione</h1>\n\n44 year, has been practicing Aikido
+    for more than 20 years, he holds the 3rd Dan in Aikikai Aikido and previously
     founded his own dojo in Stavanger, Norway. He currently lives and works in the
     Netherlands and is associated with Aikido Amsterdam. For Andrea Aikido is his
     only passion and drive in life and he travels around the world to see various
@@ -171,7 +171,7 @@ mobile:
     Chi kung, en geeft daarin ook les. Ze werkt als presence developer bij Thnk, en
     geeft daar bedrijfstrainingen gericht op het fysieke.\n        \n    </div>\n</div>\n\n<div
     class=\"who\">\n<img src=\"/i/80/0/andrea.jpg\" />\n<div>\n\n<h1>Andrea Raviglione</h1>\n\n44
-    jaar, Andrea beoefent al meer dan 15 jaar Aikido, is 3de Dan Aikikai Aikido en
+    jaar, Andrea beoefent al meer dan 20 jaar Aikido, is 3de Dan Aikikai Aikido en
     heeft een eigen dojo opgebouwd in Stavanger, Noorwegen. Op dit moment woont en
     werkt hij in Nederland en is verbonden aan Aikido Amsterdam. Andrea heeft Aikido
     als enige passie en drive in het leven en reist de hele wereld rond om diverse
@@ -2188,16 +2188,6 @@ events:
       Veemarkt 151 Amsterdam
       Kosten € 20,00
   link: ""
-- date: 2018-06-16
-  title:
-    en: Christian Tissier in Amsterdam
-    nl: Christian Tissier in Amsterdam
-  desc:
-    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
-      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
-    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
-      \nLizzy Ansinghstraat 88\nAmsterdam"
-  link: ""
 - date: 2018-06-07
   title:
     en: Tissier Sensei & Miyamoto Sensei in Kyoto
@@ -2210,6 +2200,16 @@ events:
       Seminar organized by Aikido Kyoto
       Yoko Okamoto Sensei
   link: https://www.aikidokyoto.com/en/classes-and-schedule/seminars-and-events.html
+- date: 2018-06-16
+  title:
+    en: Christian Tissier in Amsterdam
+    nl: Christian Tissier in Amsterdam
+  desc:
+    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
+      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
+    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
+      \nLizzy Ansinghstraat 88\nAmsterdam"
+  link: ""
 - date: 2018-07-08
   title:
     en: Aikido Amsterdam Day
