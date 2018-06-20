@@ -2152,28 +2152,6 @@ quotes:
     text: Fijne sfeer, inspirerende sensei en geen les is hetzelfde!
     who: Laura Shanna Belmon
 events:
-- date: 2018-05-26
-  title:
-    en: Seminar Marc Jongsten & Tom Dijkman
-    nl: Seminar Marc Jongsten & Tom Dijkman
-  desc:
-    en: |-
-      12.30-13.30 Zwaard Marc
-      13.40-14.40 Aikido Tom
-      14.50-15.50 Aikido Marc
-      16.00-17.00 Aikido Tom
-
-      Wenckebachweg 6 Amsterdam
-      Costs € 25,00
-    nl: |-
-      12.30-13.30 Zwaard Marc
-      13.40-14.40 Aikido Tom
-      14.50-15.50 Aikido Marc
-      16.00-17.00 Aikido Tom
-
-      Wenckebachweg 6 Amsterdam
-      Kosten € 25,00
-  link: ""
 - date: 2018-06-24
   title:
     en: 3th Dan Preparation DAF
@@ -2187,28 +2165,6 @@ events:
       3de Dan voorbereiding door Tom Dijkman
       Veemarkt 151 Amsterdam
       Kosten € 20,00
-  link: ""
-- date: 2018-06-07
-  title:
-    en: Tissier Sensei & Miyamoto Sensei in Kyoto
-    nl: Tissier Sensei & Miyamoto Sensei in Kyoto
-  desc:
-    en: |
-      Seminar organized by Aikido Kyoto
-      Yoko Okamoto Sensei
-    nl: |
-      Seminar organized by Aikido Kyoto
-      Yoko Okamoto Sensei
-  link: https://www.aikidokyoto.com/en/classes-and-schedule/seminars-and-events.html
-- date: 2018-06-16
-  title:
-    en: Christian Tissier in Amsterdam
-    nl: Christian Tissier in Amsterdam
-  desc:
-    en: "16th of June\n10.00-12.30\n14.30-16.30\n17th of June\n10.00-12.30\nSporthal
-      De Pijp \nLizzy Ansinghstreet 88\nAmsterdam\n"
-    nl: "16 juni\n10.00-12.30\n14.30-16.30\n17 juni\n10.00-12.30\nSporthal De Pijp
-      \nLizzy Ansinghstraat 88\nAmsterdam"
   link: ""
 - date: 2018-07-08
   title:
@@ -2299,4 +2255,24 @@ events:
 
       Sporthalle de FU Berlin
       Konigin-Luise Str.47 Berlin
+  link: ""
+- date: 2018-07-15
+  title:
+    en: Intensive Kyu Grade Seminar
+    nl: Intensieve Kyugraden voorbereiding
+  desc:
+    en: |-
+      As a final preparation there is an Intensive Kyu grade Seminar given by Andra Perrin & Tom Dijkman
+
+      11.00-13.00 4th, 5th and 6th Kyu
+      14.00-16.00 3th, 2th and 1st Kyu
+
+      Costs € 15,00
+    nl: |-
+      Als laatste voorbereiding voor de examens, een intensieve training door Andra Perrin & Tom Dijkman
+
+      11.00-13.00 4de, 5de en 6de Kyu
+      14.00-16.00 3de, 2de en 1ste Kyu
+
+      Kosten € 15,00
   link: ""
