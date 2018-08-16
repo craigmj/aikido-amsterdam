@@ -2162,20 +2162,6 @@ events:
   link: ""
 - date: 2018-09-23
   title:
-    en: 3th Dan Preparation DAF
-    nl: 3de Dan Voorbereiding DAF
-  desc:
-    en: |-
-      3th Dan preparation lead by Tom Dijkman
-      Veemarkt 151 Amsterdam
-      Costs € 20,00
-    nl: |-
-      3de Dan voorbereiding DAF door Tom Dijkman
-      Veemarkt 151 Amsterdam
-      Kosten € 20,00
-  link: ""
-- date: 2018-09-23
-  title:
     en: Kyu grade preparation
     nl: 'Kyu graden voorbereiding '
   desc:
@@ -2187,6 +2173,20 @@ events:
       Costs € 10,00
     nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
       34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
+  link: ""
+- date: 2018-09-23
+  title:
+    en: 3th Dan Preparation DAF
+    nl: 3de Dan Voorbereiding DAF
+  desc:
+    en: |-
+      3th Dan preparation lead by Tom Dijkman
+      Veemarkt 151 Amsterdam
+      Costs € 20,00
+    nl: |-
+      3de Dan voorbereiding DAF door Tom Dijkman
+      Veemarkt 151 Amsterdam
+      Kosten € 20,00
   link: ""
 - date: 2018-09-29
   title:
@@ -2288,6 +2288,20 @@ events:
   link: ""
 - date: 2018-11-25
   title:
+    en: 3th Dan Preparation DAF
+    nl: 3de Dan Voorbereiding DAF
+  desc:
+    en: |-
+      3th Dan preparation lead by Tom Dijkman
+      Veemarkt 151 Amsterdam
+      Costs € 20,00
+    nl: |-
+      3de Dan voorbereiding DAF door Tom Dijkman
+      Veemarkt 151 Amsterdam
+      Kosten € 20,00
+  link: ""
+- date: 2018-11-25
+  title:
     en: Kyu grade preparation
     nl: 'Kyu graden voorbereiding '
   desc:
@@ -2300,17 +2314,11 @@ events:
     nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
       34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
   link: ""
-- date: 2018-11-25
+- date: 2018-11-02
   title:
-    en: 3th Dan Preparation DAF
-    nl: 3de Dan Voorbereiding DAF
+    en: Kuribayashi Sensei Brussel
+    nl: ""
   desc:
-    en: |-
-      3th Dan preparation lead by Tom Dijkman
-      Veemarkt 151 Amsterdam
-      Costs € 20,00
-    nl: |-
-      3de Dan voorbereiding DAF door Tom Dijkman
-      Veemarkt 151 Amsterdam
-      Kosten € 20,00
+    en: ""
+    nl: ""
   link: ""
