@@ -2162,20 +2162,6 @@ events:
   link: ""
 - date: 2018-09-23
   title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
-  link: ""
-- date: 2018-09-23
-  title:
     en: 3th Dan Preparation DAF
     nl: 3de Dan Voorbereiding DAF
   desc:
@@ -2187,6 +2173,20 @@ events:
       3de Dan voorbereiding DAF door Tom Dijkman
       Veemarkt 151 Amsterdam
       Kosten € 20,00
+  link: ""
+- date: 2018-09-23
+  title:
+    en: Kyu grade preparation
+    nl: 'Kyu graden voorbereiding '
+  desc:
+    en: |-
+      Kyu grade preparation Aikido Amsterdam
+      Lead by Tom Dijkman & Andra Perrin
+      Dojo Palmstraat 34
+      13.30-15.00 & 15.15-16.45
+      Costs € 10,00
+    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
+      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
   link: ""
 - date: 2018-09-29
   title:
@@ -2286,34 +2286,6 @@ events:
     nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
       34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
   link: ""
-- date: 2018-11-25
-  title:
-    en: 3th Dan Preparation DAF
-    nl: 3de Dan Voorbereiding DAF
-  desc:
-    en: |-
-      3th Dan preparation lead by Tom Dijkman
-      Veemarkt 151 Amsterdam
-      Costs € 20,00
-    nl: |-
-      3de Dan voorbereiding DAF door Tom Dijkman
-      Veemarkt 151 Amsterdam
-      Kosten € 20,00
-  link: ""
-- date: 2018-11-25
-  title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
-  link: ""
 - date: 2018-11-02
   title:
     en: Kuribayashi Sensei Brussels
@@ -2329,6 +2301,34 @@ events:
   desc:
     en: Friday to Sunday Miyamoto Sensei will teach in Barcelona, Spain
     nl: Van vrijdag tot zondag geeft Miyamoto Sensei les in Barcelona, Spanje
+  link: ""
+- date: 2018-11-25
+  title:
+    en: Kyu grade preparation
+    nl: 'Kyu graden voorbereiding '
+  desc:
+    en: |-
+      Kyu grade preparation Aikido Amsterdam
+      Lead by Tom Dijkman & Andra Perrin
+      Dojo Palmstraat 34
+      13.30-15.00 & 15.15-16.45
+      Costs € 10,00
+    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
+      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
+  link: ""
+- date: 2018-11-25
+  title:
+    en: 3th Dan Preparation DAF
+    nl: 3de Dan Voorbereiding DAF
+  desc:
+    en: |-
+      3th Dan preparation lead by Tom Dijkman
+      Veemarkt 151 Amsterdam
+      Costs € 20,00
+    nl: |-
+      3de Dan voorbereiding DAF door Tom Dijkman
+      Veemarkt 151 Amsterdam
+      Kosten € 20,00
   link: ""
 - date: 2019-01-06
   title:
@@ -2365,3 +2365,7 @@ events:
       February in Cape Town, South Africa. '
     nl: Seminar door Tom Dijkman in Kaapstad, Zuid Afrika van 22 t/m 24 february.
   link: ""
+info:
+  description:
+    en: This is a description in English
+    nl: Die is die deskripsie in Nederlands
