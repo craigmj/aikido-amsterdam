@@ -387,8 +387,8 @@ pages:
     member_name: ""
     member_age: ""
   - alias: ""
-    tile: 0,1,2,1
-    img: /i/600/0/49c3a7376faaa8354db7b47ef30ea042.jpg
+    tile: 0,3,2,1
+    img: ""
     en: ""
     nl: ""
     link: ""
@@ -397,13 +397,32 @@ pages:
     member_name: ""
     member_age: ""
   - alias: ""
-    tile: 0,3,2,1
+    tile: 0,1,1,1
     img: ""
     en: ""
     nl: ""
     link: ""
     class:
     - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,1,1,1
+    img: ""
+    en: ""
+    nl: ""
+    link: ""
+    class:
+    - white
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,1,2,1
+    img: /i/600/0/94181f27a1dc7a3a477b9aa9ab7a01e9.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
     member_name: ""
     member_age: ""
 - name: charity
@@ -2154,20 +2173,6 @@ quotes:
 events:
 - date: 2018-09-23
   title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
-  link: ""
-- date: 2018-09-23
-  title:
     en: 3th Dan Preparation DAF
     nl: 3de Dan Voorbereiding DAF
   desc:
@@ -2179,6 +2184,20 @@ events:
       3de Dan voorbereiding DAF door Tom Dijkman
       Veemarkt 151 Amsterdam
       Kosten € 20,00
+  link: ""
+- date: 2018-09-23
+  title:
+    en: Kyu grade preparation
+    nl: 'Kyu graden voorbereiding '
+  desc:
+    en: |-
+      Kyu grade preparation Aikido Amsterdam
+      Lead by Tom Dijkman & Andra Perrin
+      Dojo Palmstraat 34
+      13.30-15.00 & 15.15-16.45
+      Costs € 10,00
+    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
+      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
   link: ""
 - date: 2018-09-29
   title:
@@ -2296,20 +2315,6 @@ events:
   link: ""
 - date: 2018-11-25
   title:
-    en: 3th Dan Preparation DAF
-    nl: 3de Dan Voorbereiding DAF
-  desc:
-    en: |-
-      3th Dan preparation lead by Tom Dijkman
-      Veemarkt 151 Amsterdam
-      Costs € 20,00
-    nl: |-
-      3de Dan voorbereiding DAF door Tom Dijkman
-      Veemarkt 151 Amsterdam
-      Kosten € 20,00
-  link: ""
-- date: 2018-11-25
-  title:
     en: Kyu grade preparation
     nl: 'Kyu graden voorbereiding '
   desc:
@@ -2321,6 +2326,20 @@ events:
       Costs € 10,00
     nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
       34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
+  link: ""
+- date: 2018-11-25
+  title:
+    en: 3th Dan Preparation DAF
+    nl: 3de Dan Voorbereiding DAF
+  desc:
+    en: |-
+      3th Dan preparation lead by Tom Dijkman
+      Veemarkt 151 Amsterdam
+      Costs € 20,00
+    nl: |-
+      3de Dan voorbereiding DAF door Tom Dijkman
+      Veemarkt 151 Amsterdam
+      Kosten € 20,00
   link: ""
 - date: 2019-01-06
   title:
