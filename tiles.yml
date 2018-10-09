@@ -377,16 +377,6 @@ pages:
     member_name: ""
     member_age: ""
   - alias: ""
-    tile: 2,3,2,1
-    img: /i/600/0/373042bfe0ecacac55f99c27e6c1fdee.jpg
-    en: ""
-    nl: ""
-    link: ""
-    class:
-    - blue
-    member_name: ""
-    member_age: ""
-  - alias: ""
     tile: 0,3,2,1
     img: /i/600/0/373042bfe0ecacac55f99c27e6c1fdee.jpg
     en: ""
