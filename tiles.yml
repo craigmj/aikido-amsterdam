@@ -425,6 +425,16 @@ pages:
     - white
     member_name: ""
     member_age: ""
+  - alias: ""
+    tile: 3,3,1,1
+    img: ""
+    en: ""
+    nl: ""
+    link: ""
+    class:
+    - gray
+    member_name: ""
+    member_age: ""
 - name: charity
   tiles:
   - alias: ""
