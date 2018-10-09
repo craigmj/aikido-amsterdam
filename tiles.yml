@@ -415,6 +415,16 @@ pages:
     class: []
     member_name: ""
     member_age: ""
+  - alias: ""
+    tile: 2,3,1,1
+    img: ""
+    en: ""
+    nl: ""
+    link: ""
+    class:
+    - white
+    member_name: ""
+    member_age: ""
 - name: charity
   tiles:
   - alias: ""
