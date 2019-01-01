@@ -1062,22 +1062,23 @@ pages:
   - alias: ""
     tile: 1,0,2,2
     img: ""
-    en: "\n| | |\n|---|---|\n|Adults|€  42,40 monthly|\n|\t|€  440,- yearly|\n| |
-      |\n| | |\n| | |\n| | |\n|Children|€ 360,- yearly|\n| | |\n| | |\n| | |\n| |
-      |\n|Toddlers/ Prescholers-|€ 40,-  monthly|\n| | |\n| | |\n| | |\n| | |\n|Dutch
-      Aikikai Foundation|€ 35,- yearly adults|\n| |€ 15,- yearly kids|\n| | |\n| |
-      |\n| | |\n| | |\n|Gebouw De Palm maintenance|€ 20,- yearly|\n\n\n<div style=\"margin-top:
-      5em;\">Payments on accountnumber NL32INGB0751857599 to the name of T.G.B. Dijkman.\n</div>\n\n<div
+    en: "\n| | |\n|---|---|\n|Adults|€  47,50 monthly|\n| | |\n| | |\n| | |\n| | |\n|Children|€
+      360,- yearly|\n|\t|(€ 30,- monthly)|\n| | |\n| | |\n| | |\n| | |\n|Toddlers/
+      Prescholers-|€ 40,-  monthly|\n| | |\n| | |\n| | |\n| | |\n|Dutch Aikikai Foundation|€
+      35,- yearly adults|\n| |€ 15,- yearly kids|\n| | |\n| | |\n| | |\n| | |\n|Gebouw
+      De Palm maintenance|€ 20,- yearly|\n\n\n<div style=\"margin-top: 5em;\">Payments
+      on accountnumber NL32INGB0751857599 to the name of T.G.B. Dijkman.\n</div>\n\n<div
       style=\"margin-top: 5em;\">Payments DAF at Account\nNL90INGB0009475591\nStichting
       Aikikai Holland\nPostbus 128, 1000AC Amsterdam\n</div>\n"
-    nl: "\n| | |\n|---|---|\n|Volwassenen|€ 42,50 per maand|\n|\t|€ 440,- per jaar|\n|
-      | |\n| | |\n| | |\n| | |\n|Kinderen|€ 360,- per jaar|\n| | |\n| | |\n| | |\n|
-      | |\n|Peuters/ Kleuters|€ 40,-  per maand|\n| | |\n| | |\n| | |\n| | |\n|Dutch
-      Aikikai Foundation|€ 35,- per jaar volw|\n| |€ 15,- per jaar kinderen|\n| |
-      |\n| | |\n| | |\n| | |\n|Gebouw De Palm onderhoud|€ 20,- yearly|\n\n\n<div style=\"margin-top:
-      5em;\">Betalingen op rekeningnummer NL32INGB0751857599 ter attentie van T.G.B.
-      Dijkman.\n</div>\n\n<div style=\"margin-top: 5em;\">Betalingen DAF op rek \nNL90INGB0009475591\nStichting
-      Aikikai Holland\nPostbus 128, 1000AC Amsterdam\n</div>\n"
+    nl: "\n| | |\n|---|---|\n|Volwassenen|€ 47,50 per maand|\n|\t|€ 440,- per jaar|\n|
+      | |\n| | |\n| | |\n| | |\n|Kinderen|€ 360,- per jaar|\n|\t|(€ 30,- per maand)|\n|
+      | |\n| | |\n| | |\n| | |\n|Peuters/ Kleuters|€ 40,-  per maand|\n| | |\n| |
+      |\n| | |\n| | |\n|Dutch Aikikai Foundation|€ 35,- per jaar volw|\n| |€ 15,-
+      per jaar kinderen|\n| | |\n| | |\n| | |\n| | |\n|Gebouw De Palm onderhoud|€
+      20,- yearly|\n\n\n<div style=\"margin-top: 5em;\">Betalingen op rekeningnummer
+      NL32INGB0751857599 ter attentie van T.G.B. Dijkman.\n</div>\n\n<div style=\"margin-top:
+      5em;\">Betalingen DAF op rek \nNL90INGB0009475591\nStichting Aikikai Holland\nPostbus
+      128, 1000AC Amsterdam\n</div>\n"
     link: ""
     class:
     - darkgray
@@ -2171,33 +2172,6 @@ events:
     en: ""
     nl: ""
   link: ""
-- date: 2019-01-19
-  title:
-    en: Yoko Okamoto Sensei in Paris
-    nl: Yoko Okamoto Sensei in Parijs
-  desc:
-    en: Saturday and Sunday 19/20th of January Yoko Okamoto will give a seminar in
-      Paris
-    nl: Zaterdag en zondag 19/20 januari geeft Yoko Okamoto les in Parijs.
-  link: ""
-- date: 2019-02-01
-  title:
-    en: Christian Tissier Brussels
-    nl: Christian Tissier Brussel
-  desc:
-    en: Tissier Sensei will teach from friday the 1st of February until Sunday the
-      3th in Brussels.
-    nl: Tissier Sensei geeft les van vrijdag avond t/m zondag in Brussel.
-  link: ""
-- date: 2019-02-22
-  title:
-    en: Tom Dijkman, Cape Town
-    nl: Tom Dijkman, Kaapstad
-  desc:
-    en: 'Tom Dijkman gives a seminar from the 22th of February untill the 24th of
-      February in Cape Town, South Africa. '
-    nl: Seminar door Tom Dijkman in Kaapstad, Zuid Afrika van 22 t/m 24 february.
-  link: ""
 - date: 2019-01-13
   title:
     en: 3th Dan Preparation DAF
@@ -2211,6 +2185,68 @@ events:
       3de Dan Voorbereiding door Tom Dijkman
       Sporthal De Pijp, dojo
       Lizzy Ansingh straat 88, Amsterdam
+  link: ""
+- date: 2019-01-13
+  title:
+    en: Kyu grade preparation
+    nl: 'Kyu graden voorbereiding '
+  desc:
+    en: |-
+      Kyu grade preparation Aikido Amsterdam
+      Lead by Tom Dijkman & Andra Perrin
+      Dojo Palmstraat 34
+      13.30-15.00 & 15.15-16.45
+      Costs € 10,00
+    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
+      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
+  link: ""
+- date: 2019-01-19
+  title:
+    en: Yoko Okamoto Sensei in Paris
+    nl: Yoko Okamoto Sensei in Parijs
+  desc:
+    en: Saturday and Sunday 19/20th of January Yoko Okamoto will give a seminar in
+      Paris
+    nl: Zaterdag en zondag 19/20 januari geeft Yoko Okamoto les in Parijs.
+  link: ""
+- date: 2019-01-23
+  title:
+    en: Yoko Okamoto Shihan Amsterdam
+    nl: Yoko Okamoto Shihan Amsterdam
+  desc:
+    en: |-
+      Yoko Okamoto special evening class
+      19.00-21.00 in Amsterdam
+      Dojo Dr Meurerhuis, building HvA Sports
+      Dr Meurerlaan 8 1067SM Amsterdam
+    nl: |-
+      Yoko Okamoto special evening class
+      19.00-21.00 in Amsterdam
+      Dojo Dr Meurerhuis, building HvA Sports
+      Dr Meurerlaan 8 1067SM Amsterdam
+  link: ""
+- date: 2019-02-01
+  title:
+    en: Christian Tissier Brussels
+    nl: Christian Tissier Brussel
+  desc:
+    en: Tissier Sensei will teach from friday the 1st of February until Sunday the
+      3th in Brussels.
+    nl: Tissier Sensei geeft les van vrijdag avond t/m zondag in Brussel.
+  link: ""
+- date: 2019-02-10
+  title:
+    en: Kyu grade preparation
+    nl: 'Kyu graden voorbereiding '
+  desc:
+    en: |-
+      Kyu grade preparation Aikido Amsterdam
+      Lead by Tom Dijkman & Andra Perrin
+      Dojo Palmstraat 34
+      13.30-15.00 & 15.15-16.45
+      Costs € 10,00
+    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
+      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
   link: ""
 - date: 2019-02-10
   title:
@@ -2226,6 +2262,23 @@ events:
       Sporthal De Pijp, dojo
       Lizzy Ansingh straat 88 Amsterdam
   link: ""
+- date: 2019-02-22
+  title:
+    en: Tom Dijkman, Cape Town
+    nl: Tom Dijkman, Kaapstad
+  desc:
+    en: 'Tom Dijkman gives a seminar from the 22th of February untill the 24th of
+      February in Cape Town, South Africa. '
+    nl: Seminar door Tom Dijkman in Kaapstad, Zuid Afrika van 22 t/m 24 february.
+  link: ""
+- date: 2019-03-16
+  title:
+    en: Yasuno Sensei Paris
+    nl: Yasuno Sensei Parijs
+  desc:
+    en: Yasuno Sensei in Paris 16 & 17th of March
+    nl: Yasuno Sensei in Parijs 16 & 17 Maart
+  link: ""
 - date: 2019-03-24
   title:
     en: 3th Dan preparation DAF
@@ -2239,6 +2292,46 @@ events:
       3de Dan voorbereiding door Tom Dijkman
       Sporthal De Pijp, dojo
       Lizzy Ansingh straat 88 Amsterdam
+  link: ""
+- date: 2019-03-24
+  title:
+    en: Kyu grade preparation
+    nl: 'Kyu graden voorbereiding '
+  desc:
+    en: |-
+      Kyu grade preparation Aikido Amsterdam
+      Lead by Tom Dijkman & Andra Perrin
+      Dojo Palmstraat 34
+      13.30-15.00 & 15.15-16.45
+      Costs € 10,00
+    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
+      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
+  link: ""
+- date: 2019-04-23
+  title:
+    en: 'Christian Tissier: Stage de Paque'
+    nl: 'Christian Tissier: Stage de Paque'
+  desc:
+    en: |-
+      Christian Tissier: Stage de Paque
+      From 23th untill the 28th of April in Vincennes
+    nl: |-
+      Christian Tissier: Stage de Paque
+      Van 23 t/m 28 April in Vincennes
+  link: ""
+- date: 2019-04-28
+  title:
+    en: Kyu grade preparation
+    nl: 'Kyu graden voorbereiding '
+  desc:
+    en: |-
+      Kyu grade preparation Aikido Amsterdam
+      Lead by Tom Dijkman & Andra Perrin
+      Dojo Palmstraat 34
+      13.30-15.00 & 15.15-16.45
+      Costs € 10,00
+    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
+      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
   link: ""
 - date: 2019-04-28
   title:
@@ -2268,6 +2361,32 @@ events:
       Sporthal De Pijp, dojo
       Lizzy Ansingh straat 88 Amsterdam
   link: ""
+- date: 2019-05-19
+  title:
+    en: Kyu grade preparation
+    nl: 'Kyu graden voorbereiding '
+  desc:
+    en: |-
+      Kyu grade preparation Aikido Amsterdam
+      Lead by Tom Dijkman & Andra Perrin
+      Dojo Palmstraat 34
+      13.30-15.00 & 15.15-16.45
+      Costs € 10,00
+    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
+      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
+  link: ""
+- date: 2019-06-08
+  title:
+    en: Christian Tissier in the Netherlands
+    nl: Christian Tissier in Nederland
+  desc:
+    en: |-
+      Christian Tissier in the Netherlands
+      Seminar wil take place at Papendal
+    nl: |-
+      Christian Tissier in Nederland
+      Seminar is op Papendal, Nationaal Sportcentrum.
+  link: ""
 - date: 2019-06-23
   title:
     en: 3th Dan preparation DAF
@@ -2282,7 +2401,7 @@ events:
       Sporthal De Pijp, dojo
       Lizzy Ansingh straat 88 Amsterdam
   link: ""
-- date: 2019-01-13
+- date: 2019-06-23
   title:
     en: Kyu grade preparation
     nl: 'Kyu graden voorbereiding '
@@ -2296,19 +2415,20 @@ events:
     nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
       34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
   link: ""
-- date: 2019-02-10
+- date: 2019-07-26
   title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
+    en: |
+      WAKA SENSEI in the NETHERLANDS
+    nl: WAKA SENSEI in NEDERLAND
   desc:
     en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
+      WAKA SENSEI, DOJO CHO HOMBU DOJO
+      26-28 JULY in THE NETHERLANDS
+      TOPSPORTCENTRUM ALMERE
+    nl: |-
+      WAKA SENSEI, DOJO CHO HOMBU DOJO
+      26-28 JULY in NEDERLAND
+      TOPSPORTCENTRUM ALMERE
   link: ""
 - date: 2019-10-19
   title:
@@ -2329,125 +2449,6 @@ events:
       Caroline Bied-Charreton\n15.50-16.30 Tom Dijkman\n \nPlaats wordt nog bekend
       gemaakt\n\nKosten € 55,00 weekend, € 35,00 dag en € 20,00 dagdeel\n \nInformatie
       Caroline 06-27008768 of Tom 06-10157451"
-  link: ""
-- date: 2019-03-24
-  title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
-  link: ""
-- date: 2019-04-28
-  title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
-  link: ""
-- date: 2019-05-19
-  title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
-  link: ""
-- date: 2019-06-23
-  title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
-  link: ""
-- date: 2019-01-23
-  title:
-    en: Yoko Okamoto Shihan Amsterdam
-    nl: Yoko Okamoto Shihan Amsterdam
-  desc:
-    en: |-
-      Yoko Okamoto special evening class
-      19.00-21.00 in Amsterdam
-      Dojo Dr Meurerhuis, building HvA Sports
-      Dr Meurerlaan 8 1067SM Amsterdam
-    nl: |-
-      Yoko Okamoto special evening class
-      19.00-21.00 in Amsterdam
-      Dojo Dr Meurerhuis, building HvA Sports
-      Dr Meurerlaan 8 1067SM Amsterdam
-  link: ""
-- date: 2019-03-16
-  title:
-    en: Yasuno Sensei Paris
-    nl: Yasuno Sensei Parijs
-  desc:
-    en: Yasuno Sensei in Paris 16 & 17th of March
-    nl: Yasuno Sensei in Parijs 16 & 17 Maart
-  link: ""
-- date: 2019-04-23
-  title:
-    en: 'Christian Tissier: Stage de Paque'
-    nl: 'Christian Tissier: Stage de Paque'
-  desc:
-    en: |-
-      Christian Tissier: Stage de Paque
-      From 23th untill the 28th of April in Vincennes
-    nl: |-
-      Christian Tissier: Stage de Paque
-      Van 23 t/m 28 April in Vincennes
-  link: ""
-- date: 2019-06-08
-  title:
-    en: Christian Tissier in the Netherlands
-    nl: Christian Tissier in Nederland
-  desc:
-    en: |-
-      Christian Tissier in the Netherlands
-      Seminar wil take place at Papendal
-    nl: |-
-      Christian Tissier in Nederland
-      Seminar is op Papendal, Nationaal Sportcentrum.
-  link: ""
-- date: 2019-07-26
-  title:
-    en: |
-      WAKA SENSEI in the NETHERLANDS
-    nl: WAKA SENSEI in NEDERLAND
-  desc:
-    en: |-
-      WAKA SENSEI, DOJO CHO HOMBU DOJO
-      26-28 JULY in THE NETHERLANDS
-      TOPSPORTCENTRUM ALMERE
-    nl: |-
-      WAKA SENSEI, DOJO CHO HOMBU DOJO
-      26-28 JULY in NEDERLAND
-      TOPSPORTCENTRUM ALMERE
   link: ""
 info:
   description:
