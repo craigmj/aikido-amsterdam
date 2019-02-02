@@ -2165,20 +2165,6 @@ quotes:
 events:
 - date: 2019-02-10
   title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
-  link: ""
-- date: 2019-02-10
-  title:
     en: 3th Dan preparation DAF
     nl: 3de Dan voorbereiding DAF
   desc:
@@ -2190,6 +2176,20 @@ events:
       3de Dan voorbereiding door Tom Dijkman
       Sporthal De Pijp, dojo
       Lizzy Ansingh straat 88 Amsterdam
+  link: ""
+- date: 2019-02-10
+  title:
+    en: Kyu grade preparation
+    nl: 'Kyu graden voorbereiding '
+  desc:
+    en: |-
+      Kyu grade preparation Aikido Amsterdam
+      Lead by Tom Dijkman & Andra Perrin
+      Dojo Palmstraat 34
+      13.30-15.00 & 15.15-16.45
+      Costs € 10,00
+    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
+      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
   link: ""
 - date: 2019-02-22
   title:
@@ -2210,20 +2210,6 @@ events:
   link: ""
 - date: 2019-03-24
   title:
-    en: 3th Dan preparation DAF
-    nl: 3de Dan voorbereiding DAF
-  desc:
-    en: |-
-      3th Dan Preparation lead by Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
-    nl: |-
-      3de Dan voorbereiding door Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
-  link: ""
-- date: 2019-03-24
-  title:
     en: Kyu grade preparation
     nl: 'Kyu graden voorbereiding '
   desc:
@@ -2235,6 +2221,20 @@ events:
       Costs € 10,00
     nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
       34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
+  link: ""
+- date: 2019-03-24
+  title:
+    en: 3th Dan preparation DAF
+    nl: 3de Dan voorbereiding DAF
+  desc:
+    en: |-
+      3th Dan Preparation lead by Tom Dijkman
+      Sporthal De Pijp, dojo
+      Lizzy Ansingh straat 88 Amsterdam
+    nl: |-
+      3de Dan voorbereiding door Tom Dijkman
+      Sporthal De Pijp, dojo
+      Lizzy Ansingh straat 88 Amsterdam
   link: ""
 - date: 2019-04-23
   title:
@@ -2275,109 +2275,6 @@ events:
       3de Dan voorbereiding door Tom Dijkman
       Sporthal De Pijp, dojo
       Lizzy Ansingh straat 88 Amsterdam
-  link: ""
-- date: 2019-05-19
-  title:
-    en: 3th Dan preparation DAF
-    nl: 3de Dan voorbereiding DAF
-  desc:
-    en: |-
-      3th Dan Preparation lead by Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
-    nl: |-
-      3de Dan voorbereiding door Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
-  link: ""
-- date: 2019-05-19
-  title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
-  link: ""
-- date: 2019-06-08
-  title:
-    en: Christian Tissier in the Netherlands
-    nl: Christian Tissier in Nederland
-  desc:
-    en: |-
-      Christian Tissier in the Netherlands
-      Seminar wil take place at Papendal
-    nl: |-
-      Christian Tissier in Nederland
-      Seminar is op Papendal, Nationaal Sportcentrum.
-  link: ""
-- date: 2019-06-23
-  title:
-    en: 3th Dan preparation DAF
-    nl: 3de Dan voorbereiding DAF
-  desc:
-    en: |-
-      3th Dan Preparation lead by Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
-    nl: |-
-      3de Dan voorbereiding door Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
-  link: ""
-- date: 2019-06-23
-  title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
-  link: ""
-- date: 2019-07-26
-  title:
-    en: |
-      WAKA SENSEI in the NETHERLANDS
-    nl: WAKA SENSEI in NEDERLAND
-  desc:
-    en: |-
-      WAKA SENSEI, DOJO CHO HOMBU DOJO
-      26-28 JULY in THE NETHERLANDS
-      TOPSPORTCENTRUM ALMERE
-    nl: |-
-      WAKA SENSEI, DOJO CHO HOMBU DOJO
-      26-28 JULY in NEDERLAND
-      TOPSPORTCENTRUM ALMERE
-  link: ""
-- date: 2019-10-19
-  title:
-    en: Autumn school DAF
-    nl: Herfstschool DAF
-  desc:
-    en: "The autumn school takes place on Saturday 19 and Sunday 20 October 2019.\n
-      \nSaturday, October 19\n10.00-11.10 Sachien Raghoe (Bokken)\n11.20-12.30 Joop
-      Leduc\n14.30-15.40 Tom Dijkman\n15.50-16.30 Caroline Bied-Charreton\n \nSunday,
-      October 20\n10.00-11.10 Sachien Raghoe (Bokken)\n11.20-12.30 Joop Leduc\n14.30-15.40
-      Caroline Bied-Charreton\n15.50-16.30 Tom Dijkman\n \nVenue will follow\n\nCosts
-      € 55.00 weekend, € 35.00 day and € 20.00 day part\n \nInformation Caroline 06-27008768
-      or Tom 06-10157451"
-    nl: "De herfstschool vind plaatst op zaterdag 19 en zondag 20 oktober 2018.\n
-      \nZaterdag 19 oktober\n10.00-11.10 Sachien Raghoe (Bokken)\n11.20-12.30 Joop
-      Leduc\n14.30-15.40 Tom Dijkman\n15.50-16.30 Caroline Bied-Charreton\n \nZondag
-      20 oktober\n10.00-11.10 Sachien Raghoe (Bokken)\n11.20-12.30 Joop Leduc\n14.30-15.40
-      Caroline Bied-Charreton\n15.50-16.30 Tom Dijkman\n \nPlaats wordt nog bekend
-      gemaakt\n\nKosten € 55,00 weekend, € 35,00 dag en € 20,00 dagdeel\n \nInformatie
-      Caroline 06-27008768 of Tom 06-10157451"
   link: ""
 - date: 2019-05-11
   title:
@@ -2428,6 +2325,130 @@ events:
       15.00-17.00    Aikido
       17.00-17.30    Reflection
 
+  link: ""
+- date: 2019-05-19
+  title:
+    en: Kyu grade preparation
+    nl: 'Kyu graden voorbereiding '
+  desc:
+    en: |-
+      Kyu grade preparation Aikido Amsterdam
+      Lead by Tom Dijkman & Andra Perrin
+      Dojo Palmstraat 34
+      13.30-15.00 & 15.15-16.45
+      Costs € 10,00
+    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
+      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
+  link: ""
+- date: 2019-05-19
+  title:
+    en: 3th Dan preparation DAF
+    nl: 3de Dan voorbereiding DAF
+  desc:
+    en: |-
+      3th Dan Preparation lead by Tom Dijkman
+      Sporthal De Pijp, dojo
+      Lizzy Ansingh straat 88 Amsterdam
+    nl: |-
+      3de Dan voorbereiding door Tom Dijkman
+      Sporthal De Pijp, dojo
+      Lizzy Ansingh straat 88 Amsterdam
+  link: ""
+- date: 2019-06-08
+  title:
+    en: Christian Tissier in the Netherlands
+    nl: Christian Tissier in Nederland
+  desc:
+    en: |-
+      Christian Tissier in the Netherlands
+      Seminar wil take place at Papendal
+    nl: |-
+      Christian Tissier in Nederland
+      Seminar is op Papendal, Nationaal Sportcentrum.
+  link: ""
+- date: 2019-06-23
+  title:
+    en: Kyu grade preparation
+    nl: 'Kyu graden voorbereiding '
+  desc:
+    en: |-
+      Kyu grade preparation Aikido Amsterdam
+      Lead by Tom Dijkman & Andra Perrin
+      Dojo Palmstraat 34
+      13.30-15.00 & 15.15-16.45
+      Costs € 10,00
+    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
+      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
+  link: ""
+- date: 2019-06-23
+  title:
+    en: 3th Dan preparation DAF
+    nl: 3de Dan voorbereiding DAF
+  desc:
+    en: |-
+      3th Dan Preparation lead by Tom Dijkman
+      Sporthal De Pijp, dojo
+      Lizzy Ansingh straat 88 Amsterdam
+    nl: |-
+      3de Dan voorbereiding door Tom Dijkman
+      Sporthal De Pijp, dojo
+      Lizzy Ansingh straat 88 Amsterdam
+  link: ""
+- date: 2019-07-26
+  title:
+    en: |
+      WAKA SENSEI in the NETHERLANDS
+    nl: WAKA SENSEI in NEDERLAND
+  desc:
+    en: |-
+      WAKA SENSEI, DOJO CHO HOMBU DOJO
+      26-28 JULY in THE NETHERLANDS
+      TOPSPORTCENTRUM ALMERE
+    nl: |-
+      WAKA SENSEI, DOJO CHO HOMBU DOJO
+      26-28 JULY in NEDERLAND
+      TOPSPORTCENTRUM ALMERE
+  link: ""
+- date: 2019-10-19
+  title:
+    en: Autumn school DAF
+    nl: Herfstschool DAF
+  desc:
+    en: "The autumn school takes place on Saturday 19 and Sunday 20 October 2019.\n
+      \nSaturday, October 19\n10.00-11.10 Sachien Raghoe (Bokken)\n11.20-12.30 Joop
+      Leduc\n14.30-15.40 Tom Dijkman\n15.50-16.30 Caroline Bied-Charreton\n \nSunday,
+      October 20\n10.00-11.10 Sachien Raghoe (Bokken)\n11.20-12.30 Joop Leduc\n14.30-15.40
+      Caroline Bied-Charreton\n15.50-16.30 Tom Dijkman\n \nVenue will follow\n\nCosts
+      € 55.00 weekend, € 35.00 day and € 20.00 day part\n \nInformation Caroline 06-27008768
+      or Tom 06-10157451"
+    nl: "De herfstschool vind plaatst op zaterdag 19 en zondag 20 oktober 2018.\n
+      \nZaterdag 19 oktober\n10.00-11.10 Sachien Raghoe (Bokken)\n11.20-12.30 Joop
+      Leduc\n14.30-15.40 Tom Dijkman\n15.50-16.30 Caroline Bied-Charreton\n \nZondag
+      20 oktober\n10.00-11.10 Sachien Raghoe (Bokken)\n11.20-12.30 Joop Leduc\n14.30-15.40
+      Caroline Bied-Charreton\n15.50-16.30 Tom Dijkman\n \nPlaats wordt nog bekend
+      gemaakt\n\nKosten € 55,00 weekend, € 35,00 dag en € 20,00 dagdeel\n \nInformatie
+      Caroline 06-27008768 of Tom 06-10157451"
+  link: ""
+- date: 2019-04-20
+  title:
+    en: Seminar Tom Dijkman & Caroline Bied-Charreton
+    nl: Seminar Tom Dijkman & Caroline Bied-Charreton
+  desc:
+    en: |+
+      Seminar will take place in the dojo of Sporthal De Pijp in Amsterdam
+
+      Time 13:00-16:00
+      Costs € 25,00
+
+      Adres: Lizzy Ansinghstraat 88, Amsterdam
+
+    nl: |-
+      De seminar vindt plaats in de dojo van Sporthal De Pijp in Amsterdam
+
+      Tijd 13:00-16:00
+      Kosten € 25,00
+
+      Adres: Lizzy Ansinghstraat 88, Amsterdam
   link: ""
 info:
   description:
