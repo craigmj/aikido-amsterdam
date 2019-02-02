@@ -2163,15 +2163,7 @@ quotes:
     text: Fijne sfeer, inspirerende sensei en geen les is hetzelfde!
     who: Laura Shanna Belmon
 events:
-- date: 2019-01-05
-  title:
-    en: Christian Tissier Sensei in Antwerpen
-    nl: Christian Tissier Sensei in Antwerpen
-  desc:
-    en: ""
-    nl: ""
-  link: ""
-- date: 2019-01-13
+- date: 2019-02-10
   title:
     en: Kyu grade preparation
     nl: 'Kyu graden voorbereiding '
@@ -2184,54 +2176,6 @@ events:
       Costs € 10,00
     nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
       34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
-  link: ""
-- date: 2019-01-13
-  title:
-    en: 3th Dan Preparation DAF
-    nl: 3de Dan Voorbereiding DAF
-  desc:
-    en: |-
-      3th Dan Preparation lead by Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
-    nl: |-
-      3de Dan Voorbereiding door Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88, Amsterdam
-  link: ""
-- date: 2019-01-19
-  title:
-    en: Yoko Okamoto Sensei in Paris
-    nl: Yoko Okamoto Sensei in Parijs
-  desc:
-    en: Saturday and Sunday 19/20th of January Yoko Okamoto will give a seminar in
-      Paris
-    nl: Zaterdag en zondag 19/20 januari geeft Yoko Okamoto les in Parijs.
-  link: ""
-- date: 2019-01-23
-  title:
-    en: Yoko Okamoto Shihan Amsterdam
-    nl: Yoko Okamoto Shihan Amsterdam
-  desc:
-    en: |-
-      Yoko Okamoto special evening class
-      19.00-21.00 in Amsterdam
-      Dojo Dr Meurerhuis, building HvA Sports
-      Dr Meurerlaan 8 1067SM Amsterdam
-    nl: |-
-      Yoko Okamoto special evening class
-      19.00-21.00 in Amsterdam
-      Dojo Dr Meurerhuis, building HvA Sports
-      Dr Meurerlaan 8 1067SM Amsterdam
-  link: ""
-- date: 2019-02-01
-  title:
-    en: Christian Tissier Brussels
-    nl: Christian Tissier Brussel
-  desc:
-    en: Tissier Sensei will teach from friday the 1st of February until Sunday the
-      3th in Brussels.
-    nl: Tissier Sensei geeft les van vrijdag avond t/m zondag in Brussel.
   link: ""
 - date: 2019-02-10
   title:
@@ -2246,20 +2190,6 @@ events:
       3de Dan voorbereiding door Tom Dijkman
       Sporthal De Pijp, dojo
       Lizzy Ansingh straat 88 Amsterdam
-  link: ""
-- date: 2019-02-10
-  title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
   link: ""
 - date: 2019-02-22
   title:
@@ -2320,45 +2250,31 @@ events:
   link: ""
 - date: 2019-04-28
   title:
-    en: 3th Dan preparation DAF
-    nl: 3de Dan voorbereiding DAF
+    en: Kyu grade preparation
+    nl: 'Kyu graden voorbereiding '
   desc:
     en: |-
-      3th Dan Preparation lead by Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
-    nl: |-
-      3de Dan voorbereiding door Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
+      Kyu grade preparation Aikido Amsterdam
+      Lead by Tom Dijkman & Andra Perrin
+      Dojo Palmstraat 34
+      13.30-15.00 & 15.15-16.45
+      Costs € 10,00
+    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
+      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
   link: ""
 - date: 2019-04-28
   title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
+    en: 3th Dan preparation DAF
+    nl: 3de Dan voorbereiding DAF
   desc:
     en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
-  link: ""
-- date: 2019-05-19
-  title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
+      3th Dan Preparation lead by Tom Dijkman
+      Sporthal De Pijp, dojo
+      Lizzy Ansingh straat 88 Amsterdam
+    nl: |-
+      3de Dan voorbereiding door Tom Dijkman
+      Sporthal De Pijp, dojo
+      Lizzy Ansingh straat 88 Amsterdam
   link: ""
 - date: 2019-05-19
   title:
@@ -2373,6 +2289,20 @@ events:
       3de Dan voorbereiding door Tom Dijkman
       Sporthal De Pijp, dojo
       Lizzy Ansingh straat 88 Amsterdam
+  link: ""
+- date: 2019-05-19
+  title:
+    en: Kyu grade preparation
+    nl: 'Kyu graden voorbereiding '
+  desc:
+    en: |-
+      Kyu grade preparation Aikido Amsterdam
+      Lead by Tom Dijkman & Andra Perrin
+      Dojo Palmstraat 34
+      13.30-15.00 & 15.15-16.45
+      Costs € 10,00
+    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
+      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
   link: ""
 - date: 2019-06-08
   title:
@@ -2388,20 +2318,6 @@ events:
   link: ""
 - date: 2019-06-23
   title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
-  link: ""
-- date: 2019-06-23
-  title:
     en: 3th Dan preparation DAF
     nl: 3de Dan voorbereiding DAF
   desc:
@@ -2413,6 +2329,20 @@ events:
       3de Dan voorbereiding door Tom Dijkman
       Sporthal De Pijp, dojo
       Lizzy Ansingh straat 88 Amsterdam
+  link: ""
+- date: 2019-06-23
+  title:
+    en: Kyu grade preparation
+    nl: 'Kyu graden voorbereiding '
+  desc:
+    en: |-
+      Kyu grade preparation Aikido Amsterdam
+      Lead by Tom Dijkman & Andra Perrin
+      Dojo Palmstraat 34
+      13.30-15.00 & 15.15-16.45
+      Costs € 10,00
+    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
+      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
   link: ""
 - date: 2019-07-26
   title:
@@ -2448,6 +2378,56 @@ events:
       Caroline Bied-Charreton\n15.50-16.30 Tom Dijkman\n \nPlaats wordt nog bekend
       gemaakt\n\nKosten € 55,00 weekend, € 35,00 dag en € 20,00 dagdeel\n \nInformatie
       Caroline 06-27008768 of Tom 06-10157451"
+  link: ""
+- date: 2019-05-11
+  title:
+    en: Intense Weekend Seminar
+    nl: Intense Weekend Seminsr
+  desc:
+    en: |+
+      Aikdo Intensive Course in the heart of Amsterdam
+      Limited Places (max. 20 persons)
+      Location: Dojo Aikido Amsterdam Palmstraat 34 (15 min walk from Central Station Amsterdam)
+      Information: info@tomdijkman.nl / 0031610157451
+      Price: € 50,00 Full weekend
+
+      Timetable
+      Saturday
+      12.30-14.30    Aikido
+      14.30-16.00    Lunch
+      16.00-18.00    Aikido
+      18.00-18.30    Reflection
+      Evening           Diner
+
+      Sunday
+      10.00-12.00    Aikido
+      12.00-13.00   Weapons
+      13.00-15.00    Lunch
+      15.00-17.00    Aikido
+      17.00-17.30    Reflection
+
+    nl: |+
+      Aikdo Intensive Course in the heart of Amsterdam
+      Limited Places (max. 20 persons)
+      Location: Dojo Aikido Amsterdam Palmstraat 34 (15 min walk from Central Station Amsterdam)
+      Information: info@tomdijkman.nl / 0031610157451
+      Price: € 50,00 Full weekend
+
+      Timetable
+      Saturday
+      12.30-14.30    Aikido
+      14.30-16.00    Lunch
+      16.00-18.00    Aikido
+      18.00-18.30    Reflection
+      Evening           Diner
+
+      Sunday
+      10.00-12.00    Aikido
+      12.00-13.00   Weapons
+      13.00-15.00    Lunch
+      15.00-17.00    Aikido
+      17.00-17.30    Reflection
+
   link: ""
 info:
   description:
