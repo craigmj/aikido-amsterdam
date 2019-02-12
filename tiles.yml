@@ -25,15 +25,13 @@ mobile:
 - name: times
   en: "**Monday Palmstraat**\n15.45-16.45: Kids 6-9 \n17.00-18.00: Kids 9-12 \n18.30-19.30:
     Beginners\n19.30-20.30: Intermediate\n20.30-21.30: Advanced.\n\n<br />\n\n**Tuesday
-    Palmstraat**\n10.30-11.30: Budokids 2+\n11.30-12.30: Budokids 3+\n12.30-13.30:
-    All Levels\n13.30-14.30: Weapons\n\n<br />\n\nWeapon classes: either bokken or
-    jo.\n\n<br />\n\n**Wednesday Wenckebachweg**\n13.45-14.45: Toddlers 4-6\n15.15-16.15:
-    Kids/ Parents\n\n<br />\n\nKids/ parents classes as from 7 years, parents can
-    join the classes with their kids.\n\n<br />\n\n**Thursday Wenckebachweg**\n12.30-13.30:
-    Budokids 2+\n13.30-14.30: Budokids 3+\n\n<br />\n\n**Thursday Palmstraat**\n19.30-20.30:
-    Beginners\n20.30-21.30: Advanced\n\n<br />\n\n**Friday Palmstraat**\n09.00-10.00:
-    All\n10.30-12.00: Chi Kung\n15.45-16.45: Toddlers 4-6\n17.00-18.00: Kids/ Parents\n18.15-19.45:
-    Chi Kung\n\n<br />\n\n**Sunday Palmstraat**\nKyu preparation monthly\n"
+    Palmstraat**\n12.30-13.30: All Levels\n13.30-14.30: Weapons\n\n<br />\n\nWeapon
+    classes: either bokken or jo.\n\n<br />\n\n**Wednesday Wenckebachweg**\n13.45-14.45:
+    Toddlers 4-6\n15.15-16.15: Kids/ Parents\n\n<br />\n\nKids/ parents classes as
+    from 7 years, parents can join the classes with their kids.\n\n<br />\n\n**Thursday
+    Palmstraat**\n19.30-20.30: Beginners\n20.30-21.30: Advanced\n\n<br />\n\n**Friday
+    Palmstraat**\n09.00-10.00: All\n10.30-12.00: Chi Kung\n15.45-16.45: Toddlers 4-6\n17.00-18.00:
+    Kids/ Parents\n\n<br />\n\n**Sunday Palmstraat**\nKyu preparation monthly\n"
   nl: |2
 
     **Maandag Palmstraat**
@@ -46,8 +44,6 @@ mobile:
     <br />
 
     **Dinsdag Palmstraat**
-    10.30-11.30: Budokids 2+
-    11.30-12.30: Budokids 3+
     12.30-13.30: Volw allen
     13.30-14.30: Volw wapens
 
@@ -67,12 +63,6 @@ mobile:
 
     <br />
 
-    **Donderdag Wenckebachweg**
-    12.30-13.30: Budokids 2+
-    13.30-14.30: Budokids 3+
-
-    <br />
-
     **Donderdag Palmstraat**
     19.30-20.30: Beginners
     20.30-21.30: Gevorderd
@@ -84,7 +74,6 @@ mobile:
     10.30-12.00: Chi Kung
     15.45-16.45: Kleuters 4-6
     17.00-18.00: Ouder/ kind
-    18.15-19.45: Chi Kung
 
     <br />
 
@@ -2165,20 +2154,6 @@ quotes:
 events:
 - date: 2019-02-10
   title:
-    en: 3th Dan preparation DAF
-    nl: 3de Dan voorbereiding DAF
-  desc:
-    en: |-
-      3th Dan Preparation lead by Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
-    nl: |-
-      3de Dan voorbereiding door Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
-  link: ""
-- date: 2019-02-10
-  title:
     en: Kyu grade preparation
     nl: 'Kyu graden voorbereiding '
   desc:
@@ -2190,6 +2165,20 @@ events:
       Costs € 10,00
     nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
       34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
+  link: ""
+- date: 2019-02-10
+  title:
+    en: 3th Dan preparation DAF
+    nl: 3de Dan voorbereiding DAF
+  desc:
+    en: |-
+      3th Dan Preparation lead by Tom Dijkman
+      Sporthal De Pijp, dojo
+      Lizzy Ansingh straat 88 Amsterdam
+    nl: |-
+      3de Dan voorbereiding door Tom Dijkman
+      Sporthal De Pijp, dojo
+      Lizzy Ansingh straat 88 Amsterdam
   link: ""
 - date: 2019-02-22
   title:
@@ -2210,6 +2199,20 @@ events:
   link: ""
 - date: 2019-03-24
   title:
+    en: 3th Dan preparation DAF
+    nl: 3de Dan voorbereiding DAF
+  desc:
+    en: |-
+      3th Dan Preparation lead by Tom Dijkman
+      Sporthal De Pijp, dojo
+      Lizzy Ansingh straat 88 Amsterdam
+    nl: |-
+      3de Dan voorbereiding door Tom Dijkman
+      Sporthal De Pijp, dojo
+      Lizzy Ansingh straat 88 Amsterdam
+  link: ""
+- date: 2019-03-24
+  title:
     en: Kyu grade preparation
     nl: 'Kyu graden voorbereiding '
   desc:
@@ -2222,19 +2225,26 @@ events:
     nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
       34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
   link: ""
-- date: 2019-03-24
+- date: 2019-04-20
   title:
-    en: 3th Dan preparation DAF
-    nl: 3de Dan voorbereiding DAF
+    en: Seminar Tom Dijkman & Caroline Bied-Charreton
+    nl: Seminar Tom Dijkman & Caroline Bied-Charreton
   desc:
-    en: |-
-      3th Dan Preparation lead by Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
+    en: |+
+      Seminar will take place in the dojo of Sporthal De Pijp in Amsterdam
+
+      Time 13:00-16:00
+      Costs € 25,00
+
+      Adres: Lizzy Ansinghstraat 88, Amsterdam
+
     nl: |-
-      3de Dan voorbereiding door Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
+      De seminar vindt plaats in de dojo van Sporthal De Pijp in Amsterdam
+
+      Tijd 13:00-16:00
+      Kosten € 25,00
+
+      Adres: Lizzy Ansinghstraat 88, Amsterdam
   link: ""
 - date: 2019-04-23
   title:
@@ -2250,20 +2260,6 @@ events:
   link: ""
 - date: 2019-04-28
   title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
-  link: ""
-- date: 2019-04-28
-  title:
     en: 3th Dan preparation DAF
     nl: 3de Dan voorbereiding DAF
   desc:
@@ -2275,6 +2271,20 @@ events:
       3de Dan voorbereiding door Tom Dijkman
       Sporthal De Pijp, dojo
       Lizzy Ansingh straat 88 Amsterdam
+  link: ""
+- date: 2019-04-28
+  title:
+    en: Kyu grade preparation
+    nl: 'Kyu graden voorbereiding '
+  desc:
+    en: |-
+      Kyu grade preparation Aikido Amsterdam
+      Lead by Tom Dijkman & Andra Perrin
+      Dojo Palmstraat 34
+      13.30-15.00 & 15.15-16.45
+      Costs € 10,00
+    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
+      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
   link: ""
 - date: 2019-05-11
   title:
@@ -2328,20 +2338,6 @@ events:
   link: ""
 - date: 2019-05-19
   title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
-  link: ""
-- date: 2019-05-19
-  title:
     en: 3th Dan preparation DAF
     nl: 3de Dan voorbereiding DAF
   desc:
@@ -2353,6 +2349,20 @@ events:
       3de Dan voorbereiding door Tom Dijkman
       Sporthal De Pijp, dojo
       Lizzy Ansingh straat 88 Amsterdam
+  link: ""
+- date: 2019-05-19
+  title:
+    en: Kyu grade preparation
+    nl: 'Kyu graden voorbereiding '
+  desc:
+    en: |-
+      Kyu grade preparation Aikido Amsterdam
+      Lead by Tom Dijkman & Andra Perrin
+      Dojo Palmstraat 34
+      13.30-15.00 & 15.15-16.45
+      Costs € 10,00
+    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
+      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
   link: ""
 - date: 2019-06-08
   title:
@@ -2368,20 +2378,6 @@ events:
   link: ""
 - date: 2019-06-23
   title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
-  link: ""
-- date: 2019-06-23
-  title:
     en: 3th Dan preparation DAF
     nl: 3de Dan voorbereiding DAF
   desc:
@@ -2393,6 +2389,20 @@ events:
       3de Dan voorbereiding door Tom Dijkman
       Sporthal De Pijp, dojo
       Lizzy Ansingh straat 88 Amsterdam
+  link: ""
+- date: 2019-06-23
+  title:
+    en: Kyu grade preparation
+    nl: 'Kyu graden voorbereiding '
+  desc:
+    en: |-
+      Kyu grade preparation Aikido Amsterdam
+      Lead by Tom Dijkman & Andra Perrin
+      Dojo Palmstraat 34
+      13.30-15.00 & 15.15-16.45
+      Costs € 10,00
+    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
+      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
   link: ""
 - date: 2019-07-26
   title:
@@ -2428,27 +2438,6 @@ events:
       Caroline Bied-Charreton\n15.50-16.30 Tom Dijkman\n \nPlaats wordt nog bekend
       gemaakt\n\nKosten € 55,00 weekend, € 35,00 dag en € 20,00 dagdeel\n \nInformatie
       Caroline 06-27008768 of Tom 06-10157451"
-  link: ""
-- date: 2019-04-20
-  title:
-    en: Seminar Tom Dijkman & Caroline Bied-Charreton
-    nl: Seminar Tom Dijkman & Caroline Bied-Charreton
-  desc:
-    en: |+
-      Seminar will take place in the dojo of Sporthal De Pijp in Amsterdam
-
-      Time 13:00-16:00
-      Costs € 25,00
-
-      Adres: Lizzy Ansinghstraat 88, Amsterdam
-
-    nl: |-
-      De seminar vindt plaats in de dojo van Sporthal De Pijp in Amsterdam
-
-      Tijd 13:00-16:00
-      Kosten € 25,00
-
-      Adres: Lizzy Ansinghstraat 88, Amsterdam
   link: ""
 info:
   description:
