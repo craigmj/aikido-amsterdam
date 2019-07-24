@@ -2156,20 +2156,6 @@ quotes:
 events:
 - date: 2019-04-28
   title:
-    en: 3th Dan preparation DAF
-    nl: 3de Dan voorbereiding DAF
-  desc:
-    en: |-
-      3th Dan Preparation lead by Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
-    nl: |-
-      3de Dan voorbereiding door Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
-  link: ""
-- date: 2019-04-28
-  title:
     en: Kyu grade preparation
     nl: 'Kyu graden voorbereiding '
   desc:
@@ -2181,6 +2167,20 @@ events:
       Costs € 10,00
     nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
       34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
+  link: ""
+- date: 2019-04-28
+  title:
+    en: 3th Dan preparation DAF
+    nl: 3de Dan voorbereiding DAF
+  desc:
+    en: |-
+      3th Dan Preparation lead by Tom Dijkman
+      Sporthal De Pijp, dojo
+      Lizzy Ansingh straat 88 Amsterdam
+    nl: |-
+      3de Dan voorbereiding door Tom Dijkman
+      Sporthal De Pijp, dojo
+      Lizzy Ansingh straat 88 Amsterdam
   link: ""
 - date: 2019-05-11
   title:
@@ -2258,6 +2258,16 @@ events:
       Christian Tissier in Nederland
       Seminar is op Papendal, Nationaal Sportcentrum.
   link: ""
+- date: 2019-06-29
+  title:
+    en: Kyu grade preparation
+    nl: 'Kyu graden voorbereiding '
+  desc:
+    en: "Kyu grade preparation Aikido Amsterdam\nLead by Tom Dijkman \nDojo Palmstraat
+      34\n13.30-15.00 & 15.15-16.45\nCosts € 15,00"
+    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman \nDojo Palmstraat 34\n13.30-15.00
+      & 15.15-16.45\nKosten € 15,00"
+  link: ""
 - date: 2019-06-30
   title:
     en: 3th Dan preparation DAF
@@ -2271,16 +2281,6 @@ events:
       3de Dan voorbereiding door Tom Dijkman
       Sporthal De Pijp, dojo
       Lizzy Ansingh straat 88 Amsterdam
-  link: ""
-- date: 2019-06-29
-  title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: "Kyu grade preparation Aikido Amsterdam\nLead by Tom Dijkman \nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nCosts € 15,00"
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman \nDojo Palmstraat 34\n13.30-15.00
-      & 15.15-16.45\nKosten € 15,00"
   link: ""
 - date: 2019-07-26
   title:
@@ -2316,6 +2316,14 @@ events:
       Caroline Bied-Charreton\n15.50-16.30 Tom Dijkman\n \nPlaats wordt nog bekend
       gemaakt\n\nKosten € 55,00 weekend, € 35,00 dag en € 20,00 dagdeel\n \nInformatie
       Caroline 06-27008768 of Tom 06-10157451"
+  link: ""
+- date: 2019-09-06
+  title:
+    en: Kobayashi Shihan Netherlands
+    nl: Kobayashi Shihan Nederland
+  desc:
+    en: Kobayashi Shihan will teach 3 days in Papendal National Sportcenter in Arnhem
+    nl: Kobayashi Shihan geeft 3 dagen les op Nationaal Sportcentrum Papandal, Arnhem.
   link: ""
 info:
   description:
