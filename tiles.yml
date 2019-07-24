@@ -2154,134 +2154,6 @@ quotes:
     text: Fijne sfeer, inspirerende sensei en geen les is hetzelfde!
     who: Laura Shanna Belmon
 events:
-- date: 2019-04-28
-  title:
-    en: 3th Dan preparation DAF
-    nl: 3de Dan voorbereiding DAF
-  desc:
-    en: |-
-      3th Dan Preparation lead by Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
-    nl: |-
-      3de Dan voorbereiding door Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
-  link: ""
-- date: 2019-04-28
-  title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: |-
-      Kyu grade preparation Aikido Amsterdam
-      Lead by Tom Dijkman & Andra Perrin
-      Dojo Palmstraat 34
-      13.30-15.00 & 15.15-16.45
-      Costs € 10,00
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman & Andra Perrin\nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nKosten € 10,00"
-  link: ""
-- date: 2019-05-11
-  title:
-    en: Intense Weekend Seminar lead by Tom Dijkman
-    nl: Intense Weekend Seminsr lead by Tom Dijkman
-  desc:
-    en: |+
-      Aikdo Intensive Course in the heart of Amsterdam
-      Limited Places (max. 20 persons)
-      Location: Dojo Aikido Amsterdam Palmstraat 34 (15 min walk from Central Station Amsterdam)
-      Information: info@tomdijkman.nl / 0031610157451
-      Price: € 50,00 Full weekend
-
-      Timetable
-      Saturday
-      12.30-14.30    Aikido
-      14.30-16.00    Lunch
-      16.00-18.00    Aikido
-      18.00-18.30    Reflection
-      Evening           Diner
-
-      Sunday
-      10.00-12.00    Aikido
-      12.00-13.00   Weapons
-      13.00-15.00    Lunch
-      15.00-17.00    Aikido
-      17.00-17.30    Reflection
-
-    nl: |+
-      Aikdo Intensive Course in the heart of Amsterdam
-      Limited Places (max. 20 persons)
-      Location: Dojo Aikido Amsterdam Palmstraat 34 (15 min walk from Central Station Amsterdam)
-      Information: info@tomdijkman.nl / 0031610157451
-      Price: € 50,00 Full weekend
-
-      Timetable
-      Saturday
-      12.30-14.30    Aikido
-      14.30-16.00    Lunch
-      16.00-18.00    Aikido
-      18.00-18.30    Reflection
-      Evening           Diner
-
-      Sunday
-      10.00-12.00    Aikido
-      12.00-13.00   Weapons
-      13.00-15.00    Lunch
-      15.00-17.00    Aikido
-      17.00-17.30    Reflection
-
-  link: ""
-- date: 2019-05-19
-  title:
-    en: 3th Dan preparation DAF
-    nl: 3de Dan voorbereiding DAF
-  desc:
-    en: |-
-      3th Dan Preparation lead by Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
-    nl: |-
-      3de Dan voorbereiding door Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
-  link: ""
-- date: 2019-06-08
-  title:
-    en: Christian Tissier in the Netherlands
-    nl: Christian Tissier in Nederland
-  desc:
-    en: |-
-      Christian Tissier in the Netherlands
-      Seminar wil take place at Papendal
-    nl: |-
-      Christian Tissier in Nederland
-      Seminar is op Papendal, Nationaal Sportcentrum.
-  link: ""
-- date: 2019-06-29
-  title:
-    en: Kyu grade preparation
-    nl: 'Kyu graden voorbereiding '
-  desc:
-    en: "Kyu grade preparation Aikido Amsterdam\nLead by Tom Dijkman \nDojo Palmstraat
-      34\n13.30-15.00 & 15.15-16.45\nCosts € 15,00"
-    nl: "Kyu graden voorbereiding \nDoor Tom Dijkman \nDojo Palmstraat 34\n13.30-15.00
-      & 15.15-16.45\nKosten € 15,00"
-  link: ""
-- date: 2019-06-30
-  title:
-    en: 3th Dan preparation DAF
-    nl: 3de Dan voorbereiding DAF
-  desc:
-    en: |-
-      3th Dan Preparation lead by Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
-    nl: |-
-      3de Dan voorbereiding door Tom Dijkman
-      Sporthal De Pijp, dojo
-      Lizzy Ansingh straat 88 Amsterdam
-  link: ""
 - date: 2019-07-26
   title:
     en: |
@@ -2412,6 +2284,14 @@ events:
       Christian Tissier in Nederland
       Seminar is op Papendal, Nationaal Sportcentrum.
   link: http://www.christiantissier.com/tissier_stages.html
+- date: 2019-10-27
+  title:
+    en: 'Talent Development '
+    nl: Talent Ontwikkeling
+  desc:
+    en: ""
+    nl: ""
+  link: https://www.talent.aikidonederland.nl
 info:
   description:
     en: 'Aikido lessons for everyone: Toddler / Kindergarten lessons, Kids, Teenagers,
