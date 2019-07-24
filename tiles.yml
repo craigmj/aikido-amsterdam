@@ -2319,11 +2319,21 @@ events:
   link: ""
 - date: 2019-09-06
   title:
-    en: Kobayashi Shihan Netherlands
-    nl: Kobayashi Shihan Nederland
+    en: Kobayashi Shihan Netherlands 6-9 September
+    nl: Kobayashi Shihan Nederland 6-9 september
   desc:
     en: Kobayashi Shihan will teach 3 days in Papendal National Sportcenter in Arnhem
     nl: Kobayashi Shihan geeft 3 dagen les op Nationaal Sportcentrum Papandal, Arnhem.
+  link: ""
+- date: 2019-09-15
+  title:
+    en: 'Talent Development Intake Day '
+    nl: Talent Ontwikkeling Instroomdag
+  desc:
+    en: Open day for all Aikido Youth of the Netherlands to get acquainted with Talent
+      Development. Have fun, make new friends and learn how to develop your Aikido.
+    nl: Open dag voor alle Aikido Jeugd van Nederland om kennis te maken met de Talent
+      Ontwikkeling. Veel plezier, nieuwe vrienden en leer je Aikido ontwikkelen.
   link: ""
 info:
   description:
