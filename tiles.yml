@@ -892,7 +892,7 @@ pages:
   - alias: ""
     tile: 3,1,1,1
     img: ""
-    en: |
+    en: |+
       <h1>Palmstraat</h1> <h2>Friday</h2>
 
       ||||
@@ -901,8 +901,8 @@ pages:
       |10:30|-12:00|chi kung|
       |15:45|-16:45|toddlers(4-6)|
       |17,00|-18:00|parent/ kids|
-      |18:15|-19:45|chi kung|
-    nl: |
+
+    nl: |+
       <h1>Palmstraat</h1> <h2>Vrijdag</h2>
 
       ||||
@@ -911,7 +911,7 @@ pages:
       |10:30|-12:00|chi kung|
       |15:45|-16:45|peuters(4-6)|
       |17,00|-18:00|ouder/ kind|
-      |18:15|-19:45|chi kung|
+
     link: ""
     class:
     - blue
