@@ -810,9 +810,9 @@ pages:
       |---|---|---|
       |15:45|-16:45|children(7-9)|
       |17:00|-18:00|children(10-13)|
-      |18:30|-19:30|adult beginners|
-      |19:30|-20:30|adult all|
-      |20:30|-21:30|adult advanced|
+      |18:30|-19:30|young adults|
+      |19:30|-20:30|adult beginners|
+      |20:30|-21:30|adult all|
     nl: |
       <h1>Palmstraat</h1> <h2>Maandag</h2>
 
@@ -820,9 +820,9 @@ pages:
       |---|---|---|
       |15:45|-16:45|kinderen(7-9)|
       |17:00|-18:00|kinderen(10-13)|
-      |18:30|-19:30|volw beginners|
-      |19:30|-20:30|volw allen|
-      |20:30|-21:30|volw gevorderd|
+      |18:30|-19:30|jong volwassenen|
+      |19:30|-20:30|volw beginners|
+      |20:30|-21:30|volw allen|
     link: ""
     class:
     - darkgray
@@ -2272,18 +2272,6 @@ events:
       gemaakt\n\nKosten € 55,00 weekend, € 35,00 dag en € 20,00 dagdeel\n \nInformatie
       Caroline 06-27008768 of Tom 06-10157451"
   link: ""
-- date: 2020-06-13
-  title:
-    en: Christian Tissier in the Netherlands
-    nl: Christian Tissier in Nederland
-  desc:
-    en: |-
-      Christian Tissier in the Netherlands
-      Seminar wil take place at Papendal
-    nl: |-
-      Christian Tissier in Nederland
-      Seminar is op Papendal, Nationaal Sportcentrum.
-  link: http://www.christiantissier.com/tissier_stages.html
 - date: 2019-10-27
   title:
     en: 'Talent Development '
@@ -2394,6 +2382,18 @@ events:
       Dojo, Sporthal De Pijp Amsterdam\n\nHet is mogelijk en aan te raden beide trainingen
       te volgen \n\nKosten € 20,00 per les en € 25,00 voor beide lessen.\n\n"
   link: ""
+- date: 2020-06-13
+  title:
+    en: Christian Tissier in the Netherlands
+    nl: Christian Tissier in Nederland
+  desc:
+    en: |-
+      Christian Tissier in the Netherlands
+      Seminar wil take place at Papendal
+    nl: |-
+      Christian Tissier in Nederland
+      Seminar is op Papendal, Nationaal Sportcentrum.
+  link: http://www.christiantissier.com/tissier_stages.html
 info:
   description:
     en: 'Aikido lessons for everyone: Toddler / Kindergarten lessons, Kids, Teenagers,
