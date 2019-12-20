@@ -346,22 +346,23 @@ pages:
   - alias: ""
     tile: 0,2,1,1
     img: ""
-    en: |-
+    en: |+
       <h1>Dojo Wenckebachweg</h1>
 
       <br />
 
-      Wenckebachweg 6V5, Amsterdam Oost.
+      Dojo Sporthal De Pijp<br />
+      Lizzy Ansinghstraat 88, Amsterdam Zuid
 
-      The Dojo is 5 min walking distance from metro station Spaklerweg. Spaklerweg is the first stop after Amstel Station. With the bicycle the dojo is about 15-20 min from Central Station. With car the dojo is good accessible, there is almost free parking for 10 cents an hour.
-    nl: |
+    nl: |+
       <h1>Dojo Wenckebachweg</h1>
 
       <br />
 
-      Wenckebachweg 6V5, Amsterdam Oost.
+      Dojo Sporthal De Pijp<br />
+      Lizzy Ansinghstraat 88, Amsterdam Zuid
 
-      De Dojo is 5 min lopen vanaf metro station Spaklerweg. Spaklerweg is de eerste halte na het Amstel Station. Met de fiets is de dojo goed te bereiken, fietsafstand ongeveer 15-20 min vanaf Centraal Station. Met de auto is de dojo ook goed te bereiken, het parkeer tarief is 10 cent per uur.
+
     link: ""
     class:
     - gray
