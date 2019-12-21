@@ -2155,116 +2155,6 @@ quotes:
     text: Fijne sfeer, inspirerende sensei en geen les is hetzelfde!
     who: Laura Shanna Belmon
 events:
-- date: 2019-10-27
-  title:
-    en: 'Talent Development '
-    nl: Talent Ontwikkeling
-  desc:
-    en: |-
-      Talent development, normal training led by the teachers of the talent development team. Attention to rolling, good technique and adult training.
-
-      Location National Sports Center Papendal
-
-      Time: 10.00-13.00
-    nl: |-
-      Talent ontwikkeling, normale training onder leiding van de leraren van het talent ontwikkelings team. Aandacht voor rollen vallen, goede techniek en volwassen trainen.
-
-      Locatie Nationaal Sportcentrum Papendal
-
-      Tijd: 10.00-13.00
-  link: https://www.talent.aikidonederland.nl
-- date: 2019-11-01
-  title:
-    en: Christian Tissier Shihan in Cluj, Romania
-    nl: Christian Tissier Shihan in Cluj, Roemenie
-  desc:
-    en: Weekend seminar onder leiding van Christian Tissier Shihan, 8ste Dan Aikikai.
-      Practice Friday evening. Saturday morning/ afternoon and Sunday morning
-    nl: Weekend seminar onder leiding van Christian Tissier Shihan, 8ste Dan Aikikai.
-      Lesen op vridag avond, zaterdag ochtend/ middag en zondag ochtend
-  link: https://www.aikikai.ro/index.php?lang=ro
-- date: 2019-11-09
-  title:
-    en: 3th and 4th Dan preparation Lead by Tom Dijkman & Wilko Vriesman
-    nl: 3de en 4de Dan Voorbereiding DAF, door Tom Dijkman & Wilko Vriesman
-  desc:
-    en: |-
-      3rd and 4th Dan preparation of the DAF, Dutch Aikikai Foundation. The 3rd Dan preparation will be led by Tom Dijkman & the 4th Dan preparation by Wilko Vriesman.
-
-      Time 3rd Dan 10.00-12.00
-      Time 4th Dan 12.00-14.00
-
-      Location Dojo Van Hogendorphal, Amsterdam
-
-      It is possible and advisable to follow both courses
-
-      Costs € 20.00 per lesson and € 25.00 for both lessons.
-    nl: "3de en 4de Dan voorbereiding van de DAF, Dutch Aikikai Foundation. De 3de
-      Dan voorbereiding zal gelijd worden door Tom Dijkman & de 4de Dan voorbereiding
-      door Wilko Vriesman.\n\nTijd 3de Dan 10.00-12.00\nTijd 4de Dan 12.00-14.00\n\nLocatie,
-      Dojo, van Hogendorphal Amsterdam\n\nHet is mogelijk en aan te raden beide trainingen
-      te volgen \n\nKosten € 20,00 per les en € 25,00 voor beide lessen.\n\n"
-  link: ""
-- date: 2019-11-15
-  title:
-    en: Miyamoto Shihan 8ste Dan Cadiz, Sevilla (Spain)
-    nl: Miyamoto Shihan 8ste Dan Cadiz, Sevilla (Spanje)
-  desc:
-    en: Miyamoto Sensei will give a weekend seminar in Spain. Friday evening in Cadiz
-      and Saturday and Sunday in Seville.
-    nl: Miyamoto Sensei zal een weekend seminar geven in Spanje. Vrijdag avond in
-      Cadiz en zaterdag en zondag in Sevilla.
-  link: ""
-- date: 2019-11-24
-  title:
-    en: Celebration 10 years Aikido Netherlands
-    nl: Viering 10 jaar Aikido Nederland
-  desc:
-    en: The 10th anniversary of Aikido Nederland will be celebrated on 24 November.
-      There are lessons for adults and children.
-    nl: Op 24 november zal het 10 jarig bestaan van Aikido Nederland gevierd worden.
-      Er ullen lessen voor volwassenen en kinderen zijn.
-  link: https://www.aikidonederland.nl
-- date: 2019-12-01
-  title:
-    en: 'Talent Development '
-    nl: Talent Ontwikkeling
-  desc:
-    en: |-
-      Talent development, normal training led by the teachers of the talent development team. Attention to rolling, good technique and adult training.
-
-      Location National Sports Center Papendal
-
-      Time: 10.00-13.00
-    nl: |-
-      Talent ontwikkeling, normale training onder leiding van de leraren van het talent ontwikkelings team. Aandacht voor rollen vallen, goede techniek en volwassen trainen.
-
-      Locatie Nationaal Sportcentrum Papendal
-
-      Tijd: 10.00-13.00
-  link: https://www.talent.aikidonederland.nl
-- date: 2019-12-08
-  title:
-    en: 3th and 4th Dan preparation Lead by Tom Dijkman & Wilko Vriesman
-    nl: 3de en 4de Dan Voorbereiding DAF, door Tom Dijkman & Wilko Vriesman
-  desc:
-    en: |-
-      3rd and 4th Dan preparation of the DAF, Dutch Aikikai Foundation. The 3rd Dan preparation will be led by Tom Dijkman & the 4th Dan preparation by Wilko Vriesman.
-
-      Time 3rd Dan 10.00-12.00
-      Time 4th Dan 12.00-14.00
-
-      Location Dojo Sporthal De Pijp, Amsterdam
-
-      It is possible and advisable to follow both courses
-
-      Costs € 20.00 per lesson and € 25.00 for both lessons.
-    nl: "3de en 4de Dan voorbereiding van de DAF, Dutch Aikikai Foundation. De 3de
-      Dan voorbereiding zal gelijd worden door Tom Dijkman & de 4de Dan voorbereiding
-      door Wilko Vriesman.\n\nTijd 3de Dan 10.00-12.00\nTijd 4de Dan 12.00-14.00\n\nLocatie,
-      Dojo, Sporthal De Pijp Amsterdam\n\nHet is mogelijk en aan te raden beide trainingen
-      te volgen \n\nKosten € 20,00 per les en € 25,00 voor beide lessen.\n\n"
-  link: ""
 - date: 2020-06-13
   title:
     en: Christian Tissier in the Netherlands
@@ -2404,6 +2294,42 @@ events:
   title:
     en: 'Talent Development '
     nl: Talent Ontwikkeling
+  desc:
+    en: |-
+      Talent development, normal training led by the teachers of the talent development team. Attention to rolling, good technique and adult training.
+
+      Location National Sports Center Papendal
+
+      Time: 09.30-13.30
+    nl: |-
+      Talent ontwikkeling, normale training onder leiding van de leraren van het talent ontwikkelings team. Aandacht voor rollen vallen, goede techniek en volwassen trainen.
+
+      Locatie Nationaal Sportcentrum Papendal
+
+      Tijd: 09.30-13.30
+  link: https://www.talent.aikidonederland.nl
+- date: 2020-02-16
+  title:
+    en: 'Talent Development '
+    nl: Talent Ontwikkeling
+  desc:
+    en: |-
+      Talent development, normal training led by the teachers of the talent development team. Attention to rolling, good technique and adult training.
+
+      Location National Sports Center Papendal
+
+      Time: 09.30-13.30
+    nl: |-
+      Talent ontwikkeling, normale training onder leiding van de leraren van het talent ontwikkelings team. Aandacht voor rollen vallen, goede techniek en volwassen trainen.
+
+      Locatie Nationaal Sportcentrum Papendal
+
+      Tijd: 09.30-13.30
+  link: https://www.talent.aikidonederland.nl
+- date: 2020-03-08
+  title:
+    en: Talent Development with guest instructor MIyuki Kumazawa
+    nl: Talent Ontwikkeling met gast instructeur Miyuki Mumazawa
   desc:
     en: |-
       Talent development, normal training led by the teachers of the talent development team. Attention to rolling, good technique and adult training.
