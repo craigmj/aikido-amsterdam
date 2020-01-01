@@ -1911,23 +1911,18 @@ pages:
   - alias: ""
     tile: 3,0,1,1
     img: ""
-    en: "<h1>Aikido &amp; Chi Kung Weekend 2018</h1> \n\n  <p>The weekend will be
-      held in the wonderful Haule in the northern Netherlands. Every year, we are
-      guests at the bed and breakfast of our good friends Han and Kevin.  They take
-      good care of us with lovely rooms and great food.\n\nThe weekend will run from
-      Friday morning until lunch on Sunday. As always, there will be morning Chi Kung
-      lessons provided by Andra in the beautifull surroundings of the bed and breakfast.
-      After breakfast, we will go to the dojo at the Sportstad Heerenveen for the
-      Aikido part of the day - this means two intensive sessions with a lunchbreak.
-      <br />"
-    nl: "<h1>Aikido &amp; Chi Kung Weekend 2018</h1> \n\n  <p>Het weekend wordt gehouden
-      in het prachtige Haule in het noorden van Nederland. Zoals ieder jaar zijn we
-      te gast bij de Bed and Breakfast van onze inmiddels goede vrienden Han en Kevin.
-      Zij zorgen goed voor ons met nette slaapvertrekken en goed eten.\n\nHet weekend
-      wordt gehouden van vrijdagochtend tot en met de lunch op zondag. Zoals altijd
-      zijn er in de ochtend Chi Kung lessen van Andra op het prachtige terrein van
-      de B&B. Na het ontbijt gaan we naar de dojo bij Sportstad Heerenveen voor de
-      Aikido lessen. Dat zijn 2 intensieve lessen met een lunchbreak. <br />"
+    en: "<h1>6th Dan Aikikai Tom Dijkman</h1> \n\n  <p>The weekend will be held in
+      the wonderful Haule in the northern Netherlands. Every year, we are guests at
+      the bed and breakfast of our good friends Han and Kevin.  They take good care
+      of us with lovely rooms and great food.\n\nThe weekend will run from Friday
+      morning until lunch on Sunday. As always, there will be morning Chi Kung lessons
+      provided by Andra in the beautifull surroundings of the bed and breakfast. After
+      breakfast, we will go to the dojo at the Sportstad Heerenveen for the Aikido
+      part of the day - this means two intensive sessions with a lunchbreak. <br />"
+    nl: "<h1>6de Dan Aikikai Tom Dijkman</h1> \n\n  <p>In Juli 2019 bezocht Dojo Cho
+      Mitsuteru Ueschiba Nederland voor het 10 jarig bestaan van Aikido Nederland.
+      Tijdens zijn bezoek heeft hij Tom Dijkman zijn certificaat van zijn 6de Dan
+      overhandigd.\n\n <br />"
     link: ""
     class:
     - gray
@@ -2155,18 +2150,6 @@ quotes:
     text: Fijne sfeer, inspirerende sensei en geen les is hetzelfde!
     who: Laura Shanna Belmon
 events:
-- date: 2020-06-13
-  title:
-    en: Christian Tissier in the Netherlands
-    nl: Christian Tissier in Nederland
-  desc:
-    en: |-
-      Christian Tissier in the Netherlands
-      Seminar wil take place at Papendal
-    nl: |-
-      Christian Tissier in Nederland
-      Seminar is op Papendal, Nationaal Sportcentrum.
-  link: http://www.christiantissier.com/tissier_stages.html
 - date: 2020-01-04
   title:
     en: Christian Tissier Antwerpen
@@ -2176,98 +2159,6 @@ events:
     nl: ""
   link: ""
 - date: 2020-01-05
-  title:
-    en: 3th & 4th Dan Preparation lead by Tom Dijkman & Wilko Vriesman
-    nl: 3de en 4de Dan Voorbereiding DAF, door Tom Dijkman & Wilko Vriesman
-  desc:
-    en: |-
-      3rd and 4th Dan preparation of the DAF, Dutch Aikikai Foundation. The 3rd Dan preparation will be led by Tom Dijkman & the 4th Dan preparation by Wilko Vriesman.
-
-      Time 3rd Dan 13.00-15.00
-      Time 4th Dan 15.00-17.00
-
-      Aikido Centrum Leiden, P.C. Hoofdlaan 13, Leiden
-
-      It is possible and advisable to follow both courses
-
-      Costs € 20.00 per lesson and € 25.00 for both lessons.
-    nl: "3de en 4de Dan voorbereiding van de DAF, Dutch Aikikai Foundation. De 3de
-      Dan voorbereiding zal gelijd worden door Tom Dijkman & de 4de Dan voorbereiding
-      door Wilko Vriesman.\n\nTijd 3de Dan 13.00-15.00\nTijd 4de Dan 15.00-17.00\n\nAikido
-      Centrum Leiden, P.C. Hoofdlaan 13, Leiden\n\nHet is mogelijk en aan te raden
-      beide trainingen te volgen \n\nKosten € 20,00 per les en € 25,00 voor beide
-      lessen."
-  link: ""
-- date: 2020-02-02
-  title:
-    en: 3th & 4th Dan Preparation lead by Tom Dijkman & Wilko Vriesman
-    nl: 3de en 4de Dan Voorbereiding DAF, door Tom Dijkman & Wilko Vriesman
-  desc:
-    en: |-
-      3rd and 4th Dan preparation of the DAF, Dutch Aikikai Foundation. The 3rd Dan preparation will be led by Tom Dijkman & the 4th Dan preparation by Wilko Vriesman.
-
-      Time 3rd Dan 13.00-15.00
-      Time 4th Dan 15.00-17.00
-
-      Aikido Centrum Leiden, P.C. Hoofdlaan 13, Leiden
-
-      It is possible and advisable to follow both courses
-
-      Costs € 20.00 per lesson and € 25.00 for both lessons.
-    nl: "3de en 4de Dan voorbereiding van de DAF, Dutch Aikikai Foundation. De 3de
-      Dan voorbereiding zal gelijd worden door Tom Dijkman & de 4de Dan voorbereiding
-      door Wilko Vriesman.\n\nTijd 3de Dan 13.00-15.00\nTijd 4de Dan 15.00-17.00\n\nAikido
-      Centrum Leiden, P.C. Hoofdlaan 13, Leiden\n\nHet is mogelijk en aan te raden
-      beide trainingen te volgen \n\nKosten € 20,00 per les en € 25,00 voor beide
-      lessen."
-  link: ""
-- date: 2020-03-01
-  title:
-    en: 3th & 4th Dan Preparation lead by Tom Dijkman & Wilko Vriesman
-    nl: 3de en 4de Dan Voorbereiding DAF, door Tom Dijkman & Wilko Vriesman
-  desc:
-    en: |-
-      3rd and 4th Dan preparation of the DAF, Dutch Aikikai Foundation. The 3rd Dan preparation will be led by Tom Dijkman & the 4th Dan preparation by Wilko Vriesman.
-
-      Time 3rd Dan 13.00-15.00
-      Time 4th Dan 15.00-17.00
-
-      Aikido Centrum Leiden, P.C. Hoofdlaan 13, Leiden
-
-      It is possible and advisable to follow both courses
-
-      Costs € 20.00 per lesson and € 25.00 for both lessons.
-    nl: "3de en 4de Dan voorbereiding van de DAF, Dutch Aikikai Foundation. De 3de
-      Dan voorbereiding zal gelijd worden door Tom Dijkman & de 4de Dan voorbereiding
-      door Wilko Vriesman.\n\nTijd 3de Dan 13.00-15.00\nTijd 4de Dan 15.00-17.00\n\nAikido
-      Centrum Leiden, P.C. Hoofdlaan 13, Leiden\n\nHet is mogelijk en aan te raden
-      beide trainingen te volgen \n\nKosten € 20,00 per les en € 25,00 voor beide
-      lessen."
-  link: ""
-- date: 2020-04-05
-  title:
-    en: 3th & 4th Dan Preparation lead by Tom Dijkman & Wilko Vriesman
-    nl: 3de en 4de Dan Voorbereiding DAF, door Tom Dijkman & Wilko Vriesman
-  desc:
-    en: |-
-      3rd and 4th Dan preparation of the DAF, Dutch Aikikai Foundation. The 3rd Dan preparation will be led by Tom Dijkman & the 4th Dan preparation by Wilko Vriesman.
-
-      Time 3rd Dan 13.00-15.00
-      Time 4th Dan 15.00-17.00
-
-      Aikido Centrum Leiden, P.C. Hoofdlaan 13, Leiden
-
-      It is possible and advisable to follow both courses
-
-      Costs € 20.00 per lesson and € 25.00 for both lessons.
-    nl: "3de en 4de Dan voorbereiding van de DAF, Dutch Aikikai Foundation. De 3de
-      Dan voorbereiding zal gelijd worden door Tom Dijkman & de 4de Dan voorbereiding
-      door Wilko Vriesman.\n\nTijd 3de Dan 13.00-15.00\nTijd 4de Dan 15.00-17.00\n\nAikido
-      Centrum Leiden, P.C. Hoofdlaan 13, Leiden\n\nHet is mogelijk en aan te raden
-      beide trainingen te volgen \n\nKosten € 20,00 per les en € 25,00 voor beide
-      lessen."
-  link: ""
-- date: 2020-06-07
   title:
     en: 3th & 4th Dan Preparation lead by Tom Dijkman & Wilko Vriesman
     nl: 3de en 4de Dan Voorbereiding DAF, door Tom Dijkman & Wilko Vriesman
@@ -2308,6 +2199,29 @@ events:
 
       Tijd: 09.30-13.30
   link: https://www.talent.aikidonederland.nl
+- date: 2020-02-02
+  title:
+    en: 3th & 4th Dan Preparation lead by Tom Dijkman & Wilko Vriesman
+    nl: 3de en 4de Dan Voorbereiding DAF, door Tom Dijkman & Wilko Vriesman
+  desc:
+    en: |-
+      3rd and 4th Dan preparation of the DAF, Dutch Aikikai Foundation. The 3rd Dan preparation will be led by Tom Dijkman & the 4th Dan preparation by Wilko Vriesman.
+
+      Time 3rd Dan 13.00-15.00
+      Time 4th Dan 15.00-17.00
+
+      Aikido Centrum Leiden, P.C. Hoofdlaan 13, Leiden
+
+      It is possible and advisable to follow both courses
+
+      Costs € 20.00 per lesson and € 25.00 for both lessons.
+    nl: "3de en 4de Dan voorbereiding van de DAF, Dutch Aikikai Foundation. De 3de
+      Dan voorbereiding zal gelijd worden door Tom Dijkman & de 4de Dan voorbereiding
+      door Wilko Vriesman.\n\nTijd 3de Dan 13.00-15.00\nTijd 4de Dan 15.00-17.00\n\nAikido
+      Centrum Leiden, P.C. Hoofdlaan 13, Leiden\n\nHet is mogelijk en aan te raden
+      beide trainingen te volgen \n\nKosten € 20,00 per les en € 25,00 voor beide
+      lessen."
+  link: ""
 - date: 2020-02-16
   title:
     en: 'Talent Development '
@@ -2326,6 +2240,40 @@ events:
 
       Tijd: 09.30-13.30
   link: https://www.talent.aikidonederland.nl
+- date: 2020-02-22
+  title:
+    en: Seminar Tom Dijkman Cape Town
+    nl: Seminar Tom Dijkman Kaapstad
+  desc:
+    en: |-
+      The 7th Friendship seminar with Tom Dijkman in Cape Town at Aikido Cape Town
+      Seminar from Friday 21th untill Sunday 23th of February 2020
+    nl: "Voor de 7de keer vriendschaps seminar in Kaapstad onder leiding van Tom Dijkman.
+      \nDe seminar is van vrijdag 21 t/m zondag 23 februari."
+  link: https://www.facebook.com/events/813603192394268/
+- date: 2020-03-01
+  title:
+    en: 3th & 4th Dan Preparation lead by Tom Dijkman & Wilko Vriesman
+    nl: 3de en 4de Dan Voorbereiding DAF, door Tom Dijkman & Wilko Vriesman
+  desc:
+    en: |-
+      3rd and 4th Dan preparation of the DAF, Dutch Aikikai Foundation. The 3rd Dan preparation will be led by Tom Dijkman & the 4th Dan preparation by Wilko Vriesman.
+
+      Time 3rd Dan 13.00-15.00
+      Time 4th Dan 15.00-17.00
+
+      Aikido Centrum Leiden, P.C. Hoofdlaan 13, Leiden
+
+      It is possible and advisable to follow both courses
+
+      Costs € 20.00 per lesson and € 25.00 for both lessons.
+    nl: "3de en 4de Dan voorbereiding van de DAF, Dutch Aikikai Foundation. De 3de
+      Dan voorbereiding zal gelijd worden door Tom Dijkman & de 4de Dan voorbereiding
+      door Wilko Vriesman.\n\nTijd 3de Dan 13.00-15.00\nTijd 4de Dan 15.00-17.00\n\nAikido
+      Centrum Leiden, P.C. Hoofdlaan 13, Leiden\n\nHet is mogelijk en aan te raden
+      beide trainingen te volgen \n\nKosten € 20,00 per les en € 25,00 voor beide
+      lessen."
+  link: ""
 - date: 2020-03-08
   title:
     en: Talent Development with guest instructor MIyuki Kumazawa
@@ -2344,6 +2292,53 @@ events:
 
       Tijd: 09.30-13.30
   link: https://www.talent.aikidonederland.nl
+- date: 2020-03-21
+  title:
+    en: Yasuno Sensei 21st & 22th March in Belgium
+    nl: Yasuno Sensei in Belgie op 21 en 22 maart
+  desc:
+    en: ""
+    nl: ""
+  link: ""
+- date: 2020-03-28
+  title:
+    en: Yasuno Sensei in Wasquehall 28th & 29th of March
+    nl: Yasuno Sensei in Wasquehall 28 en 29 maart
+  desc:
+    en: ""
+    nl: ""
+  link: ""
+- date: 2020-04-05
+  title:
+    en: 3th & 4th Dan Preparation lead by Tom Dijkman & Wilko Vriesman
+    nl: 3de en 4de Dan Voorbereiding DAF, door Tom Dijkman & Wilko Vriesman
+  desc:
+    en: |-
+      3rd and 4th Dan preparation of the DAF, Dutch Aikikai Foundation. The 3rd Dan preparation will be led by Tom Dijkman & the 4th Dan preparation by Wilko Vriesman.
+
+      Time 3rd Dan 13.00-15.00
+      Time 4th Dan 15.00-17.00
+
+      Aikido Centrum Leiden, P.C. Hoofdlaan 13, Leiden
+
+      It is possible and advisable to follow both courses
+
+      Costs € 20.00 per lesson and € 25.00 for both lessons.
+    nl: "3de en 4de Dan voorbereiding van de DAF, Dutch Aikikai Foundation. De 3de
+      Dan voorbereiding zal gelijd worden door Tom Dijkman & de 4de Dan voorbereiding
+      door Wilko Vriesman.\n\nTijd 3de Dan 13.00-15.00\nTijd 4de Dan 15.00-17.00\n\nAikido
+      Centrum Leiden, P.C. Hoofdlaan 13, Leiden\n\nHet is mogelijk en aan te raden
+      beide trainingen te volgen \n\nKosten € 20,00 per les en € 25,00 voor beide
+      lessen."
+  link: ""
+- date: 2020-04-11
+  title:
+    en: Christian Tissier Stage de Paque 11-16 April
+    nl: Christian Tissier Stage de Paque 11-16 April
+  desc:
+    en: ""
+    nl: ""
+  link: ""
 - date: 2020-04-19
   title:
     en: Talent Development
@@ -2362,51 +2357,6 @@ events:
 
       Tijd: 09.30-13.30
   link: ""
-- date: 2020-05-09
-  title:
-    en: International Youth Seminar in Vichy
-    nl: Internationaal Jeugdseminar in Vichy
-  desc:
-    en: International Youth Seminar lead by Homby dojo instructor Eiji Katsurada Shihan.
-      Seminar is given in Vichy, France
-    nl: Internationaal Jeugdseminar onder leiding van Hombu dojo instructeur Eiji
-      Katsurada Shihan in Vichy, Frankrijk.
-  link: ""
-- date: 2020-02-22
-  title:
-    en: Seminar Tom Dijkman Cape Town
-    nl: Seminar Tom Dijkman Kaapstad
-  desc:
-    en: |-
-      The 7th Friendship seminar with Tom Dijkman in Cape Town at Aikido Cape Town
-      Seminar from Friday 21th untill Sunday 23th of February 2020
-    nl: "Voor de 7de keer vriendschaps seminar in Kaapstad onder leiding van Tom Dijkman.
-      \nDe seminar is van vrijdag 21 t/m zondag 23 februari."
-  link: https://www.facebook.com/events/813603192394268/
-- date: 2020-03-21
-  title:
-    en: Yasuno Sensei 21st & 22th March in Belgium
-    nl: Yasuno Sensei in Belgie op 21 en 22 maart
-  desc:
-    en: ""
-    nl: ""
-  link: ""
-- date: 2020-03-28
-  title:
-    en: Yasuno Sensei in Wasquehall 28th & 29th of March
-    nl: Yasuno Sensei in Wasquehall 28 en 29 maart
-  desc:
-    en: ""
-    nl: ""
-  link: ""
-- date: 2020-04-11
-  title:
-    en: Christian Tissier Stage de Paque 11-16 April
-    nl: Christian Tissier Stage de Paque 11-16 April
-  desc:
-    en: ""
-    nl: ""
-  link: ""
 - date: 2020-04-25
   title:
     en: Yoko Okamoto Spain 25-26th April
@@ -2423,6 +2373,51 @@ events:
     en: ""
     nl: ""
   link: ""
+- date: 2020-05-09
+  title:
+    en: International Youth Seminar in Vichy
+    nl: Internationaal Jeugdseminar in Vichy
+  desc:
+    en: International Youth Seminar lead by Homby dojo instructor Eiji Katsurada Shihan.
+      Seminar is given in Vichy, France
+    nl: Internationaal Jeugdseminar onder leiding van Hombu dojo instructeur Eiji
+      Katsurada Shihan in Vichy, Frankrijk.
+  link: ""
+- date: 2020-06-07
+  title:
+    en: 3th & 4th Dan Preparation lead by Tom Dijkman & Wilko Vriesman
+    nl: 3de en 4de Dan Voorbereiding DAF, door Tom Dijkman & Wilko Vriesman
+  desc:
+    en: |-
+      3rd and 4th Dan preparation of the DAF, Dutch Aikikai Foundation. The 3rd Dan preparation will be led by Tom Dijkman & the 4th Dan preparation by Wilko Vriesman.
+
+      Time 3rd Dan 13.00-15.00
+      Time 4th Dan 15.00-17.00
+
+      Aikido Centrum Leiden, P.C. Hoofdlaan 13, Leiden
+
+      It is possible and advisable to follow both courses
+
+      Costs € 20.00 per lesson and € 25.00 for both lessons.
+    nl: "3de en 4de Dan voorbereiding van de DAF, Dutch Aikikai Foundation. De 3de
+      Dan voorbereiding zal gelijd worden door Tom Dijkman & de 4de Dan voorbereiding
+      door Wilko Vriesman.\n\nTijd 3de Dan 13.00-15.00\nTijd 4de Dan 15.00-17.00\n\nAikido
+      Centrum Leiden, P.C. Hoofdlaan 13, Leiden\n\nHet is mogelijk en aan te raden
+      beide trainingen te volgen \n\nKosten € 20,00 per les en € 25,00 voor beide
+      lessen."
+  link: ""
+- date: 2020-06-13
+  title:
+    en: Christian Tissier in the Netherlands
+    nl: Christian Tissier in Nederland
+  desc:
+    en: |-
+      Christian Tissier in the Netherlands
+      Seminar wil take place at Papendal
+    nl: |-
+      Christian Tissier in Nederland
+      Seminar is op Papendal, Nationaal Sportcentrum.
+  link: http://www.christiantissier.com/tissier_stages.html
 info:
   description:
     en: 'Aikido lessons for everyone: Toddler / Kindergarten lessons, Kids, Teenagers,
