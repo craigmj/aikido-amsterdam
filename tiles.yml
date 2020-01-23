@@ -295,6 +295,12 @@ pages:
     - blue
     member_name: ""
     member_age: ""
+  title:
+    en: Aikido Amsterdam
+    nl: Aikido Amsterdam
+  description:
+    en: Description of Aikido Amsterdam
+    nl: NL description of Aikido Amsterdam
 - name: dojo
   tiles:
   - alias: ""
@@ -427,6 +433,12 @@ pages:
     - gray
     member_name: ""
     member_age: ""
+  title:
+    en: ""
+    nl: ""
+  description:
+    en: ""
+    nl: ""
 - name: charity
   tiles:
   - alias: ""
@@ -535,6 +547,12 @@ pages:
     - blue
     member_name: ""
     member_age: ""
+  title:
+    en: ""
+    nl: ""
+  description:
+    en: ""
+    nl: ""
 - name: aikido
   tiles:
   - alias: ""
@@ -659,6 +677,12 @@ pages:
     - blue
     member_name: ""
     member_age: ""
+  title:
+    en: ""
+    nl: ""
+  description:
+    en: ""
+    nl: ""
 - name: lessons
   tiles:
   - alias: ""
@@ -799,6 +823,12 @@ pages:
     - blue
     member_name: ""
     member_age: ""
+  title:
+    en: ""
+    nl: ""
+  description:
+    en: ""
+    nl: ""
 - name: times
   tiles:
   - alias: ""
@@ -1040,6 +1070,12 @@ pages:
     class: []
     member_name: ""
     member_age: ""
+  title:
+    en: ""
+    nl: ""
+  description:
+    en: ""
+    nl: ""
 - name: fees
   tiles:
   - alias: ""
@@ -1172,6 +1208,12 @@ pages:
     - blue
     member_name: ""
     member_age: ""
+  title:
+    en: ""
+    nl: ""
+  description:
+    en: ""
+    nl: ""
 - name: children
   tiles:
   - alias: ""
@@ -1331,6 +1373,12 @@ pages:
     - white
     member_name: ""
     member_age: ""
+  title:
+    en: ""
+    nl: ""
+  description:
+    en: ""
+    nl: ""
 - name: who
   tiles:
   - alias: ""
@@ -1535,6 +1583,12 @@ pages:
     class: []
     member_name: ""
     member_age: ""
+  title:
+    en: ""
+    nl: ""
+  description:
+    en: ""
+    nl: ""
 - name: calendar
   tiles:
   - alias: ""
@@ -1634,6 +1688,12 @@ pages:
     - darkgray
     member_name: ""
     member_age: ""
+  title:
+    en: ""
+    nl: ""
+  description:
+    en: ""
+    nl: ""
 - name: members
   tiles:
   - alias: ""
@@ -1884,6 +1944,12 @@ pages:
     - blue
     member_name: ""
     member_age: ""
+  title:
+    en: ""
+    nl: ""
+  description:
+    en: ""
+    nl: ""
 - name: news
   tiles:
   - alias: ""
@@ -2077,6 +2143,12 @@ pages:
     - gray-left
     member_name: ""
     member_age: ""
+  title:
+    en: ""
+    nl: ""
+  description:
+    en: ""
+    nl: ""
 quotes:
 - en:
     text: '"I stay inspired by Aikido in all its diversity. And I hope to keep inspiring
@@ -2220,6 +2292,20 @@ events:
       beide trainingen te volgen \n\nKosten € 20,00 per les en € 25,00 voor beide
       lessen."
   link: ""
+- date: 2020-02-09
+  title:
+    en: Aikido seminar DAF with Tom, Jan and René
+    nl: Aikido seminar met Tom, Jan en René
+  desc:
+    en: |-
+      Aikido Seminar DAF; if you want to have a good practice, full of energy and funn join.
+      Tom Dijkman, Jan Thesing and René Habraken in Nijmegen
+      10.00-13.00, costs € 20,00
+    nl: |-
+      Aikido seminar v/d DAF, als je een stevige werksfeer, veel energie en plezier wil, kom dan langs in Nijmegen op 9 februari.
+      10.00-13.00
+      Kosten € 20,00
+  link: https://www.facebook.com/events/2519849031563204/
 - date: 2020-02-16
   title:
     en: 'Talent Development '
@@ -2416,20 +2502,6 @@ events:
       Christian Tissier in Nederland
       Seminar is op Papendal, Nationaal Sportcentrum.
   link: http://www.christiantissier.com/tissier_stages.html
-- date: 2020-02-09
-  title:
-    en: Aikido seminar DAF with Tom, Jan and René
-    nl: Aikido seminar met Tom, Jan en René
-  desc:
-    en: |-
-      Aikido Seminar DAF; if you want to have a good practice, full of energy and funn join.
-      Tom Dijkman, Jan Thesing and René Habraken in Nijmegen
-      10.00-13.00, costs € 20,00
-    nl: |-
-      Aikido seminar v/d DAF, als je een stevige werksfeer, veel energie en plezier wil, kom dan langs in Nijmegen op 9 februari.
-      10.00-13.00
-      Kosten € 20,00
-  link: https://www.facebook.com/events/2519849031563204/
 info:
   description:
     en: 'Aikido lessons for everyone: Toddler / Kindergarten lessons, Kids, Teenagers,
