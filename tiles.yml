@@ -434,11 +434,11 @@ pages:
     member_name: ""
     member_age: ""
   title:
-    en: ""
-    nl: ""
+    en: Dojo Title (EN)
+    nl: Dojo Title (NL)
   description:
-    en: ""
-    nl: ""
+    en: Dojo Desc (EN)
+    nl: Dojo Desc (NL)
 - name: charity
   tiles:
   - alias: ""
