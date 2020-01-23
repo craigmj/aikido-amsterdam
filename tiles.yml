@@ -2330,10 +2330,11 @@ events:
     nl: Seminar Tom Dijkman Kaapstad
   desc:
     en: |-
-      The 7th Friendship seminar with Tom Dijkman in Cape Town at Aikido Cape Town
+      The 7th Friendship seminar with Tom Dijkman in Cape Town at <a href="https://www.aiki.co.za">Cape Town Aikido</a>
       Seminar from Friday 21th untill Sunday 23th of February 2020
-    nl: "Voor de 7de keer vriendschaps seminar in Kaapstad onder leiding van Tom Dijkman.
-      \nDe seminar is van vrijdag 21 t/m zondag 23 februari."
+    nl: "Voor de 7de keer vriendschaps seminar in <a href=\"https://www.aiki.co.za\">Kaapstad</a>
+      onder leiding van Tom Dijkman. \nDe seminar is van vrijdag 21 t/m zondag 23
+      februari."
   link: https://www.facebook.com/events/813603192394268/
 - date: 2020-03-01
   title:
