@@ -824,11 +824,13 @@ pages:
     member_name: ""
     member_age: ""
   title:
-    en: ""
-    nl: ""
+    en: Classes
+    nl: Les aanbod
   description:
-    en: ""
-    nl: ""
+    en: 'Here our lessons at the various locations: De Palmstraat 34 in the Jordaan
+      and Sporthal De Pijp in De Pijp'
+    nl: 'Hierbij het volledige les aanbod op de diverse locaties: De Palmstraat 34
+      in de Jordaan en Sporthal De Pijp in De Pijp'
 - name: times
   tiles:
   - alias: ""
