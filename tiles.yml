@@ -886,15 +886,10 @@ pages:
   - alias: ""
     tile: 3,0,1,1
     img: ""
-    en: |+
+    en: |-
       <h1>Palmstraat</h1> <h2>Thursday</h2>
 
-      ||||
-      |---|---|---|
-      |19:30|-20:30|adults beginners|
-      |20:30|-21:30|adults advanced|
-      |
-
+      Due to the current corona crisis, there are no classes in Sporthal De Pijp and in our Dojo at the Palmstraat 34.
     nl: |+
       <h1>Palmstraat</h1> <h2>Donderdag</h2>
 
