@@ -1971,29 +1971,30 @@ pages:
     en: ""
     nl: ""
     link: ""
-    class:
-    - arrow-right
-    - gray-right
+    class: []
     member_name: ""
     member_age: ""
   - alias: ""
     tile: 3,0,1,1
     img: ""
-    en: "<h1>6th Dan Aikikai Tom Dijkman</h1> \n\n  <p>In July 2019, Dojo Cho Mitsuteru
-      Ueshiba visited the Netherlands for the 10th anniversary of Aikido Netherlands.
-      During his visit, he handed Tom Dijkman his 6th Dan certificate.\n\nDuring the
-      Kakami Biraki Ceremony, which is held every year at the beginning of January,
-      it was announced that Tom had received his 6th Dan. He received this on the
-      recommendation of Christian Tissier. \n<br />"
-    nl: "<h1>6de Dan Aikikai Tom Dijkman</h1> \n\n  <p>In Juli 2019 bezocht Dojo Cho
-      Mitsuteru Ueshiba Nederland voor het 10 jarig bestaan van Aikido Nederland.
-      Tijdens zijn bezoek heeft hij Tom Dijkman zijn certificaat van zijn 6de Dan
-      overhandigd.\n\nTijdens de Kakami Biraki Ceremonie welke elk jaar begin januari
-      wordt gehouden was bekend gemaakt dat Tom zijn 6de Dan heeft ontvangen. Deze
-      heeft hij op voordracht van Christian Tissier ontvangen.\n <br />"
+    en: |-
+      <h1> Corona crisis </h1>
+
+        <p> Due to the coronavirus (COVID-19), the dojo is temporarily closed. On Monday there is an online lesson for the Teens and on Friday for the kids at 5pm.
+
+      Zazen is online at 7.00 on Mon, Wed and Fri.
+
+      log in via https://meet.jit.si/AikidoAmsterdam
+       <br />
+    nl: "<h1>Corona crisis</h1> \n\n  <p>Als gevolg van het coronavirus (COVID-19)
+      is de dojo tijdelijk gesloten. Op maandag is er een online les voor de Teens
+      en op vrijdag voor de kids om 17.00.\n\nOp ma, woe en vrij is er online Zazen
+      om 7.00. <br />\n\nlog in via https://meet.jit.si/AikidoAmsterdam \n<br />"
     link: ""
     class:
-    - gray
+    - red
+    - arrow-left
+    - red-left
     member_name: ""
     member_age: ""
   - alias: ""
