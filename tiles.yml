@@ -871,13 +871,31 @@ pages:
     tile: 2,0,1,1
     img: ""
     en: |-
-      <h1>Sporthal De Pijp</h1> <h2>Tuesday</h2>
+      <h1>Sporthal De Pijp</h1> <h2>Wednesday</h2>
 
-      Due to the current corona crisis, there are no classes in Sporthal De Pijp and in our Dojo at the Palmstraat 34.
+      ||||
+      |---|---|---|
+      |07:00|-07:45|Zazen |
+
+
+
+      <h2>Classes are online</h2>
+
+
+      <h2>https://meet.jit.si/AikidoAmsterdam</h2>
     nl: |-
-      <h1>Sporthal De Pijp</h1> <h2>Dinsdag</h2>
+      <h1>Sporthal De Pijp</h1> <h2>Woensdag</h2>
 
-      Door de huidige corona crisis zijn er geen lessen in Sporthal De Pijp
+      ||||
+      |---|---|---|
+      |07:00|-07:45|Zazen |
+
+
+
+      <h2>Lesen zijn online</h2>
+
+
+      <h2>https://meet.jit.si/AikidoAmsterdam</h2>
     link: ""
     class:
     - red
