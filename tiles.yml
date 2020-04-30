@@ -836,26 +836,30 @@ pages:
   - alias: ""
     tile: 0,0,1,1
     img: ""
-    en: |
+    en: |-
       <h1>Palmstraat</h1> <h2>Monday</h2>
 
       ||||
       |---|---|---|
-      |15:45|-16:45|children(7-9)|
-      |17:00|-18:00|children(10-13)|
-      |18:30|-19:30|young adults|
-      |19:30|-20:30|adult beginners|
-      |20:30|-21:30|adult all|
-    nl: |
+      |07:00|-07:45|Zazen |
+      |17:00|-18:00|young adults|
+
+
+      <h2>Classes are online</h2>
+
+      <h2>https://meet.jit.si/AikidoAmsterdam</h2>
+    nl: |-
       <h1>Palmstraat</h1> <h2>Maandag</h2>
 
       ||||
       |---|---|---|
-      |15:45|-16:45|kinderen(7-9)|
-      |17:00|-18:00|kinderen(10-13)|
-      |18:30|-19:30|jong volwassenen|
-      |19:30|-20:30|volw beginners|
-      |20:30|-21:30|volw allen|
+      |07:00|-07:45|Zazen |
+      |17:00|-18:00|Teenagers|
+
+
+      <h2>Lesen zijn online</h2>
+
+      <h2>https://meet.jit.si/AikidoAmsterdam</h2>
     link: ""
     class:
     - darkgray
