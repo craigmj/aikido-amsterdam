@@ -2101,9 +2101,7 @@ pages:
     en: ""
     nl: ""
     link: ""
-    class:
-    - arrow-top
-    - white-top
+    class: []
     member_name: ""
     member_age: ""
   - alias: ""
