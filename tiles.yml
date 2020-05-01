@@ -908,15 +908,10 @@ pages:
       <h1>Palmstraat</h1> <h2>Thursday</h2>
 
       Due to the current corona crisis, there are no classes in Sporthal De Pijp and in our Dojo at the Palmstraat 34.
-    nl: |+
+    nl: |
       <h1>Palmstraat</h1> <h2>Donderdag</h2>
 
-      ||||
-      |---|---|---|
-      |19:30|-20:30|volw beginners|
-      |20:30|-21:30|volw gevorderd|
-      |
-
+      Vanwege de huidige corona crisis zijn er geen lessen in Sporthal De Pijp en in onze Dojo aan de Palmstraat 34.
     link: ""
     class:
     - darkgray
