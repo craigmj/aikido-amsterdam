@@ -796,21 +796,21 @@ pages:
   - alias: ""
     tile: 0,0,1,1
     img: ""
-    en: |-
-      <h1>Palmstraat</h1> <h2>Monday</h2>
+    en: |2-
+       <h2>Monday</h2>
 
       ||||
       |---|---|---|
       |07:00|-07:45|Zazen |
       |17:00|-18:00|young adults|
-
+      ||||
 
       <h2>Classes are online</h2>
 
 
       <h2>https://meet.jit.si/AikidoAmsterdam</h2>
-    nl: |-
-      <h1>Palmstraat</h1> <h2>Maandag</h2>
+    nl: |2-
+       <h2>Maandag</h2>
 
       ||||
       |---|---|---|
@@ -830,8 +830,8 @@ pages:
   - alias: ""
     tile: 2,0,1,1
     img: ""
-    en: |-
-      <h1>Sporthal De Pijp</h1> <h2>Wednesday</h2>
+    en: |2-
+       <h2>Wednesday</h2>
 
       ||||
       |---|---|---|
@@ -843,8 +843,8 @@ pages:
 
 
       <h2>https://meet.jit.si/AikidoAmsterdam</h2>
-    nl: |-
-      <h1>Sporthal De Pijp</h1> <h2>Woensdag</h2>
+    nl: |2-
+       <h2>Woensdag</h2>
 
       ||||
       |---|---|---|
@@ -852,7 +852,7 @@ pages:
 
 
 
-      <h2>Lesen zijn online</h2>
+      <h2>Classes are online</h2>
 
 
       <h2>https://meet.jit.si/AikidoAmsterdam</h2>
@@ -864,14 +864,35 @@ pages:
   - alias: ""
     tile: 3,0,1,1
     img: ""
-    en: |-
-      <h1>Palmstraat</h1> <h2>Thursday</h2>
+    en: |2-
+       <h2>Thursday</h2>
 
-      Due to the current corona crisis, there are no classes in Sporthal De Pijp and in our Dojo at the Palmstraat 34.
-    nl: |
-      <h1>Palmstraat</h1> <h2>Donderdag</h2>
+      ||||
+      |---|---|---|
+      |19:30|-20:30|Adults |
 
-      Vanwege de huidige corona crisis zijn er geen lessen in Sporthal De Pijp en in onze Dojo aan de Palmstraat 34.
+
+      <h2>Class at the Flevopark</h2>
+
+
+      <h2>If it rains online</h2>
+
+
+      <h2>https://meet.jit.si/AikidoAmsterdam</h2>
+    nl: |2
+       <h2>Donderdag</h2>
+
+      ||||
+      |---|---|---|Volw |
+
+
+      <h2>Les in het Flevopark</h2>
+
+
+      <h2>Als het regent online</h2>
+
+
+      <h2>https://meet.jit.si/AikidoAmsterdam</h2>
     link: ""
     class:
     - darkgray
@@ -889,8 +910,8 @@ pages:
   - alias: ""
     tile: 3,1,1,1
     img: ""
-    en: |
-      <h1>Palmstraat</h1> <h2>Friday</h2>
+    en: |2
+       <h2>Friday</h2>
 
       ||||
       |---|---|---|
@@ -905,8 +926,8 @@ pages:
 
 
       <h2>https://meet.jit.si/AikidoAmsterdam</h2>
-    nl: |-
-      <h1>Palmstraat</h1> <h2>Vrijdag</h2>
+    nl: |2-
+       <h2>Vrijdag</h2>
 
       ||||
       |---|---|---|
@@ -938,15 +959,31 @@ pages:
   - alias: ""
     tile: 1,1,1,1
     img: ""
-    en: |-
-      <h1>Palmstraat</h1> <h2>Tuesday</h2>
+    en: |2+
+       <h2>Saturday</h2>
 
-      Due to the current corona crisis, there are no classes in Sporthal De Pijp and in our Dojo at the Palmstraat 34.
-    nl: |-
-      <h1>Palmstraat</h1> <h2>Dinsdag</h2>
+      ||||
+      |---|---|---|
+      |10:00|-11:00|Teens Bokken |
 
 
-      Vanwege de huidige corona crisis zijn er geen lessen in Sporthal De Pijp en in onze Dojo aan de Palmstraat 34.
+
+      <h2>Classes are at Roeters-weiland</h2>
+
+
+    nl: |2+
+       <h2>Zaterdag</h2>
+
+
+      ||||
+      |---|---|---|
+      |10:00|-11:00|Zazen |
+
+
+
+      <h2>Les op Roeters-weiland</h2>
+
+
     link: ""
     class:
     - darkgray
