@@ -2113,17 +2113,17 @@ pages:
   - alias: ""
     tile: 3,3,1,1
     img: ""
-    en: "<h1>Memories Combat Games</h1> \n  <p>In 2013, already 7 years ago, the last
-      Combat Games were held in St Petersburg in Russia. Aikido was represented by
-      a delegation from several countries. Tom Dijkman represented the Netherlands
-      and participated in various demonstrations throughout the event. <br />\n"
-    nl: "<h1>Herinneringen Combat Games</h1> \n  <p>In 2013, alweer 7 jaar geleden
-      werden de laatste Combat Games gehouden in St Petersburg in Rusland. Aikido
-      werd uitgedragen door diverse landen met hun vertegenwoordigers. Vanuit Nederland
-      was Tom Dijkman aanwezig, hij deed mee aan diverse demonstraties. <br />\n"
+    en: "<h1> Corona Crisis (update 3) </h1>\n  <p> Outside classes have started,
+      we gave our first class for the kid and Teens. And Thursday the 14th of May
+      we start with Adults. We will work in all classes with weapons to keep maximun
+      distance.\n  \n  Stay safe !!\n  \n  <br />"
+    nl: "<h1>Corona Crisis (update 3)</h1> \n  <p>De buitenlessen zij gestart voor
+      de kinderen en de teens. Vanaf dond 14 mei geven we ook les aan de volwassenen.
+      We zullen in alle lessen met wapens werken om een goede afstand te waarborgen.\n
+      \ \n  Wij wensen jullie goede gezondheid !!\n  \n  <br />\n\n"
     link: ""
     class:
-    - gray
+    - red
     member_name: ""
     member_age: ""
   - alias: ""
