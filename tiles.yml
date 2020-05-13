@@ -2056,7 +2056,7 @@ pages:
       \ \n  <br />\n\n\n"
     link: ""
     class:
-    - darkgray
+    - gray
     member_name: ""
     member_age: ""
   - alias: ""
