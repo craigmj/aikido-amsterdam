@@ -2045,21 +2045,17 @@ pages:
   - alias: ""
     tile: 0,2,1,1
     img: ""
-    en: "<h1>International Youth Event 2017</h1> \n\n  <p>In November 2017, the first
-      International Youth Event was held under the leadership of Eiji Katsurada Sensei
-      from Hombu Dojo in Japan.\n  \nIn the Katsurada Sensei’s class, more than 300
-      youthful Aikidokas trained together on the mat. Some participants travelled
-      from foreign countries with their own youth team. The event concluded the event
-      with joint demonstrations of these teams.\n <br />"
-    nl: "<h1>International Youth Event 2017</h1> \n\n  <p>In november 2017 is er het
-      eerste Internationale Jeugdevenement gehouden onder leiding van Eiji Katsurada
-      Sensei van Hombu Dojo in Japan. \n  \nOnder de leiding van Katsurada Sensei
-      trainden er meer dan 300 jeugdige Aikidoka's gezamenlijk op de mat. Tevens waren
-      er diverse landen met eigen jeugd teams aanwezig. Deze jeugdteams hebben het
-      evenement afgesloten met gezamenlijke presentaties. \n <br />"
+    en: "<h1> Corona Crisis (update 3) </h1>\n  <p> Outside classes have started,
+      we gave our first class for the kid and Teens. And Thursday the 14th of May
+      we start with Adults. We will work in all classes with weapons to keep maximun
+      distance.\n  \n  Stay safe !!\n  \n  <br />"
+    nl: "<h1>Corona Crisis (update 3)</h1> \n  <p>De buitenlessen zij gestart voor
+      de kinderen en de teens. Vanaf dond 14 mei geven we ook les aan de volwassenen.
+      We zullen in alle lessen met wapens werken om een goede afstand te waarborgen.\n
+      \ \n  Wij wensen jullie goede gezondheid !!\n  \n  <br />\n\n"
     link: ""
     class:
-    - gray
+    - red
     member_name: ""
     member_age: ""
   - alias: ""
@@ -2068,9 +2064,7 @@ pages:
     en: ""
     nl: ""
     link: ""
-    class:
-    - arrow-left
-    - red-left
+    class: []
     member_name: ""
     member_age: ""
   - alias: ""
@@ -2113,17 +2107,19 @@ pages:
   - alias: ""
     tile: 3,3,1,1
     img: ""
-    en: "<h1> Corona Crisis (update 3) </h1>\n  <p> Outside classes have started,
-      we gave our first class for the kid and Teens. And Thursday the 14th of May
-      we start with Adults. We will work in all classes with weapons to keep maximun
-      distance.\n  \n  Stay safe !!\n  \n  <br />"
-    nl: "<h1>Corona Crisis (update 3)</h1> \n  <p>De buitenlessen zij gestart voor
-      de kinderen en de teens. Vanaf dond 14 mei geven we ook les aan de volwassenen.
-      We zullen in alle lessen met wapens werken om een goede afstand te waarborgen.\n
-      \ \n  Wij wensen jullie goede gezondheid !!\n  \n  <br />\n\n"
+    en: "<h1>Seminar Capetown and 5th year aniversery</h1> \n  <p>In February 2018
+      Tom Dijkman was in Cape Town for the 5th time to give a seminar. This coincided
+      with the celebration of the 5th anniversary of Cape Town Aikido, Craig-Mason
+      Jones’ dojo. Tom has given an annual seminar since the dojo's inception to support
+      the development of Aikido in the region.<br />\n"
+    nl: "<h1>Seminar Kaapstad en 5 jaar Aikido Kaapstad</h1> \n  <p>In Februari 2018
+      was Tom Dijkman voor de 5de keer in Kaapstad om een seminar te geven. Dit keer
+      werd ook het 5 jarig bestaan van Cape Town Aikido gevierd. De dojo van Craig-Mason
+      Jones bestaat nu 5 jaar en vanaf 2013 geeft Tom elk jaar een \"Friendship\"
+      seminar om het Aikido in de regio te ondersteunen .<br />\n\n\n"
     link: ""
     class:
-    - red
+    - gray
     member_name: ""
     member_age: ""
   - alias: ""
@@ -2144,8 +2140,6 @@ pages:
     link: ""
     class:
     - transparent
-    - arrow-left
-    - gray-left
     member_name: ""
     member_age: ""
   title:
