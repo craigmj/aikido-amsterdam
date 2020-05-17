@@ -1978,7 +1978,7 @@ pages:
     member_age: ""
   - alias: ""
     tile: 1,0,2,1
-    img: /i/600/0/eb09a1ca0d2e5368c68f6eb143d5e5d4.jpg
+    img: /i/600/0/eae686c0b646f6e3ba602132e3c30bce.jpg
     en: ""
     nl: ""
     link: ""
@@ -2096,13 +2096,11 @@ pages:
     member_age: ""
   - alias: ""
     tile: 3,2,1,1
-    img: /img/upload/180303-174316.jpg
+    img: /i/600/0/5fbbc4f75ea96964f17b38d39e03c443.jpg
     en: ""
     nl: ""
     link: ""
-    class:
-    - arrow-bottom
-    - gray-bottom
+    class: []
     member_name: ""
     member_age: ""
   - alias: ""
