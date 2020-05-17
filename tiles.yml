@@ -1962,13 +1962,11 @@ pages:
   tiles:
   - alias: ""
     tile: 0,0,1,1
-    img: /img/upload/180303-174907.jpg
+    img: ""
     en: ""
     nl: ""
     link: ""
-    class:
-    - arrow-bottom
-    - blue-bottom
+    class: []
     member_name: ""
     member_age: ""
   - alias: ""
