@@ -2088,7 +2088,7 @@ pages:
     member_age: ""
   - alias: ""
     tile: 2,3,1,1
-    img: /img/upload/180303-180309.jpg
+    img: /i/600/0/678a87cc3af5901f4707eeeb2604cb05.jpg
     en: ""
     nl: ""
     link: ""
@@ -2098,16 +2098,9 @@ pages:
   - alias: ""
     tile: 3,3,1,1
     img: ""
-    en: "<h1>Seminar Capetown and 5th year aniversery</h1> \n  <p>In February 2018
-      Tom Dijkman was in Cape Town for the 5th time to give a seminar. This coincided
-      with the celebration of the 5th anniversary of Cape Town Aikido, Craig-Mason
-      Jones’ dojo. Tom has given an annual seminar since the dojo's inception to support
-      the development of Aikido in the region.<br />\n"
-    nl: "<h1>Seminar Kaapstad en 5 jaar Aikido Kaapstad</h1> \n  <p>In Februari 2018
-      was Tom Dijkman voor de 5de keer in Kaapstad om een seminar te geven. Dit keer
-      werd ook het 5 jarig bestaan van Cape Town Aikido gevierd. De dojo van Craig-Mason
-      Jones bestaat nu 5 jaar en vanaf 2013 geeft Tom elk jaar een \"Friendship\"
-      seminar om het Aikido in de regio te ondersteunen .<br />\n\n\n"
+    en: ""
+    nl: |2+
+
     link: ""
     class:
     - gray
