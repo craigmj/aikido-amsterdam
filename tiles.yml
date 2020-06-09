@@ -1291,10 +1291,8 @@ pages:
   - alias: ""
     tile: 2,1,1,1
     img: ""
-    en: <p>Budo Kids for kids from 3-4 years, small groups Tuesdays and Thursdays
-      by Andra Perrin.</p>
-    nl: <p>Budo Kids voor kinderen van 3-4 jaar, kleine groepen op dinsdag en donderdag
-      door Andra Perrin.</p>
+    en: ""
+    nl: ""
     link: ""
     class:
     - center
