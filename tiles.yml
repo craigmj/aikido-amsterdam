@@ -1977,11 +1977,11 @@ pages:
     member_name: ""
     member_age: ""
   title:
-    en: ""
-    nl: ""
+    en: Members
+    nl: Leden
   description:
-    en: ""
-    nl: ""
+    en: Members, no no log-in .. but an overview of members and their story.
+    nl: Leden, nee geen log-in.. maar een overzicht van leden en hun verhaal.
 - name: news
   tiles:
   - alias: ""
@@ -2168,11 +2168,12 @@ pages:
     member_name: ""
     member_age: ""
   title:
-    en: ""
-    nl: ""
+    en: News
+    nl: Nieuws
   description:
-    en: ""
-    nl: ""
+    en: All the latest news regarding the dojo and the training of Aikido Amsterdam.
+    nl: Al het laatste nieuws met betrekking op de dojo en de trainingen van Aikido
+      Amsterdam.
 quotes:
 - en:
     text: '"I stay inspired by Aikido in all its diversity. And I hope to keep inspiring
