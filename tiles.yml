@@ -653,11 +653,13 @@ pages:
     member_name: ""
     member_age: ""
   title:
-    en: ""
-    nl: ""
+    en: What does Aikido bring you ..
+    nl: Wat brengt Aikido jou..
   description:
-    en: ""
-    nl: ""
+    en: Aikido gives you resilience, both physically and mentally. You learn to fall
+      and roll and with a partner you learn the techniques.
+    nl: 'Aikido geeft je weerbaarheid, zowel fysiek als mentaal. Je leert vallen en
+      rollen en met een partner leer je de technieken. '
 - name: lessons
   tiles:
   - alias: ""
