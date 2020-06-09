@@ -1612,11 +1612,13 @@ pages:
     member_name: ""
     member_age: ""
   title:
-    en: ""
-    nl: ""
+    en: Who are we
+    nl: Wie zijn wij
   description:
-    en: ""
-    nl: ""
+    en: Here all people who are connected to Aikido Amsterdam, everyone who works
+      for the dojo.
+    nl: Hier alle mensen die verbonden zijn aan Aikido Amsterdam, iedereen die werkzaamheden
+      verricht voor de dojo.
 - name: calendar
   tiles:
   - alias: ""
@@ -1717,11 +1719,13 @@ pages:
     member_name: ""
     member_age: ""
   title:
-    en: ""
-    nl: ""
+    en: Calendar
+    nl: Kalender
   description:
-    en: ""
-    nl: ""
+    en: On this page you will find an overview of all activities of Aikido Amsterdam
+      and an overview of seminars by guest teachers.
+    nl: Op deze pagina vind je een overzicht van alle activiteiten van Aikido Amsterdam
+      en een overzicht van seminars van gastleraren.
 - name: members
   tiles:
   - alias: ""
