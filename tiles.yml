@@ -1095,11 +1095,13 @@ pages:
     member_name: ""
     member_age: ""
   title:
-    en: ""
-    nl: ""
+    en: Class times
+    nl: Lestijden
   description:
-    en: ""
-    nl: ""
+    en: All times of the lessons, for the outdoor lessons, these are sometimes moved
+      because of the weather. Or that the lessons turn into an online lesson.
+    nl: Alle tijden van de lessen, voor de buitenlessen geldt dat deze vanwege het
+      weer soms verplaatst worden. Of dat de lessen veranderen in een online les.
 - name: fees
   tiles:
   - alias: ""
@@ -1233,11 +1235,11 @@ pages:
     member_name: ""
     member_age: ""
   title:
-    en: ""
-    nl: ""
+    en: Contribution
+    nl: Bijdrage
   description:
-    en: ""
-    nl: ""
+    en: Here all information about costs and support of Sportfonds Amsterdam
+    nl: Hier alle informatie over kosten en ondersteuning van Sportfonds Amsterdam
 - name: children
   tiles:
   - alias: ""
