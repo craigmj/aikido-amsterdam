@@ -519,11 +519,15 @@ pages:
     member_name: ""
     member_age: ""
   title:
-    en: ""
-    nl: ""
+    en: 2Euro50 Project
+    nl: 2Euro50 Project
   description:
-    en: ""
-    nl: ""
+    en: With our 2 Euro 50 Project we support the Uhambo Foundation in Cape Town,
+      South Africa. They make wheelchairs for disabled children and help in deprived
+      neighborhoods.
+    nl: Met ons 2 Euro 50 Project ondersteunen we de Uhambo Foundation in Kaapstad,
+      Zuid Afrika. Zij maken rolstoelen voor gehandicapte kinderen en helpen in achterstands
+      wijken.
 - name: aikido
   tiles:
   - alias: ""
