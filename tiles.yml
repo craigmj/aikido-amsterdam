@@ -401,11 +401,15 @@ pages:
     member_name: ""
     member_age: ""
   title:
-    en: Dojo Title (EN)
-    nl: Dojo Title (NL)
+    en: Dojo
+    nl: Dojo
   description:
-    en: Dojo Desc (EN)
-    nl: Dojo Desc (NL)
+    en: Our dojo is the place where we always train indoors, but not now !! We train
+      in the park, online and at home in our living room. Hopefully soon together
+      again in the dojo.
+    nl: Onze dojo is de plek waar we altijd binnen trainen, maar nu even niet !! We
+      trainen in het park, online en thuis in onze huiskamer. Hopelijk weer snel samen
+      in de dojo.
 - name: charity
   tiles:
   - alias: ""
