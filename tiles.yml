@@ -1295,6 +1295,7 @@ pages:
     nl: ""
     link: ""
     class:
+    - gray
     - center
     member_name: ""
     member_age: ""
