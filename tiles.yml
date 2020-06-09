@@ -790,10 +790,12 @@ pages:
     en: Classes
     nl: Les aanbod
   description:
-    en: 'Here our lessons at the various locations: De Palmstraat 34 in the Jordaan
-      and Sporthal De Pijp in De Pijp'
-    nl: 'Hierbij het volledige les aanbod op de diverse locaties: De Palmstraat 34
-      in de Jordaan en Sporthal De Pijp in De Pijp'
+    en: Overview of all lessons from Aikido Amsterdam while we are not allowed in
+      the dojo. From the online Zazen meditation, the online classes with the youth
+      to the outdoor classes for the children, teenagers and adults.
+    nl: 'Overzicht van alle lessen van Aikido Amsterdam terwijl we niet in de dojo
+      mogen. Van de online Zazen meditatie, de online lessen met de jeugd tot aan
+      de buitenlessen voor de kinderen, teenagers en de volwassenen. '
 - name: times
   tiles:
   - alias: ""
