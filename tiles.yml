@@ -2110,8 +2110,8 @@ pages:
     member_name: ""
     member_age: ""
   - alias: ""
-    tile: 2,3,1,1
-    img: /i/600/0/678a87cc3af5901f4707eeeb2604cb05.jpg
+    tile: 2,3,2,1
+    img: /i/600/0/2e7cbf9a584556e3b502fa70093a00bc.jpg
     en: ""
     nl: ""
     link: ""
@@ -2126,7 +2126,7 @@ pages:
 
     link: ""
     class:
-    - gray
+    - transparent
     member_name: ""
     member_age: ""
   - alias: ""
