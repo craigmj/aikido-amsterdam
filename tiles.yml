@@ -1400,11 +1400,13 @@ pages:
     member_name: ""
     member_age: ""
   title:
-    en: ""
-    nl: ""
+    en: Kids classes Aikido
+    nl: Kinder lessen Aikido
   description:
-    en: ""
-    nl: ""
+    en: We teach toddlers, children, teenagers and also have special parent-child
+      classes. Super fun to learn Aikido together with your child !!!
+    nl: Wij geven lessen aan peuters, kinderen, teenagers en hebben ook speciale ouder-kind
+      lessen. Super leuk om samen met je kind Aikido te leren !!!
 - name: who
   tiles:
   - alias: ""
