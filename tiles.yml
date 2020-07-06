@@ -1986,14 +1986,17 @@ pages:
   - alias: ""
     tile: 0,0,1,1
     img: ""
-    en: "<h1>Start Toddler classes Sporthal De Pijp</h1> \nLooking for an inspring
-      activity for young kids: developing motor skills and trust.\nStarting again
-      in September Aikido Amsterdam is offering in Sporthal De Pijp every Tuesday
-      from 16:00-17:00 Toddlers classes for 4 to 6 years old.\n\n\n"
-    nl: "<h1>Start Kleuter lessen in Sporthal De Pijp</h1> \n  <p>Op zoek naar een
-      inspirerende activiteit voor jonge kinderen: motorische vaardigheden en vertrouwen
-      ontwikkelen.\nVanaf september biedt Aikido Amsterdam weer elke dinsdag van 16:00-17:00
-      kleuter lessen voor 4 tot 6 jaar aan in Sporthal De Pijp.<br />\n\n"
+    en: "<h1> Corona Crisis (update 4) </h1>\n  <p> As from July the 1st indoor classes
+      are aloud, but we decided to stay outside. From mid August we will start with
+      Monday evening classes in the dojo. Thursday stay's an outdoor Jo class and
+      Saturday morning we teach Bokken outside. Send us a mail for more information
+      regarding time and location.\n \n For now we wish everyone good health !!\n
+      \ \n  <br />\n\n\n"
+    nl: "<h1>Corona Crisis (update 1)</h1> \n  <p>Vanaf 1 juli zijn binnen lessen
+      weer mogelijk, maar wij kiezen ervoor om langzaam weer te starten. Vanaf half
+      augustus starten we op maandag avond in de dojo. Donderdag avond blijft een
+      buiten Jo les en zaterdag ochtend blijft ook voorlopig een buiten bokken les.\n
+      \ \n  Voor nu nog steeds, blijf gezond !!\n  \n  <br />"
     link: ""
     class:
     - blue
