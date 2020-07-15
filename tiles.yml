@@ -2010,7 +2010,7 @@ pages:
     tile: 3,0,1,1
     img: ""
     en: |-
-      <h1> Corona crisis </h1>
+      <h1> Youth weapon class </h1>
 
         <p> Due to the coronavirus (COVID-19), the dojo is temporarily closed. On Monday there is an online lesson for the Teens and on Friday for the kids at 5pm.
 
@@ -2018,10 +2018,10 @@ pages:
 
       log in via https://meet.jit.si/AikidoAmsterdam
        <br />
-    nl: "<h1>Corona crisis</h1> \n\n  <p>Als gevolg van het coronavirus (COVID-19)
-      is de dojo tijdelijk gesloten. Op maandag is er een online les voor de Teens
-      en op vrijdag voor de kids om 17.00.\n\nOp ma, woe en vrij is er online Zazen
-      om 7.00. <br />\n\nlog in via https://meet.jit.si/AikidoAmsterdam \n<br />"
+    nl: "<h1>Jeugd wapen les</h1> \n\n  <p>De ouder-kind en jeugd lessen zijn de hele
+      zomer op vrijdag in het Flevopark, ook hier geven wij wapen les. Beginners zijn
+      welkom, je hebt alleen een bezemsteel nodig om mee te doen. <br />\n\nlog in
+      via https://meet.jit.si/AikidoAmsterdam \n<br />"
     link: ""
     class:
     - red
