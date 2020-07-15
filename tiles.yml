@@ -961,8 +961,18 @@ pages:
   - alias: ""
     tile: 1,1,1,1
     img: ""
-    en: |2+
-       <h2>Saturday</h2>
+    en: |+
+      <h1>Palmstraat</h1> <h2>Friday</h2>
+
+      ||||
+      |---|---|---|
+      |09:00|-10:00|adults all|
+      |10:30|-12:00|chi kung|
+      |15:45|-16:45|toddlers(4-6)|
+      |17:00|-18:00|parent/ kids|
+
+
+      <h2>Saturday</h2>
 
       ||||
       |---|---|---|
