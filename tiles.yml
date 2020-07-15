@@ -1129,10 +1129,10 @@ pages:
     en: Class times
     nl: Lestijden
   description:
-    en: All times of the lessons, for the outdoor lessons, these are sometimes moved
-      because of the weather. Or that the lessons turn into an online lesson.
-    nl: Alle tijden van de lessen, voor de buitenlessen geldt dat deze vanwege het
-      weer soms verplaatst worden. Of dat de lessen veranderen in een online les.
+    en: Overview of all lesson times, Aikido in the dojo, the outdoor lessons and
+      the online zazen meditation.
+    nl: Overzicht van alle les tijden, Aikido in de dojo, de buiten lessen en de online
+      zazen meditatie.
 - name: fees
   tiles:
   - alias: ""
