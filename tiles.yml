@@ -874,8 +874,8 @@ pages:
   - alias: ""
     tile: 3,0,1,1
     img: ""
-    en: |2+
-       <h2>Thursday</h2>
+    en: |+
+      <h2>Thursday</h2>
 
       ||||
       |---|---|---|
@@ -885,8 +885,8 @@ pages:
       <h2>Class at the Flevopark</h2>
 
 
-    nl: |2+
-       <h2>Donderdag</h2>
+    nl: |+
+      <h2>Donderdag</h2>
 
       ||||
       |---|---|---|
