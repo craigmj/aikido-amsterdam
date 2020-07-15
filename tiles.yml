@@ -962,10 +962,11 @@ pages:
     tile: 1,1,1,1
     img: ""
     en: |+
-      <h1>Palmstraat</h1> <h2>Friday</h2>
+      <h2>Friday Palmstraat</h2>
 
       ||||
       |---|---|---|
+      |07:00|-07:45|zazen (online) |
       |09:00|-10:00|adults all|
       |10:30|-12:00|chi kung|
       |15:45|-16:45|toddlers(4-6)|
@@ -983,8 +984,19 @@ pages:
       <h2>Classes are at Roeters-weiland</h2>
 
 
-    nl: |2+
-       <h2>Zaterdag</h2>
+    nl: |+
+      <h2>Vrijdag Palmstraat</h2>
+
+      ||||
+      |---|---|---|
+      |07:00|-07:45|zazen (online) |
+      |09:00|-10:00|volw allen|
+      |10:30|-12:00|chi kung|
+      |15:45|-16:45|peuters(4-6)|
+      |17:00|-18:00|ouder/ kind|
+
+
+      <h2>Zaterdag</h2>
 
 
       ||||
