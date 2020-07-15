@@ -2155,14 +2155,13 @@ pages:
   - alias: ""
     tile: 0,2,1,1
     img: ""
-    en: "<h1> Corona Crisis (update 2) </h1>\n  <p> From April 29, children can exercise
-      outside again, we have decided to continue teaching online for a while. Our
-      1st outdoor lessons will be weapon lessons with the teenagers. Hopefully soon
-      followed with the adults.\n  \n  Stay safe !!\n  \n  <br />"
-    nl: "<h1>Corona Crisis (update 2)</h1> \n  <p>Vanaf 29 April mogen kinderen weer
-      buiten sporten, wij hebben besloten om toch nog even online les te blijven geven.
-      Onze 1ste buiten lessen zullen wapen lessen met de teenagers zijn. Hopelijk
-      snel gevolgd met de volwassenen.\n  \n  Wij wensen jullie goede gezondheid !!\n
+    en: "<h1> Zazen sessions online </h1>\n  <p> On Monday, Wednesday and Friday there
+      is zazen meditation at 7am. A moment to let your thoughts come or go, or to
+      have no thoughts at all.\n  \n Log in via https://meet.jit.si/AikidoAmsterdam\n
+      \ \n  <br />"
+    nl: "<h1>Corona Crisis (update 2)</h1> \n  <p>Op maandag, woensdag en vrijdag
+      is er Zazen meditatie om 7.00. Een moment om je gedachten te laten komen en
+      gaan, of om helemaal geen gedachten te hebben. \n  \n  Log in via https://meet.jit.si/AikidoAmsterdam\n
       \ \n  <br />\n\n"
     link: ""
     class:
