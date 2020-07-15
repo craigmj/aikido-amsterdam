@@ -874,7 +874,7 @@ pages:
   - alias: ""
     tile: 3,0,1,1
     img: ""
-    en: |+
+    en: |-
       <h2>Thursday</h2>
 
       ||||
@@ -884,7 +884,13 @@ pages:
 
       Class at the Flevopark
 
+      |<p> <br >
 
+      <h2>Wednesday</h2>
+
+      ||||
+      |---|---|---|
+      |07:00|-07:45|zazen (online) |
     nl: |+
       <h2>Donderdag</h2>
 
