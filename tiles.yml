@@ -2009,15 +2009,9 @@ pages:
   - alias: ""
     tile: 3,0,1,1
     img: ""
-    en: |-
-      <h1> Youth weapon class </h1>
-
-        <p> Due to the coronavirus (COVID-19), the dojo is temporarily closed. On Monday there is an online lesson for the Teens and on Friday for the kids at 5pm.
-
-      Zazen is online at 7.00 on Mon, Wed and Fri.
-
-      log in via https://meet.jit.si/AikidoAmsterdam
-       <br />
+    en: "<h1>Youth weapon class</h1> \n  <p>The parent-child and youth classes are
+      all summer on Friday in the Flevopark, here we also teach weapon lessons. Beginners
+      are welcome, you just need a broomstick to participate\n  \n  <br />"
     nl: "<h1>Jeugd wapen les</h1> \n  <p>De ouder-kind en jeugd lessen zijn de hele
       zomer op vrijdag in het Flevopark, ook hier geven wij wapen les. Beginners zijn
       welkom, je hebt alleen een bezemsteel nodig om mee te doen \n  \n  <br />"
