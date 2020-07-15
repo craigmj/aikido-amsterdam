@@ -2088,7 +2088,7 @@ pages:
 
     link: ""
     class:
-    - red
+    - darkgray
     member_name: ""
     member_age: ""
   - alias: ""
