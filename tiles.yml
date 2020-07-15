@@ -437,12 +437,10 @@ pages:
     en: Dojo
     nl: Dojo
   description:
-    en: Our dojo is the place where we always train indoors, but not now !! We train
-      in the park, online and at home in our living room. Hopefully soon together
-      again in the dojo.
-    nl: Onze dojo is de plek waar we altijd binnen trainen, maar nu even niet !! We
-      trainen in het park, online en thuis in onze huiskamer. Hopelijk weer snel samen
-      in de dojo.
+    en: Overview of all lesson times, Aikido in the dojo, the outdoor lessons and
+      the online zazen meditation.
+    nl: Overzicht van alle les tijden, Aikido in de dojo, de buiten lessen en de online
+      zazen meditatie.
 - name: charity
   tiles:
   - alias: ""
