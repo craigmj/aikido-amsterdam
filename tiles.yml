@@ -923,21 +923,18 @@ pages:
 
       Classes are at Roeters-weiland
 
-    nl: |2-
-       <h2>Vrijdag</h2>
+    nl: |+
+      <h2>Zaterdag</h2>
+
 
       ||||
       |---|---|---|
-      |07:00|-07:45|Zazen |
-      |17:00|-18:00|Kids|
+      |10:00|-11:00|Teens Bokken |
 
 
-      <h2>Locatie: Flevopark</h2>
 
-      <h2>Bij regen online</h2>
+      Locatie: Roeters-weiland
 
-
-      <h2>https://meet.jit.si/AikidoAmsterdam</h2>
     link: ""
     class:
     - blue
@@ -1016,7 +1013,7 @@ pages:
 
 
 
-      <h2>Locatie: Roeters-weiland</h2>
+      Locatie: Roeters-weiland
 
 
     link: ""
