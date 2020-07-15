@@ -2046,12 +2046,14 @@ pages:
   - alias: ""
     tile: 1,1,1,1
     img: ""
-    en: "<h1> Corona Crisis (update 1) </h1>\n  <p> Via the YouTube channel of Aikido
-      Amsterdam various lessons can be seen for adults and kids.\n  \n https://www.youtube.com/channel/UCrr-ASGTlIFF08VQtlPJE0A\n
-      \n For now we wish everyone good health !!\n  \n  <br />\n\n\n"
-    nl: "<h1>Corona Crisis (update 1)</h1> \n  <p>Via het YouTube kanaal van Aikido
-      Amsterdam zijn diverse  lessen te zien voor volw en kids.\n  \n https://www.youtube.com/channel/UCrr-ASGTlIFF08VQtlPJE0A\n
-      \n Voor nu wensen wij iedereen een goede gezondheid !!\n  \n  <br />\n\n\n\n"
+    en: "<h1> Inside classes in the dojo </h1>\n  <p>The lessons in the dojo start
+      again from Monday 10 August. We then start with teenager classes, beginners
+      and advanced. Maximum 10 people per lesson, all according to the applicable
+      rules.\n  \n  <br />\n\n\n\n"
+    nl: "<h1>Binnen lessen in de dojo</h1> \n  <p>De lessen in de dojo starten weer
+      vanaf maandag 10 augustus. We starten dan met teenager lessen binnen, beginners
+      en gevorderden. Maximaal 10 mensen per les, dit alles volgens de geldende regels.\n
+      \ \n  <br />\n\n"
     link: ""
     class:
     - red
