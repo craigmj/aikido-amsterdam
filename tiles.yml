@@ -2080,14 +2080,12 @@ pages:
   - alias: ""
     tile: 2,2,1,1
     img: ""
-    en: "<h1> Corona Crisis (update 3) </h1>\n  <p> Outside classes have started,
-      we gave our first class for the kid and Teens. And Thursday the 14th of May
-      we start with Adults. We will work in all classes with weapons to keep maximun
-      distance.\n  \n  Stay safe !!\n  \n  <br />\n"
-    nl: "<h1>Corona Crisis (update 3)</h1> \n  <p>De buitenlessen zij gestart voor
-      de kinderen en de teens. Vanaf dond 14 mei geven we ook les aan de volwassenen.
-      We zullen in alle lessen met wapens werken om een goede afstand te waarborgen.\n
-      \ \n  Wij wensen jullie goede gezondheid !!\n  \n  <br />\n\n\n"
+    en: |2+
+
+    nl: |2+
+
+
+
     link: ""
     class:
     - red
