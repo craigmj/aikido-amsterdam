@@ -874,7 +874,7 @@ pages:
   - alias: ""
     tile: 3,0,1,1
     img: ""
-    en: |2
+    en: |2+
        <h2>Thursday</h2>
 
       ||||
@@ -884,14 +884,8 @@ pages:
 
       <h2>Class at the Flevopark</h2>
 
-       <h2>Thursday Palmstraat</h2>
 
-      ||||
-      |---|---|---|
-      |19:30|-20:30|adults beginners|
-      |20:30|-21:30|adults advanced|
-      |
-    nl: |2
+    nl: |2+
        <h2>Donderdag</h2>
 
       ||||
@@ -901,10 +895,6 @@ pages:
       <h2>Locatie: Flevopark</h2>
 
 
-      <h2>Als het regent online</h2>
-
-
-      <h2>https://meet.jit.si/AikidoAmsterdam</h2>
     link: ""
     class:
     - darkgray
