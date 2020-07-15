@@ -953,8 +953,8 @@ pages:
   - alias: ""
     tile: 1,1,1,1
     img: ""
-    en: |2+
-       <h2>Fryday Palmstraat (from sept)</h2>
+    en: |+
+      <h2>Friday Palmstraat (as from Sept)</h2>
 
       ||||
       |---|---|---|
