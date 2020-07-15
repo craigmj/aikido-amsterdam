@@ -1986,12 +1986,12 @@ pages:
   - alias: ""
     tile: 0,0,1,1
     img: ""
-    en: "<h1> Outside classes </h1>\n  <p> Throughout the summer we will continue
-      to provide weapon lessons outside. On Thursday evening Jo lesson and Saturday
-      morning Bokken lesson.\n  \n  <br />\n\n\n"
-    nl: "<h1>Buiten lessen</h1> \n  <p>De gehele zomer blijven wij buiten wapen lessen
-      verzorgen. Op donderdag avond Jo les en zaterdag morgen Bokken les. \n  \n  <br
-      />"
+    en: "<h1> Outside weapon classes </h1>\n  <p> Throughout the summer we will continue
+      to provide weapon classes outside. On Thursday evening Jo and Saturday morning
+      Bokken class\n  \n  <br />\n\n\n"
+    nl: "<h1>Buiten wapen lessen</h1> \n  <p>De gehele zomer blijven wij buiten wapen
+      lessen verzorgen. Op donderdag avond Jo en zaterdag morgen Bokken les. \n  \n
+      \ <br />"
     link: ""
     class:
     - blue
