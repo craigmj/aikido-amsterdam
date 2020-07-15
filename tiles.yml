@@ -848,32 +848,24 @@ pages:
   - alias: ""
     tile: 2,0,1,1
     img: ""
-    en: |2-
-       <h2>Wednesday</h2>
+    en: |
+      <h1>Sporthal De Pijp</h1> <h2>Tuesday</h2>
 
       ||||
       |---|---|---|
-      |07:00|-07:45|Zazen |
-
-
-
-      <h2>Classes are online</h2>
-
-
-      <h2>https://meet.jit.si/AikidoAmsterdam</h2>
-    nl: |2-
-       <h2>Woensdag</h2>
+      |16:00|-17:00|toddlers (4-6)|
+      |17:15|-18:15|parent & children's|
+      |
+      Parent kids classes as from 7 years, parents can join the classes with their kids.
+    nl: |
+      <h1>Sporthal De Pijp</h1> <h2>Dinsdag</h2>
 
       ||||
       |---|---|---|
-      |07:00|-07:45|Zazen |
-
-
-
-      <h2>Classes are online</h2>
-
-
-      <h2>https://meet.jit.si/AikidoAmsterdam</h2>
+      |16:00|-17:00|kleuters (4-6)|
+      |17:15|-18:15|ouder/ kind |
+      |
+      Ouder kind les vanaf 7 jaar, ouders kunnen samen trainen met hun kinderen.
     link: ""
     class:
     - red
