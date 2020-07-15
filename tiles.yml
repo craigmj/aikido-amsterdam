@@ -1986,17 +1986,12 @@ pages:
   - alias: ""
     tile: 0,0,1,1
     img: ""
-    en: "<h1> Corona Crisis (update 4) </h1>\n  <p> As from July the 1st indoor classes
-      are aloud, but we decided to stay outside. From mid August we will start with
-      Monday evening classes in the dojo. Thursday stay's an outdoor Jo class and
-      Saturday morning we teach Bokken outside. Send us a mail for more information
-      regarding time and location.\n \n For now we wish everyone good health !!\n
-      \ \n  <br />\n\n\n"
-    nl: "<h1>Corona Crisis (update 1)</h1> \n  <p>Vanaf 1 juli zijn binnen lessen
-      weer mogelijk, maar wij kiezen ervoor om langzaam weer te starten. Vanaf half
-      augustus starten we op maandag avond in de dojo. Donderdag avond blijft een
-      buiten Jo les en zaterdag ochtend blijft ook voorlopig een buiten bokken les.\n
-      \ \n  Voor nu nog steeds, blijf gezond !!\n  \n  <br />"
+    en: "<h1> Outside classes </h1>\n  <p> Throughout the summer we will continue
+      to provide weapon lessons outside. On Thursday evening Jo lesson and Saturday
+      morning Bokken lesson.\n  \n  <br />\n\n\n"
+    nl: "<h1>Buiten lessen</h1> \n  <p>De gehele zomer blijven wij buiten wapen lessen
+      verzorgen. Op donderdag avond Jo les en zaterdag morgen Bokken les. \n  \n  <br
+      />"
     link: ""
     class:
     - blue
@@ -2157,7 +2152,7 @@ pages:
     img: ""
     en: "<h1> Zazen sessions online </h1>\n  <p> On Monday, Wednesday and Friday there
       is zazen meditation at 7am. A moment to let your thoughts come or go, or to
-      have no thoughts at all.\n  \n  <br />\n  \nLog in via https://meet.jit.si/AikidoAmsterdam\n\n
+      have no thoughts at all.\n  \n  <br />\n  \nhttps://meet.jit.si/AikidoAmsterdam\n\n
       \n  "
     nl: "<h1> Zazen sessions online </h1>\n  <p> Op maandag, woensdag en vrijdag is
       er Zazen meditatie om 7.00. Een moment om je gedachten te laten komen en gaan,
