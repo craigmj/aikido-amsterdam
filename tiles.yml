@@ -912,22 +912,17 @@ pages:
   - alias: ""
     tile: 3,1,1,1
     img: ""
-    en: |2
-       <h2>Friday</h2>
+    en: |2+
+       <h2>Saturday</h2>
 
       ||||
       |---|---|---|
-      |07:00|-07:45|Zazen |
-      |17:00|-18:00|Kids|
+      |10:00|-11:00|Teens Bokken |
 
 
-      <h2>Kidsclass at Flevopark</h2>
 
+      Classes are at Roeters-weiland
 
-      <h2>if it rains online</h2>
-
-
-      <h2>https://meet.jit.si/AikidoAmsterdam</h2>
     nl: |2-
        <h2>Vrijdag</h2>
 
@@ -990,7 +985,7 @@ pages:
 
 
 
-      <h2>Classes are at Roeters-weiland</h2>
+      Classes are at Roeters-weiland
 
 
     nl: |+
