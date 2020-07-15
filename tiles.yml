@@ -874,21 +874,23 @@ pages:
   - alias: ""
     tile: 3,0,1,1
     img: ""
-    en: |2-
+    en: |2
        <h2>Thursday</h2>
 
       ||||
       |---|---|---|
-      |19:30|-20:30|Adults |
+      |19:30|-20:30|adults weapons |
 
 
       <h2>Class at the Flevopark</h2>
 
+       <h2>Thursday Palmstraat</h2>
 
-      <h2>If it rains online</h2>
-
-
-      <h2>https://meet.jit.si/AikidoAmsterdam</h2>
+      ||||
+      |---|---|---|
+      |19:30|-20:30|adults beginners|
+      |20:30|-21:30|adults advanced|
+      |
     nl: |2
        <h2>Donderdag</h2>
 
