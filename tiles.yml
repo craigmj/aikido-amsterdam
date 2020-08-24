@@ -850,8 +850,8 @@ pages:
       ||||
       |---|---|---|
       |07:00|-07:45|zazen (online) |
-      |15:45|-16:45|children 7-9 (sept)|
-      |17:00|-18:00|children 10-13 (sept)|
+      |15:45|-16:45|children 7-9 |
+      |17:00|-18:00|children 10-13 |
       |18:30|-19:30|young adults|
       |19:30|-20:30|adult beginners|
       |20:30|-21:30|adult all|
@@ -862,8 +862,8 @@ pages:
       ||||
       |---|---|---|
       |07:00|-07:45|zazen (online) |
-      |15:45|-16:45|kinderen 7-9 (sept)|
-      |17:00|-18:00|kinderenn 10-13 (sept)|
+      |15:45|-16:45|kinderen 7-9 |
+      |17:00|-18:00|kinderenn 10-13 |
       |18:30|-19:30|jong volwassenen|
       |19:30|-20:30|volw beginners|
       |20:30|-21:30|volw allen|
@@ -882,7 +882,7 @@ pages:
 
       ||||
       |---|---|---|
-      |16:00|-17:00|toddlers 4-6 (sept)|
+      |16:00|-17:00|toddlers 4-6 |
       |17:15|-18:15|parent & children's|
       |
       Parent kids classes as from 7 years, parents can join the classes with their kids.
@@ -891,7 +891,7 @@ pages:
 
       ||||
       |---|---|---|
-      |16:00|-17:00|kleuters 4-6 (sept)|
+      |16:00|-17:00|kleuters 4-6 |
       |17:15|-18:15|ouder/ kind |
       |
       Ouder kind les vanaf 7 jaar, ouders kunnen samen trainen met hun kinderen.
@@ -999,7 +999,7 @@ pages:
     tile: 1,1,1,1
     img: ""
     en: |+
-      <h2>Friday Palmstraat (as from Sept)</h2>
+      <h2>Friday Palmstraat </h2>
 
       ||||
       |---|---|---|
@@ -1011,7 +1011,7 @@ pages:
 
 
     nl: |+
-      <h2>Vrijdag Palmstraat (vanaf sept)</h2>
+      <h2>Vrijdag Palmstraat </h2>
 
       ||||
       |---|---|---|
