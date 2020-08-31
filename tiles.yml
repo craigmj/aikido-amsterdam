@@ -1426,6 +1426,165 @@ pages:
       classes. Super fun to learn Aikido together with your child !!!
     nl: Wij geven lessen aan peuters, kinderen, teenagers en hebben ook speciale ouder-kind
       lessen. Super leuk om samen met je kind Aikido te leren !!!
+- name: zazen
+  tiles:
+  - alias: ""
+    tile: 0,0,2,2
+    img: /img/upload/180306-164441.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,0,1,1
+    img: ""
+    en: |+
+      <h1>Zazen</h1>
+
+      <br />
+      Information about Zazen.
+
+    nl: |+
+      <h1>Zazen</h1>
+
+      <br />
+      Informatie oor Zazen;
+
+    link: ""
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,0,1,1
+    img: ""
+    en: |
+      <p>Small groups, individual attention and of course great fun.</p>
+    nl: |
+      <p>Kleine groepen, veel individuele aandacht en vooral heel veel plezier!</p>
+    link: ""
+    class:
+    - center
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,1,1,1
+    img: ""
+    en: ""
+    nl: ""
+    link: ""
+    class:
+    - gray
+    - center
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,1,1,1
+    img: /img/upload/7003e1c396f2aad0f58e660c969286c2.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,2,1,1
+    img: ""
+    en: "<h1>Children 6 - 12 years</h1> \n\n<br />\n\nThe attention within the lessons
+      and the exams are based on 3 things; falling and rolling from various positions.
+      The etiquette of Aikido and Aikido techniques."
+    nl: "<h1>Kinderen 6 - 12 jaar</h1> \n\n<br />\n\nDe aandacht binnen de lessen
+      en de examens gaan uit van 3 dingen; vallen en rollen vanuit diverse posities.
+      De etiquette van Aikido en de Aikido technieken.\n"
+    link: ""
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,2,1,1
+    img: ""
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,2,1,1
+    img: ""
+    en: "<h1>Parent/kids classes from 6 years and up</h1> \n\n<br />\n\nAikido where
+      parents can participate with their children.\n  From 6 to 14 years\n  "
+    nl: "<h1>Ouders/kind lessen vanaf 6 jaar</h1> \n\n<br />\n\nAikido waarbij ouders
+      mogen deelnemen met hun kinderen.\n  Vanaf 6 tot 14 jaar\n  \n"
+    link: ""
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 3,2,1,1
+    img: ""
+    en: |
+      <p>Super fun and quality time with your child!</p>
+    nl: |
+      <p>Superleuk om to doen en quality time met je kind!</p>
+    link: ""
+    class:
+    - center
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 1,3,1,1
+    img: ""
+    en: "<h1>Young adults 13 - 17 years</h1>   \n<p>To interact with each other in
+      a physical way. Being treated as an adult and how to be more resilient both
+      mentally and physically<br />\n  "
+    nl: "<h1>Jong Volwassenen 13-17 jaar</h1> \n  <p>Met elkaar op een fysieke manier
+      een interactie aangaan. Volwassen behandeld worden en weerbaarder te zijn zowel
+      mentaal als fysiek<br />\n  \n"
+    link: ""
+    class:
+    - red
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 2,3,2,1
+    img: /img/upload/c2ae9da84c0c8f55454c17ed2f706368.jpg
+    en: ""
+    nl: ""
+    link: ""
+    class: []
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,4,1,1
+    img: ""
+    en: Who we are
+    nl: Dit zijn wij
+    link: who
+    class:
+    - blue
+    member_name: ""
+    member_age: ""
+  - alias: ""
+    tile: 0,3,1,1
+    img: ""
+    en: ""
+    nl: ""
+    link: ""
+    class:
+    - white
+    member_name: ""
+    member_age: ""
+  title:
+    en: Zazen
+    nl: Zazen
+  description:
+    en: Zazen Page
+    nl: Page with Information on Zazen
 - name: who
   tiles:
   - alias: ""
