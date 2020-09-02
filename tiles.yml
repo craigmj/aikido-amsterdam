@@ -1530,9 +1530,9 @@ pages:
     tile: 3,2,1,1
     img: ""
     en: |
-      <p>Super fun and quality time with your child!</p>
+      <p>Tijdens de meditatie komen allerlei gedachten boven. De bedoeling is deze gedachten te laten komen en gaan, zonder er al te veel belang aan te hechten of ze te beoordelen. Door telkens rustig terug te keren naar het object van de meditatie (ademhaling, tellen of koan), krijgen gedachten langzaam minder grip.</p>
     nl: |
-      <p>Superleuk om to doen en quality time met je kind!</p>
+      <p>During the meditation all kinds of thoughts come up. The intention is to let these thoughts come and go, without attaching too much importance to or judging them. By slowly returning to the object of the meditation (breathing, counting or koan), thoughts slowly get less grip.</p>
     link: ""
     class:
     - center
