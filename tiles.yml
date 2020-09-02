@@ -1136,21 +1136,23 @@ pages:
   - alias: ""
     tile: 1,0,2,2
     img: ""
-    en: "\n| | |\n|---|---|\n|Adults|€  47,50 monthly|\n| | |\n| | |\n| | |\n| | |\n|Children|€
-      360,- yearly|\n|\t|(€ 30,- monthly)|\n| | |\n| | |\n| | |\n| | |\n|Toddlers/
-      Prescholers-|€ 40,-  monthly|\n| | |\n| | |\n| | |\n| | |\n|Dutch Aikikai Foundation|€
-      35,- yearly adults|\n| |€ 15,- yearly kids|\n| | |\n| | |\n| | |\n| | |\n|Gebouw
-      De Palm maintenance|€ 20,- yearly|\n\n\n<div style=\"margin-top: 5em;\">Payments
-      on accountnumber NL32INGB0751857599 to the name of T.G.B. Dijkman.\n</div>\n\n<div
-      style=\"margin-top: 5em;\">Payments DAF at Account\nNL90INGB0009475591\nStichting
-      Aikikai Holland\nPostbus 128, 1000AC Amsterdam\n</div>\n"
+    en: "\n| | |\n|---|---|\n|Adults|€  47,50 monthly|\n| | |\n| | |\n| | |\n| | |\n|Teenagers|€
+      35,- monthly|\n| | |\n| | |\n| | |\n| | |\n|Children|€ 360,- yearly|\n|\t|(€
+      30,- monthly)|\n| | |\n| | |\n| | |\n| | |\n|Toddlers/ Prescholers-|€ 40,-  monthly|\n|
+      | |\n| | |\n| | |\n| | |\n|Dutch Aikikai Foundation|€ 35,- yearly adults|\n|
+      |€ 15,- yearly kids|\n| | |\n| | |\n| | |\n| | |\n|Gebouw De Palm maintenance|€
+      20,- yearly|\n\n\n<div style=\"margin-top: 5em;\">Payments on accountnumber
+      NL32INGB0751857599 to the name of T.G.B. Dijkman.\n</div>\n\n<div style=\"margin-top:
+      5em;\">Payments DAF at Account\nNL90INGB0009475591\nStichting Aikikai Holland\nPostbus
+      128, 1000AC Amsterdam\n</div>\n"
     nl: "\n| | |\n|---|---|\n|Volwassenen|€ 47,50 per maand|\n| | |\n| | |\n| | |\n|
-      | |\n|Kinderen|€ 360,- per jaar|\n|\t|(€ 30,- per maand)|\n| | |\n| | |\n| |
-      |\n| | |\n|Peuters/ Kleuters|€ 40,-  per maand|\n| | |\n| | |\n| | |\n| | |\n|Dutch
-      Aikikai Foundation|€ 35,- per jaar volw|\n| |€ 15,- per jaar kinderen|\n| |
-      |\n| | |\n| | |\n| | |\n|Gebouw De Palm onderhoud|€ 20,- yearly|\n\n\n<div style=\"margin-top:
-      5em;\">Betalingen op rekeningnummer NL32INGB0751857599 ter attentie van T.G.B.
-      Dijkman.\n</div>\n\n<div style=\"margin-top: 5em;\">Betalingen DAF op rek \nNL90INGB0009475591\nStichting
+      | |\n|Jong Volwassenen|€ 35,- per maand|\n| | |\n| | |\n| | |\n| | |\n|Kinderen|€
+      360,- per jaar|\n|\t|(€ 30,- per maand)|\n| | |\n| | |\n| | |\n| | |\n|Peuters/
+      Kleuters|€ 40,-  per maand|\n| | |\n| | |\n| | |\n| | |\n|Dutch Aikikai Foundation|€
+      35,- per jaar volw|\n| |€ 15,- per jaar kinderen|\n| | |\n| | |\n| | |\n| |
+      |\n|Gebouw De Palm onderhoud|€ 20,- yearly|\n\n\n<div style=\"margin-top: 5em;\">Betalingen
+      op rekeningnummer NL32INGB0751857599 ter attentie van T.G.B. Dijkman.\n</div>\n\n<div
+      style=\"margin-top: 5em;\">Betalingen DAF op rek \nNL90INGB0009475591\nStichting
       Aikikai Holland\nPostbus 128, 1000AC Amsterdam\n</div>\n"
     link: ""
     class:
