@@ -1463,9 +1463,9 @@ pages:
     tile: 3,0,1,1
     img: ""
     en: |
-      <p>Small groups, individual attention and of course great fun.</p>
+      <p>You can meditate at home still together with a group of people</p>
     nl: |
-      <p>Kleine groepen, veel individuele aandacht en vooral heel veel plezier!</p>
+      <p>Je kan thuis mediteren, maar toch gezamenlijk in een groep</p>
     link: ""
     class:
     - center
