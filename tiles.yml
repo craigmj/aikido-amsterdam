@@ -1517,10 +1517,10 @@ pages:
   - alias: ""
     tile: 2,2,1,1
     img: ""
-    en: "<h1>Parent/kids classes from 6 years and up</h1> \n\n<br />\n\nAikido where
-      parents can participate with their children.\n  From 6 to 14 years\n  "
-    nl: "<h1>Ouders/kind lessen vanaf 6 jaar</h1> \n\n<br />\n\nAikido waarbij ouders
-      mogen deelnemen met hun kinderen.\n  Vanaf 6 tot 14 jaar\n  \n"
+    en: "<h1>Online</h1> \n\n<br />\n\nLog in: https://meet.jit.si/AikidoAmsterdam
+      en doe mee\n  "
+    nl: "<h1>Online</h1> \n\n<br />\n\nLog in via https://meet.jit.si/AikidoAmsterdam
+      en doe mee\n  \n"
     link: ""
     class:
     - blue
