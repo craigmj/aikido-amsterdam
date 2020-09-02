@@ -1517,9 +1517,9 @@ pages:
   - alias: ""
     tile: 2,2,1,1
     img: ""
-    en: "<h1>Online</h1> \n\n<br />\n\nLog in: https://meet.jit.si/AikidoAmsterdam
+    en: "<h1>Online Zazen</h1> \n\n<br />\n\nLog in: https://meet.jit.si/AikidoAmsterdam
       en doe mee\n  "
-    nl: "<h1>Online</h1> \n\n<br />\n\nLog in via https://meet.jit.si/AikidoAmsterdam
+    nl: "<h1>Online Zazen</h1> \n\n<br />\n\nLog in via https://meet.jit.si/AikidoAmsterdam
       en doe mee\n  \n"
     link: ""
     class:
