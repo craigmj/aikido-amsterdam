@@ -237,9 +237,9 @@ pages:
   - alias: ""
     tile: 0,2,1,1
     img: ""
-    en: Aikido
-    nl: Aikido
-    link: aikido
+    en: Zazen
+    nl: Zazen
+    link: zazen
     class: []
     member_name: ""
     member_age: ""
