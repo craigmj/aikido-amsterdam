@@ -878,7 +878,7 @@ pages:
   - alias: ""
     tile: 2,0,1,1
     img: ""
-    en: |
+    en: |-
       <h2>Tuesday Sporthal De Pijp</h2>
 
       ||||
@@ -887,7 +887,9 @@ pages:
       |17:15|-18:15|parent & children's|
       |
       Parent kids classes as from 7 years, parents can join the classes with their kids.
-    nl: |
+
+      Kids can also join without their parents.
+    nl: |-
       <h2>Dinsdag Sporthal De Pijp</h2>
 
       ||||
@@ -896,6 +898,8 @@ pages:
       |17:15|-18:15|ouder/ kind |
       |
       Ouder kind les vanaf 7 jaar, ouders kunnen samen trainen met hun kinderen.
+
+      Kinderen kunnen ook zonder hun ouders meedoen.
     link: ""
     class:
     - red
