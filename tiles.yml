@@ -844,7 +844,7 @@ pages:
   - alias: ""
     tile: 0,0,1,1
     img: ""
-    en: |2+
+    en: |2-
        <h2>Monday Palmstraat</h2>
 
       ||||
@@ -856,7 +856,8 @@ pages:
       |19:30|-20:30|adult beginners|
       |20:30|-21:30|adult all|
 
-    nl: |2+
+      Temporary children's lessons only on Friday at the Palmstraat
+    nl: |2
        <h2>Maandag Palmstraat</h2>
 
       ||||
@@ -868,7 +869,7 @@ pages:
       |19:30|-20:30|volw beginners|
       |20:30|-21:30|volw allen|
 
-
+      Tijdelijk kinder lessen alleen op vrijdag op de Palmstraat
     link: ""
     class:
     - darkgray
