@@ -2042,7 +2042,7 @@ pages:
     class:
     - white
     member_name: Rosa
-    member_age: "40"
+    member_age: "43"
   - alias: ""
     tile: 1,2,1,1
     img: /img/upload/180303-133655.jpeg
