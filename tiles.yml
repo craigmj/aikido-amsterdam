@@ -966,7 +966,7 @@ pages:
     tile: 3,1,1,1
     img: ""
     en: |2+
-       <h2>Saturday Weesperzijde 75</h2>
+       <h2>Saturday Dijksgracht 2</h2>
 
       ||||
       |---|---|---|
@@ -974,10 +974,10 @@ pages:
 
 
       Weapon class (Bokken) nearby Central Station (outside)
-      As from October Sportlocation Weesperzijde 75
+      Under the tracks next to "Hannekes Boom" & the Klimmuur.
 
-    nl: |+
-      <h2>Zaterdag Weesperzijde 75</h2>
+    nl: |
+      <h2>Zaterdag Dijksgracht 2</h2>
 
 
       ||||
@@ -987,8 +987,7 @@ pages:
 
 
       Wapenles (Bokken) vlakbij Centraal Station (buiten)
-      Vanaf oktober binnen in de sportzaal van de Weesperzijde 75
-
+      Onder het spoor vlakbij Hannekes Boom en de Klimmuur.
     link: ""
     class:
     - blue
