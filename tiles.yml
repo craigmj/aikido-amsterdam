@@ -1003,7 +1003,7 @@ pages:
   - alias: ""
     tile: 1,1,1,1
     img: ""
-    en: |+
+    en: |
       <h2>Friday Palmstraat </h2>
 
       ||||
@@ -1014,7 +1014,7 @@ pages:
       |17:00|-18:00|parent/ kids|
       |<p> <br >
 
-
+      Temporary children's lessons only outside, please contact us for detaild information
     nl: |+
       <h2>Vrijdag Palmstraat </h2>
 
