@@ -2291,14 +2291,16 @@ pages:
   - alias: ""
     tile: 1,1,1,1
     img: ""
-    en: "<h1> Inside classes in the dojo </h1>\n  <p>The lessons in the dojo start
-      again from Monday 10 August. We then start with teenager classes, beginners
-      and advanced. Maximum 10 people per lesson, all according to the applicable
-      rules.\n  \n  <br />\n\n\n\n"
-    nl: "<h1>Binnen lessen in de dojo</h1> \n  <p>De lessen in de dojo starten weer
-      vanaf maandag 10 augustus. We starten dan met teenager lessen binnen, beginners
-      en gevorderden. Maximaal 10 mensen per les, dit alles volgens de geldende regels.\n
-      \ \n  <br />\n\n"
+    en: |+
+      <h1> Inside classes in the dojo </h1>
+        <p>We hope that the classes in the dojo will start soon. We then start with teenager classes, beginners and advanced. Maximum 10 people per lesson, all according to the applicable rules.
+        <br />
+
+
+
+    nl: "<h1>Binnen lessen in de dojo</h1> \n  <p>We hopen dat de lessen in de dojo
+      snel beginnen. We beginnen dan met tienerlessen, beginners en gevorderden. Maximaal
+      10 personen per les, alles volgens de geldende regels.\n  \n  <br />\n\n"
     link: ""
     class:
     - red
