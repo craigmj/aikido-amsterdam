@@ -2227,12 +2227,14 @@ pages:
   - alias: ""
     tile: 0,0,1,1
     img: ""
-    en: "<h1> Outside weapon classes </h1>\n  <p> Throughout the summer we will continue
-      to provide weapon classes outside. On Thursday evening Jo and Saturday morning
-      Bokken class\n  \n  <br />\n\n\n"
-    nl: "<h1>Buiten wapen lessen</h1> \n  <p>De gehele zomer blijven wij buiten wapen
-      lessen verzorgen. Op donderdag avond Jo en zaterdag morgen Bokken les. \n  \n
-      \ <br />"
+    en: "<h1> Outside weapon classes </h1>\n  <p> At the moment we are not yet able
+      to provide lessons in the dojo. We hope that this will be possible for adults
+      again in the course of the summer. Until then we give outside weapons, Saturday
+      from 10:30- 12:00 and later on again on Thursday evening.\n  \n  <br />\n\n\n"
+    nl: "<h1>Buiten wapen lessen</h1> \n  <p>Op dit moment kunnen we nog geen lessen
+      in de dojo verzorgen. Wij hopen dat dit voor de volwassenen weer mogelijk is
+      in de loop van de zomer. Tot dan geven wij buiten wapen lessen, zaterdag van
+      10:30-12:00 en straks ook weer op donderdag avond.\n  <br />"
     link: ""
     class:
     - blue
