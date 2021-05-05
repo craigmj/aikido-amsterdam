@@ -1151,15 +1151,48 @@ pages:
   - alias: ""
     tile: 1,0,2,2
     img: ""
-    en: "\n| | |\n|---|---|\n|Adults|€  47,50 monthly|\n| | |\n| | |\n| | |\n| | |\n|Teenagers|€
-      35,- monthly|\n| | |\n| | |\n| | |\n| | |\n|Children|€ 360,- yearly|\n|\t|(€
-      30,- monthly)|\n| | |\n| | |\n| | |\n| | |\n|Toddlers/ Prescholers-|€ 40,-  monthly|\n|
-      | |\n| | |\n| | |\n| | |\n|Dutch Aikikai Foundation|€ 35,- yearly adults|\n|
-      |€ 15,- yearly kids|\n| | |\n| | |\n| | |\n| | |\n|Gebouw De Palm maintenance|€
-      20,- yearly|\n\n\n<div style=\"margin-top: 5em;\">Payments on accountnumber
-      NL32INGB0751857599 to the name of T.G.B. Dijkman.\n</div>\n\n<div style=\"margin-top:
-      5em;\">Payments DAF at Account\nNL90INGB0009475591\nStichting Aikikai Holland\nPostbus
-      128, 1000AC Amsterdam\n</div>\n"
+    en: |2
+
+      | | |
+      |---|---|
+      |Adults|€  47,50 monthly|
+      | | |
+      | | |
+      | | |
+      | | |
+      |Teenagers|€ 35,- monthly|
+      | | |
+      | | |
+      | | |
+      | | |
+      |Children|€ 360,- yearly, € 30,- monthly
+      | | |
+      | | |
+      | | |
+      | | |
+      |Toddlers/ Prescholers-|€ 40,-  monthly|
+      | | |
+      | | |
+      | | |
+      | | |
+      |Dutch Aikikai Foundation|€ 35,- yearly adults, € 15,- yearly kids|
+      | | |
+      | | |
+      | | |
+      | | |
+      Gebouw De Palm maintenance|€ 20,- yearly
+
+
+      Aangesloten bij Jeugdfonds Sport Amsterdam: Het Jeugdfonds Sport Amsterdam betaalt de contributie voor kinderen en jongeren uit gezinnen waar te weinig geld is om te sporten.
+
+      <div style="margin-top: 5em;">Payments on accountnumber NL32INGB0751857599 to the name of T.G.B. Dijkman.
+      </div>
+
+      <div style="margin-top: 5em;">Payments DAF at Account
+      NL90INGB0009475591
+      Stichting Aikikai Holland
+      Postbus 128, 1000AC Amsterdam
+      </div>
     nl: "\n| | |\n|---|---|\n|Volwassenen|€ 47,50 per maand|\n| | |\n| | |\n| | |\n|
       | |\n|Jong Volwassenen|€ 35,- per maand|\n| | |\n| | |\n| | |\n| | |\n|Kinderen|€
       360,- per jaar|\n|\t|(€ 30,- per maand)|\n| | |\n| | |\n| | |\n| | |\n|Peuters/
