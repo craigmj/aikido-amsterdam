@@ -895,7 +895,7 @@ pages:
   - alias: ""
     tile: 2,0,1,1
     img: ""
-    en: |-
+    en: |+
       <h2>Tuesday Sporthal De Pijp</h2>
 
       ||||
@@ -907,8 +907,7 @@ pages:
 
       Kids can also join without their parents.
 
-      Temporary children's lessons only outside, please contact us for detaild information
-    nl: |-
+    nl: |+
       <h2>Dinsdag Sporthal De Pijp</h2>
 
       ||||
@@ -920,7 +919,6 @@ pages:
 
       Kinderen kunnen ook zonder hun ouders meedoen.
 
-      Tijdelijk kinder lessen alleen buiten, neem contact op voor meer info.
     link: ""
     class:
     - red
