@@ -867,7 +867,7 @@ pages:
   - alias: ""
     tile: 0,0,1,1
     img: ""
-    en: |2-
+    en: |2+
        <h2>Monday Palmstraat</h2>
 
       ||||
@@ -877,10 +877,7 @@ pages:
       |19:30|-20:30|adult beginners|
       |20:30|-21:30|adult all|
 
-      Temporary children's lessons only outside, please contact us for detaild information
-
-      Due to Covid regulation no adult classes in the dojo ;-(
-    nl: |2
+    nl: |2+
        <h2>Maandag Palmstraat</h2>
 
       ||||
@@ -890,9 +887,6 @@ pages:
       |19:30|-20:30|volw beginners|
       |20:30|-21:30|volw allen|
 
-      Tijdelijk kinder lessen alleen buiten, neem contact op voor meer info.
-
-      Door de corona regels geen volwassenen lessen in de dojo.
     link: ""
     class:
     - darkgray
