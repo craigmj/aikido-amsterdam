@@ -1019,7 +1019,7 @@ pages:
   - alias: ""
     tile: 1,1,1,1
     img: ""
-    en: |
+    en: |+
       <h2>Friday Palmstraat </h2>
 
       ||||
@@ -1029,7 +1029,6 @@ pages:
       |15:45|-16:45|toddlers(4-6)|
       |17:00|-18:00|parent/ kids|
 
-      Temporary children's lessons only outside, please contact us for detaild information
     nl: |+
       <h2>Vrijdag Palmstraat </h2>
 
@@ -1040,7 +1039,6 @@ pages:
       |15:45|-16:45|peuters(4-6)|
       |17:00|-18:00|ouder/ kind|
 
-      Tijdelijk kinder lessen alleen buiten, neem contact op voor meer info.
 
 
 
