@@ -927,14 +927,14 @@ pages:
   - alias: ""
     tile: 3,0,1,1
     img: ""
-    en: |-
+    en: |+
       <h2>Wednesday Palmstraat</h2>
 
       ||||
       |---|---|---|
-      |07:00|07:45|zazen (online) |
-      |19:00|20:00|jo (wooden stick) |
-      |20:00|21:00|aikido all |
+      |07:00|-07:45|zazen (online) |
+      |19:00|-20:00|jo (wooden stick) |
+      |20:00|-21:00|aikido all |
 
       <p> <br >
 
@@ -942,11 +942,9 @@ pages:
 
       ||||
       |---|---|---|
-      |19:30|-21:00|adults & young adults |
+      |19:30|-21:00|adults & young adults aikido |
 
 
-      Weapon class (Jo) at the Flevopark
-      As from beginning of June
     nl: |-
       <h2>Woensdag</h2>
 
