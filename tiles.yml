@@ -872,8 +872,8 @@ pages:
       |---|---|---|
       |07:00|-07:45|zazen (online) |
       |18:30|-19:30|young adults|
-      |19:30|-20:30|adult beginners|
-      |20:30|-21:30|adult all|
+      |19:00|-20:00|adult beginners|
+      |20:00|-21:00|adult all|
 
     nl: |2+
        <h2>Maandag Palmstraat</h2>
@@ -882,8 +882,8 @@ pages:
       |---|---|---|
       |07:00|-07:45|zazen (online) |
       |18:30|-19:30|jong volwassenen|
-      |19:30|-20:30|volw beginners|
-      |20:30|-21:30|volw allen|
+      |19:00|-20:00|volw beginners|
+      |20:00|-21:00|volw allen|
 
     link: ""
     class:
@@ -925,7 +925,7 @@ pages:
   - alias: ""
     tile: 3,0,1,1
     img: ""
-    en: |+
+    en: |
       <h2>Wednesday Palmstraat</h2>
 
       ||||
@@ -938,11 +938,12 @@ pages:
 
       <h2>Thursday Palmstraat</h2>
 
+      <h2>Thursday Palmstraat</h2>
+
       ||||
       |---|---|---|
-      |19:30|-21:00|adults & young adults aikido all |
-
-
+      |19:30|-20:30|aikido beginners |
+      |20:30|-21:30|aikido all |
     nl: |-
       <h2>Woensdag</h2>
 
@@ -954,11 +955,12 @@ pages:
 
       <p> <br >
 
-      <h2>Thursday Palmstraat</h2>
+      <h2>Donderdag</h2>
 
       ||||
       |---|---|---|
-      |19:30|-21:00|volw & jong volw aikido allen |
+      |19:30|-20:30|aikido beginners |
+      |20:30|-21:30|aikido allen |
     link: ""
     class:
     - darkgray
