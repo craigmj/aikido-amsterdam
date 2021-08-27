@@ -865,11 +865,18 @@ pages:
   - alias: ""
     tile: 0,0,1,1
     img: ""
-    en: " <h2>Monday Palmstraat</h2>\n\n||||\n|---|---|---|\n|07:00|-07:45|zazen (online)
-      |\n|18:30|-19:30|young adults|\n|19:00|-20:00|adult beginners|\n|20:00|-21:00|adult
-      all|\n\nYoung adultsYoung adults can also take adult classes in consultation
-      with Tom can also \n\n"
-    nl: |2+
+    en: |2-
+       <h2>Monday Palmstraat</h2>
+
+      ||||
+      |---|---|---|
+      |07:00|-07:45|zazen (online) |
+      |18:30|-19:30|young adults|
+      |19:00|-20:00|adult beginners|
+      |20:00|-21:00|adult all|
+
+      Young adults can also take adult classes in consultation with Tom
+    nl: |2-
        <h2>Maandag Palmstraat</h2>
 
       ||||
@@ -879,6 +886,8 @@ pages:
       |19:00|-20:00|volw beginners|
       |20:00|-21:00|volw allen|
 
+
+      Jong volwassenen kunnen in overleg met Tom ook de volwassenen lessen volgen.
     link: ""
     class:
     - darkgray
