@@ -930,8 +930,10 @@ pages:
       |---|---|---|
       |11:00|-13:00|aikido all |
 
+      Classes once a month
 
-    nl: |+
+
+    nl: |
       <h2>Zondag Palmstraat</h2>
 
 
@@ -939,6 +941,7 @@ pages:
       |---|---|---|
       |11:00|-13:00|aikido allen |
 
+      Lessen 1x per maand
     link: ""
     class:
     - blue
